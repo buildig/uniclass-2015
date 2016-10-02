@@ -22,4 +22,4 @@ Zz CAD | [Uniclass2015_Zz.csv](Uniclass2015_Zz.csv) | 24 March 2016 - v1.0
 
 Source: https://toolkit.thenbs.com/articles/classification
 
-License (from thenbs.com site): `Creative Commons Attribution-Sharealike 3.0 Unported License and the GNU Free Documentation License (unversioned, with no invariant sections, front-cover texts, or back-cover texts)`.
+License (from thenbs.com site): _Creative Commons Attribution-Sharealike 3.0 Unported License and the GNU Free Documentation License (unversioned, with no invariant sections, front-cover texts, or back-cover texts)_.
