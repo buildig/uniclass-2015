@@ -20,6 +20,6 @@ SL Spaces/ locations | [Uniclass2015_SL.csv](Uniclass2015_SL.csv) | 24 March 201
 Ss Systems | [Uniclass2015_Ss.csv](Uniclass2015_Ss.csv) | 24 March 2016 - v1.3
 Zz CAD | [Uniclass2015_Zz.csv](Uniclass2015_Zz.csv) | 24 March 2016 - v1.0
 
-Source: https://toolkit.thenbs.com/articles/classification
+Publisher: [NBS](https://toolkit.thenbs.com/articles/classification)
 
-License (from thenbs.com site): _Creative Commons Attribution-Sharealike 3.0 Unported License and the GNU Free Documentation License (unversioned, with no invariant sections, front-cover texts, or back-cover texts)_.
+License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
