@@ -1,6 +1,6 @@
 # Uniclass 2015 classification in CSV format
 
-Uniclass 2015 is divided into a set of tables which can be used to categorise information for costing, briefing, CAD layering, etc. as well as when preparing specifications or other production documents.
+Uniclass2015 is a unified classification for the construction industry. Uniclass 2015 is divided into a set of tables which can be used to categorise information for costing, briefing, CAD layering, etc. as well as when preparing specifications or other production documents.
 
 These tables are also suitable for buildings and other assets in use, and maintaining asset management and facilities management information.
 
