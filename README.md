@@ -1,8 +1,10 @@
 # Uniclass 2015 classification in CSV format
 
-Uniclass 2015 is an unified classification for the UK industry covering all construction sectors. It contains consistent tables classifying items of all scale from a facility such as a railway down through to products such as a CCTV camera in a railway station.
+Uniclass 2015 is divided into a set of tables which can be used to categorise information for costing, briefing, CAD layering, etc. as well as when preparing specifications or other production documents.
 
-We converted Uniclass 2015 classification tables into CSV format and [packaged as a versioned snapshot](https://github.com/buildig/uniclass-2015/releases) for easier usage in a software development process.
+These tables are also suitable for buildings and other assets in use, and maintaining asset management and facilities management information.
+
+[Buildig](http://buildig.com/) converted Uniclass 2015 classification tables into CSV format and [packaged as a versioned snapshot](https://github.com/buildig/uniclass-2015/releases) for easier usage in a software development process.
 
 ## Tables
 
