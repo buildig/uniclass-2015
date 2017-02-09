@@ -10,7 +10,7 @@ These tables are also suitable for buildings and other assets in use, and mainta
 
 Table name | Filename | Date - Version
 --- | --- | ---
-Ac Activities | [Uniclass2015_Ac.csv](Uniclass2015_Ac.csv) | 24 March 2016 - v1.0
+Ac Activities | [Uniclass2015_Ac.csv](Uniclass2015_Ac.csv) | 25 January 2017 - v1.2
 CA Construction Aids | [Uniclass2015_CA.csv](Uniclass2015_CA.csv) | 24 March 2016 - v0.1
 Co Complexes | [Uniclass2015_Co.csv](Uniclass2015_Co.csv) | 24 March 2016 - v1.0
 EF Elements/ functions | [Uniclass2015_EF.csv](Uniclass2015_EF.csv) | 24 March 2016 - v1.1
