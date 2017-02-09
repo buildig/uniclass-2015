@@ -13,7 +13,7 @@ Table name | Filename | Date - Version
 Ac Activities | [Uniclass2015_Ac.csv](Uniclass2015_Ac.csv) | 25 January 2017 - v1.2
 CA Construction Aids | [Uniclass2015_CA.csv](Uniclass2015_CA.csv) | 24 March 2016 - v0.1
 Co Complexes | [Uniclass2015_Co.csv](Uniclass2015_Co.csv) | 25 January 2017 - v1.2
-EF Elements/ functions | [Uniclass2015_EF.csv](Uniclass2015_EF.csv) | 24 March 2016 - v1.1
+EF Elements/ functions | [Uniclass2015_EF.csv](Uniclass2015_EF.csv) | 25 January 2017 - v1.2
 En Entities | [Uniclass2015_En.csv](Uniclass2015_En.csv) | 24 March 2016 - v1.0
 FI Form of Information | [Uniclass2015_FI.csv](Uniclass2015_FI.csv) | 24 March 2016 - v0.1
 PM Project Management | [Uniclass2015_PM.csv](Uniclass2015_PM.csv) | 08 July 2016 - v0.1
