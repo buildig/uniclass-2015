@@ -20,7 +20,7 @@ Pr Products | [Uniclass2015_Pr.csv](Uniclass2015_Pr.csv) | 25 January 2017 - v1.
 SL Spaces/ locations | [Uniclass2015_SL.csv](Uniclass2015_SL.csv) | 25 January 2017 - v1.3
 Ss Systems | [Uniclass2015_Ss.csv](Uniclass2015_Ss.csv) | 25 January 2017 - v1.5
 TE Tools and Equipment | [Uniclass2015_TE.csv](Uniclass2015_TE.csv) | 25 January 2017 - v1.0
-Zz CAD | [Uniclass2015_Zz.csv](Uniclass2015_Zz.csv) | 24 March 2016 - v1.0
+Zz CAD | [Uniclass2015_Zz.csv](Uniclass2015_Zz.csv) | 25 January 2017 - v1.0
 
 Publisher: [NBS](https://toolkit.thenbs.com/articles/classification)
 
