@@ -18,7 +18,7 @@ En Entities | [Uniclass2015_En.csv](Uniclass2015_En.csv) | 25 January 2017 - v1.
 FI Form of Information | [Uniclass2015_FI.csv](Uniclass2015_FI.csv) | 25 January 2017 - v0.1
 PM Project Management | [Uniclass2015_PM.csv](Uniclass2015_PM.csv) | 25 January 2017 - v0.1
 Pr Products | [Uniclass2015_Pr.csv](Uniclass2015_Pr.csv) | 25 January 2017 - v1.5
-SL Spaces/ locations | [Uniclass2015_SL.csv](Uniclass2015_SL.csv) | 24 March 2016 - v1.1
+SL Spaces/ locations | [Uniclass2015_SL.csv](Uniclass2015_SL.csv) | 25 January 2017 - v1.3
 Ss Systems | [Uniclass2015_Ss.csv](Uniclass2015_Ss.csv) | 24 March 2016 - v1.3
 Zz CAD | [Uniclass2015_Zz.csv](Uniclass2015_Zz.csv) | 24 March 2016 - v1.0
 
