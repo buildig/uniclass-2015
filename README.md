@@ -10,17 +10,17 @@ These tables are also suitable for buildings and other assets in use, and mainta
 
 Table name | Filename | Date - Version
 --- | --- | ---
-Ac Activities | [Uniclass2015_Ac.csv](Uniclass2015_Ac.csv) | 24 March 2016 - v1.0
-CA Construction Aids | [Uniclass2015_CA.csv](Uniclass2015_CA.csv) | 24 March 2016 - v0.1
-Co Complexes | [Uniclass2015_Co.csv](Uniclass2015_Co.csv) | 24 March 2016 - v1.0
-EF Elements/ functions | [Uniclass2015_EF.csv](Uniclass2015_EF.csv) | 24 March 2016 - v1.1
-En Entities | [Uniclass2015_En.csv](Uniclass2015_En.csv) | 24 March 2016 - v1.0
-FI Form of Information | [Uniclass2015_FI.csv](Uniclass2015_FI.csv) | 24 March 2016 - v0.1
-PM Project Management | [Uniclass2015_PM.csv](Uniclass2015_PM.csv) | 08 July 2016 - v0.1
-Pr Products | [Uniclass2015_Pr.csv](Uniclass2015_Pr.csv) | 24 March 2016 - v1.3
-SL Spaces/ locations | [Uniclass2015_SL.csv](Uniclass2015_SL.csv) | 24 March 2016 - v1.1
-Ss Systems | [Uniclass2015_Ss.csv](Uniclass2015_Ss.csv) | 24 March 2016 - v1.3
-Zz CAD | [Uniclass2015_Zz.csv](Uniclass2015_Zz.csv) | 24 March 2016 - v1.0
+Ac Activities | [Uniclass2015_Ac.csv](Uniclass2015_Ac.csv) | 25 January 2017 - v1.2
+Co Complexes | [Uniclass2015_Co.csv](Uniclass2015_Co.csv) | 25 January 2017 - v1.2
+EF Elements/ functions | [Uniclass2015_EF.csv](Uniclass2015_EF.csv) | 25 January 2017 - v1.2
+En Entities | [Uniclass2015_En.csv](Uniclass2015_En.csv) | 25 January 2017 - v1.3
+FI Form of Information | [Uniclass2015_FI.csv](Uniclass2015_FI.csv) | 25 January 2017 - v0.1
+PM Project Management | [Uniclass2015_PM.csv](Uniclass2015_PM.csv) | 25 January 2017 - v0.1
+Pr Products | [Uniclass2015_Pr.csv](Uniclass2015_Pr.csv) | 25 January 2017 - v1.5
+SL Spaces/ locations | [Uniclass2015_SL.csv](Uniclass2015_SL.csv) | 25 January 2017 - v1.3
+Ss Systems | [Uniclass2015_Ss.csv](Uniclass2015_Ss.csv) | 25 January 2017 - v1.5
+TE Tools and Equipment | [Uniclass2015_TE.csv](Uniclass2015_TE.csv) | 25 January 2017 - v1.0
+Zz CAD | [Uniclass2015_Zz.csv](Uniclass2015_Zz.csv) | 25 January 2017 - v1.0
 
 Publisher: [NBS](https://toolkit.thenbs.com/articles/classification)
 

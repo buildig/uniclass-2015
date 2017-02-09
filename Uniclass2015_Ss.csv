@@ -9,7 +9,7 @@ Ss_15_10_30_31,15,10,30,31,Earthworks filling systems behind retaining walls,10-
 Ss_15_10_30_65,15,10,30,65,Puddled clay lining systems,10-35-35/160 Puddled clay lining systems;,"8.6.2 Ancillary drainage systems; 8.6.4 Land drainage; 8.5.2 Ornamental features (default); 8.6.3 External chemical, toxic and industrial liquid waste drainage;"
 Ss_15_10_30_90,15,10,30,90,Topsoil filling systems,10-35-35/185 Topsoil filling system;,4.1.7 Internal planting; 8.3.2 External planting (default);
 Ss_15_10_33,15,10,33,,Ground gas disposal systems,,
-Ss_15_10_33_34,15,10,33,34,Ground gas collection and venting systems,,
+Ss_15_10_33_34,15,10,33,34,Ground gas collection and venting systems,10-60-35/130 Ground gas collection and venting system;,0.4.3 Ground gas venting measures (default);
 Ss_15_10_35,15,10,35,,Ground remediation systems,,
 Ss_15_10_35_07,15,10,35,07,Bioremediation systems,,
 Ss_15_10_45,15,10,45,,Landfill systems,,
@@ -17,7 +17,7 @@ Ss_15_10_76,15,10,76,,Site waste disposal systems,,
 Ss_15_10_76_21,15,10,76,21,Dewatering systems,,
 Ss_15_10_78,15,10,78,,Slurry wall systems,,
 Ss_15_10_80,15,10,80,,Stabilization systems,,
-Ss_15_10_80_33,15,10,80,33,Erosion control systems,,
+Ss_15_10_80_33,15,10,80,33,Erosion control systems,10-35-35/135 Erosion control system;,0.4.2 Soil stabilisation measures (default); 8.3.1 Seeding and turfing;
 Ss_15_10_80_70,15,10,80,70,Rock bolting and dowelling systems,10-35-80/120 Rock bolting system;,
 Ss_15_10_80_80,15,10,80,80,Soil nailing systems,10-35-85/110 Soil nailing system;,0.4.2 Soil stabilisation measures (default);
 Ss_15_10_80_85,15,10,80,85,Subterranean void filling systems,,
@@ -39,7 +39,7 @@ Ss_15_30_17_85,15,30,17,85,Sprayed concrete repair systems,10-70-20/140 Sprayed 
 Ss_15_30_32,15,30,32,,Fungus and beetle eradication systems,,
 Ss_15_30_32_05,15,30,32,05,Beetle eradication systems,10-70-30/120 Treatment systems for beetle infected timber;,7.3.2 Fungus/beetle eradication (default);
 Ss_15_30_32_15,15,30,32,15,Combined fungus and beetle treatment systems,10-70-30/130 Treatment systems for combined fungus and beetle infected timber;,7.3.2 Fungus/beetle eradication (default);
-Ss_15_30_32_35,15,30,32,35,Hot air treatment systems,10-70-30/735 Hot air treatment;,
+Ss_15_30_32_35,15,30,32,35,Hot air infestation treatment systems,10-70-30/735 Hot air treatment;,
 Ss_15_30_32_50,15,30,32,50,Masonry fungus treatment systems,10-70-30/140 Treatment systems for fungus infected masonry;,7.3.2 Fungus/beetle eradication (default);
 Ss_15_30_32_90,15,30,32,90,Timber fungus treatment systems,10-70-30/150 Treatment systems for fungus infected timber;,7.3.2 Fungus/beetle eradication (default);
 Ss_15_30_33,15,30,33,,Glass repair and renovation systems,,
@@ -107,31 +107,31 @@ Ss_20_05_15_70,20,05,15,70,Reinforced concrete pad and strip foundation systems,
 Ss_20_05_15_71,20,05,15,71,Reinforced concrete pilecap and ground beam foundation systems,15-05-15/120 In situ reinforced concrete pilecap and ground beam foundation system;,1.1.1 Standard foundations (default);
 Ss_20_05_15_72,20,05,15,72,Reinforced concrete raft foundation systems,15-05-15/130 In situ reinforced concrete raft foundation system;,1.1.3 Lowest floor construction (default);
 Ss_20_05_15_80,20,05,15,80,Steel ground beam foundation systems,15-05-15/170 Steel ground beam foundation system;,1.1.1 Standard foundations (default);
-Ss_20_05_15_90,20,05,15,90,Unreinforced concrete foundation system for cast in products,15-05-15/135 In situ unreinforced concrete foundation system for cast in products;,1.1.1 Standard foundations (default);
+Ss_20_05_15_90,20,05,15,90,Unreinforced concrete foundation systems for cast in products,15-05-15/135 In situ unreinforced concrete foundation system for cast in products;,1.1.1 Standard foundations (default);
 Ss_20_05_15_91,20,05,15,91,Unreinforced concrete pad and strip foundation systems,15-05-15/140 In situ unreinforced concrete pad and strip foundation system;,1.1.1 Standard foundations (default);
 Ss_20_05_15_92,20,05,15,92,Unreinforced concrete trench fill foundation systems,15-05-15/150 In situ unreinforced concrete trench fill foundation system;,1.1.1 Standard foundations (default);
 Ss_20_05_50,20,05,50,,Minor concrete substructure systems,,
 Ss_20_05_50_15,20,05,50,15,Concrete haunching systems,,
-Ss_20_05_50_65,20,05,50,65,Precast concrete foundation and plinth system,15-05-50/140 Precast concrete foundation and plinth system;,1.1.1 Standard foundations (default);
+Ss_20_05_50_65,20,05,50,65,Precast concrete foundation and plinth systems,15-05-50/140 Precast concrete foundation and plinth system;,1.1.1 Standard foundations (default);
 Ss_20_05_50_70,20,05,50,70,Reinforced concrete base or foundation systems,15-05-50/110 In situ reinforced concrete foundation and plinth system;,1.1.1 Standard foundations (default);
 Ss_20_05_50_92,20,05,50,92,Unreinforced concrete foundation with cast in products systems,15-05-50/120 In situ unreinforced concrete foundation system for cast in products;,1.1.1 Standard foundations (default);
 Ss_20_05_50_93,20,05,50,93,Unreinforced concrete foundation and plinth systems,15-05-50/130 In situ unreinforced concrete foundation and plinth system;,1.1.1 Standard foundations (default);
 Ss_20_05_65,20,05,65,,Piling systems,15-05-65/190 Piling system;,1.1.2 Specialist foundations (default);
-Ss_20_05_65_24,20,05,65,24,Driven precast or prestressed concrete piling system,15-05-65/155 Driven precast or prestressed concrete piling system;,1.1.2 Specialist foundations (default);
-Ss_20_05_65_40,20,05,65,40,In situ concrete augered piling system,15-05-65/110 In situ concrete augered piling system;,1.1.2 Specialist foundations (default);
-Ss_20_05_65_41,20,05,65,41,In situ concrete bored piling system,15-05-65/120 In situ concrete bored piling system;,1.1.2 Specialist foundations (default);
-Ss_20_05_65_42,20,05,65,42,In situ concrete cased displacement piling system,15-05-65/130 In situ concrete cased displacement piling system;,1.1.2 Specialist foundations (default);
-Ss_20_05_65_43,20,05,65,43,In situ concrete displacement piling system,15-05-65/140 In situ concrete displacement piling system;,1.1.2 Specialist foundations (default);
-Ss_20_05_65_44,20,05,65,44,In situ concrete mini-piling or micro-piling system,15-05-65/185 In situ concrete mini-piling or micro-piling system;,1.1.2 Specialist foundations (default);
+Ss_20_05_65_24,20,05,65,24,Driven precast or prestressed concrete piling systems,15-05-65/155 Driven precast or prestressed concrete piling system;,1.1.2 Specialist foundations (default);
+Ss_20_05_65_40,20,05,65,40,In situ concrete augered piling systems,15-05-65/110 In situ concrete augered piling system;,1.1.2 Specialist foundations (default);
+Ss_20_05_65_41,20,05,65,41,In situ concrete bored piling systems,15-05-65/120 In situ concrete bored piling system;,1.1.2 Specialist foundations (default);
+Ss_20_05_65_42,20,05,65,42,In situ concrete cased displacement piling systems,15-05-65/130 In situ concrete cased displacement piling system;,1.1.2 Specialist foundations (default);
+Ss_20_05_65_43,20,05,65,43,In situ concrete displacement piling systems,15-05-65/140 In situ concrete displacement piling system;,1.1.2 Specialist foundations (default);
+Ss_20_05_65_44,20,05,65,44,In situ concrete mini-piling or micro-piling systems,15-05-65/185 In situ concrete mini-piling or micro-piling system;,1.1.2 Specialist foundations (default);
 Ss_20_05_65_64,20,05,65,64,Plunge column piling systems,15-05-65/150 Plunge column piling system;,1.1.2 Specialist foundations (default);
 Ss_20_05_65_76,20,05,65,76,Screw piling systems,15-05-65/180 Screw piling system;,1.1.2 Specialist foundations (default);
 Ss_20_05_65_84,20,05,65,84,Steel bearing pile systems,15-05-65/160 Steel bearing pile system;,1.1.2 Specialist foundations (default);
-Ss_20_05_65_89,20,05,65,89,Timber piling system,15-05-65/170 Timber piling system;,1.1.2 Specialist foundations (default);
+Ss_20_05_65_89,20,05,65,89,Timber piling systems,15-05-65/170 Timber piling system;,1.1.2 Specialist foundations (default);
 Ss_20_05_90,20,05,90,,Underpinning systems,,
 Ss_20_05_90_10,20,05,90,10,Beam and pier unreinforced concrete underpinning systems,15-05-90/110 Beam and pier underpinning system;,8.8.3 Underpinning to external site boundary walls; 1.1.2 Specialist foundations (default);
 Ss_20_05_90_35,20,05,90,35,Grouted underpinning systems,15-05-90/120 Grouted underpinning system;,8.8.3 Underpinning to external site boundary walls; 1.1.2 Specialist foundations (default);
 Ss_20_05_90_45,20,05,90,45,Jacked pile underpinning systems,15-05-90/130 Jacked pile underpinning system;,8.8.3 Underpinning to external site boundary walls; 1.1.2 Specialist foundations (default);
-Ss_20_05_90_46,20,05,90,46,Jet grouted underpinning system,15-05-90/125 Jet grouted underpinning system;,8.8.3 Underpinning to external site boundary walls; 1.1.2 Specialist foundations (default);
+Ss_20_05_90_46,20,05,90,46,Jet grouted underpinning systems,15-05-90/125 Jet grouted underpinning system;,8.8.3 Underpinning to external site boundary walls; 1.1.2 Specialist foundations (default);
 Ss_20_05_90_50,20,05,90,50,Mass concrete underpinning systems,15-05-90/140 Mass concrete underpinning system;,8.8.3 Underpinning to external site boundary walls; 1.1.2 Specialist foundations (default);
 Ss_20_05_90_60,20,05,90,60,Pile and cantilever support underpinning systems,15-05-90/150 Pile and cantilever support underpinning system;,8.8.3 Underpinning to external site boundary walls; 1.1.2 Specialist foundations (default);
 Ss_20_05_90_61,20,05,90,61,Pile and needle underpinning systems,15-05-90/160 Pile and needle underpinning system;,8.8.3 Underpinning to external site boundary walls; 1.1.2 Specialist foundations (default);
@@ -144,9 +144,9 @@ Ss_20_10_60_34,20,10,60,34,Glazed structural systems,15-75-65/130 Glazed structu
 Ss_20_10_60_60,20,10,60,60,Panelled and framed structural systems,15-75-65/110 Panelled or framed structures;,
 Ss_20_10_60_84,20,10,60,84,Structural insulated panel systems,15-75-65/120 Structural insulated panels;,
 Ss_20_10_65,20,10,65,,Prefabricated room systems,,
-Ss_20_10_65_15,20,10,65,15,Composite pod,15-75-65/130 Glazed structures;,
-Ss_20_10_65_17,20,10,65,17,Concrete pod,15-75-65/110 Panelled or framed structures;,
-Ss_20_10_65_65,20,10,65,65,Polypropylene pod,15-75-65/120 Structural insulated panels;,
+Ss_20_10_65_15,20,10,65,15,Composite pods,15-75-65/130 Glazed structures;,
+Ss_20_10_65_17,20,10,65,17,Concrete pods,15-75-65/110 Panelled or framed structures;,
+Ss_20_10_65_65,20,10,65,65,Polypropylene pods,15-75-65/120 Structural insulated panels;,
 Ss_20_10_70,20,10,70,,Shelter systems,,
 Ss_20_10_70_03,20,10,70,03,Animal shelter systems,35-70-75/105 Animal shelter system;,6.1.1 Complete buildings (default); 6.1.2 Building units;
 Ss_20_10_70_62,20,10,70,62,People shelter systems,35-70-75/155 People shelter system;,6.1.1 Complete buildings; 8.5.1 Site/street furniture and equipment (default);
@@ -167,6 +167,7 @@ Ss_20_20_75_85,20,20,75,85,Timber beam systems,,
 Ss_20_30,20,30,,,Structural columns,,
 Ss_20_30_75,20,30,75,,Structural column systems,,
 Ss_20_30_75_15,20,30,75,15,Concrete column systems,,
+Ss_20_30_75_50,20,30,75,50,Masonry column systems,,
 Ss_20_30_75_80,20,30,75,80,Steel column systems,,
 Ss_20_30_75_85,20,30,75,85,Timber column systems,,
 Ss_20_40,20,40,,,Structural sheet and cable systems,,
@@ -177,13 +178,13 @@ Ss_20_40_10,20,40,10,,Building cable systems,,
 Ss_20_50,20,50,,,Bridge abutments and piers systems,,
 Ss_20_50_10,20,50,10,,Abutment systems,,
 Ss_20_50_10_10,20,50,10,10,Bank seat abutments,,
-Ss_20_50_10_30,20,50,10,30,Embedded retaining wall bridge abutment,,
-Ss_20_50_10_40,20,50,10,40,Integral abutment,,
-Ss_20_50_10_50,20,50,10,50,Masonry bridge abutment,,
-Ss_20_50_10_70,20,50,10,70,Reinforced concrete bridge abutment,,
-Ss_20_50_10_80,20,50,10,80,Sheet piled bridge abutment,,
-Ss_20_50_10_85,20,50,10,85,Spill through abutments,,
-Ss_20_50_10_90,20,50,10,90,Tied embedded retaining wall bridge abutment,,
+Ss_20_50_10_30,20,50,10,30,Embedded retaining wall bridge abutments,,
+Ss_20_50_10_40,20,50,10,40,Integral abutments,,
+Ss_20_50_10_50,20,50,10,50,Masonry bridge abutments,,
+Ss_20_50_10_70,20,50,10,70,Reinforced concrete bridge abutments,,
+Ss_20_50_10_80,20,50,10,80,Sheet piled bridge abutments,,
+Ss_20_50_10_85,20,50,10,85,Spill-through abutments,,
+Ss_20_50_10_90,20,50,10,90,Tied embedded retaining wall bridge abutments,,
 Ss_20_50_10_95,20,50,10,95,Wing wall systems,,
 Ss_20_50_20,20,50,20,,Bridge pier systems,,
 Ss_20_50_20_50,20,50,20,50,Masonry bridge piers,,
@@ -195,25 +196,25 @@ Ss_20_50_30_80,20,50,30,80,Spandrel wall systems,,
 Ss_20_60,20,60,,,Retaining wall systems,,
 Ss_20_60_30,20,60,30,,Embedded retaining wall systems,,
 Ss_20_60_30_03,20,60,30,03,Anchored steel sheet pile embedded retaining wall systems,,
-Ss_20_60_30_15,20,60,30,15,Contiguous bored pile embedded retaining wall systems,,
-Ss_20_60_30_45,20,60,30,45,King post (bored) embedded retaining wall systems,,
-Ss_20_60_30_46,20,60,30,46,King post (driven) embedded retaining wall systems,,
-Ss_20_60_30_70,20,60,30,70,Reinforced concrete diaphragm retaining wall systems,,
-Ss_20_60_30_80,20,60,30,80,Secant pile embedded retaining wall systems,,
-Ss_20_60_30_83,20,60,30,83,Slurry diaphragm embedded retaining wall systems,,
-Ss_20_60_30_85,20,60,30,85,Steel sheet pile embedded retaining wall systems,,
-Ss_20_60_30_92,20,60,30,92,Unreinforced concrete diaphragm retaining wall systems,,
+Ss_20_60_30_08,20,60,30,08,Bored king post embedded retaining wall systems,10-35-30/110 Bored king post retaining wall system;,1.1.5 Basement retaining walls; 8.4.3 Retaining walls (default);
+Ss_20_60_30_15,20,60,30,15,Contiguous bored pile embedded retaining wall systems,10-35-30/115 Contiguous pile retaining wall system;,1.1.5 Basement retaining walls (default); 8.4.3 Retaining walls;
+Ss_20_60_30_24,20,60,30,24,Driven king post embedded retaining wall systems,10-35-30/120 Driven king post retaining wall system;,1.1.5 Basement retaining walls; 8.4.3 Retaining walls (default);
+Ss_20_60_30_70,20,60,30,70,Reinforced concrete diaphragm retaining wall systems,10-35-30/125 In situ reinforced concrete diaphragm retaining wall system;,1.1.5 Basement retaining walls (default); 8.4.3 Retaining walls;
+Ss_20_60_30_80,20,60,30,80,Secant pile embedded retaining wall systems,10-35-30/135 Secant pile retaining wall system;,1.1.5 Basement retaining walls (default); 8.4.3 Retaining walls;
+Ss_20_60_30_83,20,60,30,83,Slurry diaphragm embedded retaining wall systems,10-35-30/140 Slurry diaphragm retaining wall system;,1.1.5 Basement retaining walls (default);
+Ss_20_60_30_85,20,60,30,85,Steel sheet pile embedded retaining wall systems,10-35-30/150 Sheet pile retaining wall system;,
+Ss_20_60_30_92,20,60,30,92,Unreinforced concrete diaphragm retaining wall systems,10-35-30/130 In situ unreinforced concrete diaphragm retaining wall system;,1.1.5 Basement retaining walls (default); 8.4.3 Retaining walls;
 Ss_20_60_35,20,60,35,,Gravity retaining wall systems,,
-Ss_20_60_35_10,20,60,35,10,Caged rock unit (gabion) retaining wall systems,,
-Ss_20_60_35_13,20,60,35,13,Concrete bagwork retaining wall systems,,
-Ss_20_60_35_15,20,60,35,15,Crib retaining wall systems,,
-Ss_20_60_35_25,20,60,35,25,Drystack masonry unit retaining wall systems,,
-Ss_20_60_35_50,20,60,35,50,Masonry retaining wall systems,,
-Ss_20_60_35_66,20,60,35,66,Precast concrete stem wall retaining wall systems,,
-Ss_20_60_35_70,20,60,35,70,Reinforced concrete retaining wall systems,,
-Ss_20_60_35_72,20,60,35,72,Reinforced earth retaining wall systems,,
-Ss_20_60_35_90,20,60,35,90,Timber retaining wall systems,,
-Ss_20_60_35_91,20,60,35,91,Tyre bale retaining wall system,,
+Ss_20_60_35_10,20,60,35,10,Caged rock unit (gabion) retaining wall systems,10-35-40/110 Caged fill retaining wall system;,8.4.3 Retaining walls (default);
+Ss_20_60_35_13,20,60,35,13,Concrete bagwork retaining wall systems,10-35-40/115 Concrete bagwork retaining wall system;,
+Ss_20_60_35_15,20,60,35,15,Crib retaining wall systems,10-35-40/120 Crib retaining wall system;,8.4.3 Retaining walls (default);
+Ss_20_60_35_25,20,60,35,25,Drystack masonry unit retaining wall systems,10-35-40/130 Drystack masonry unit retaining wall system;,8.4.3 Retaining walls (default);
+Ss_20_60_35_50,20,60,35,50,Masonry retaining wall systems,10-35-40/150 Masonry retaining wall system;,1.1.5 Basement retaining walls (default); 8.4.3 Retaining walls;
+Ss_20_60_35_66,20,60,35,66,Precast concrete stem wall retaining wall systems,10-35-40/160 Precast reinforced concrete stem wall retaining wall system;,8.4.3 Retaining walls (default);
+Ss_20_60_35_70,20,60,35,70,Reinforced concrete retaining wall systems,10-35-40/140 In situ reinforced concrete retaining wall system;,1.1.5 Basement retaining walls (default); 8.4.3 Retaining walls;
+Ss_20_60_35_72,20,60,35,72,Reinforced earth retaining wall systems,10-35-40/170 Reinforced earth retaining wall system;,8.4.3 Retaining walls;
+Ss_20_60_35_90,20,60,35,90,Timber retaining wall systems,10-35-40/180 Timber retaining wall system;,8.4.3 Retaining walls (default);
+Ss_20_60_35_91,20,60,35,91,Tyre bale retaining wall systems,10-35-40/190 Tyre bale retaining wall system;,8.4.3 Retaining walls (default);
 Ss_20_70,20,70,,,Structure covering and finishing systems,,
 Ss_20_70_15,20,70,15,,Concrete protection systems,,
 Ss_20_70_65,20,70,65,,Protective painting systems,,
@@ -241,13 +242,15 @@ Ss_25_11,25,11,,,Monolithic wall structure systems,,
 Ss_25_11_13,25,11,13,,Cob wall systems,,
 Ss_25_11_15,25,11,15,,Concrete form masonry unit wall systems,,
 Ss_25_11_16,25,11,16,,Concrete wall systems,,
-Ss_25_11_16_65,25,11,16,65,Precast concrete wall system,25-15-35/160 Precast concrete wall system;,"2.5.2 External enclosing walls below ground level; 2.7.1 Walls and partitions (default); 2.5.1 External enclosing walls above ground level (default); 2.7.2 Balustrades and handrails; 2.5.5 Subsidiary walls, balustrades and proprietary balconies;"
-Ss_25_11_16_70,25,11,16,70,Reinforced concrete wall structure system,25-15-35/140 In situ reinforced concrete wall structure system;,"2.5.2 External enclosing walls below ground level; 2.7.1 Walls and partitions; 1.1.5 Basement retaining walls; 2.5.1 External enclosing walls above ground level (default); 2.7.2 Balustrades and handrails; 2.5.5 Subsidiary walls, balustrades and proprietary balconies;"
-Ss_25_11_16_80,25,11,16,80,Sprayed concrete wall structure system,25-15-35/175 Sprayed concrete wall structure system;,"2.5.2 External enclosing walls below ground level; 2.7.1 Walls and partitions; 2.5.1 External enclosing walls above ground level (default); 2.7.2 Balustrades and handrails; 2.5.5 Subsidiary walls, balustrades and proprietary balconies;"
+Ss_25_11_16_65,25,11,16,65,Precast concrete wall systems,25-15-35/160 Precast concrete wall system;,"2.5.2 External enclosing walls below ground level; 2.7.1 Walls and partitions (default); 2.5.1 External enclosing walls above ground level (default); 2.7.2 Balustrades and handrails; 2.5.5 Subsidiary walls, balustrades and proprietary balconies;"
+Ss_25_11_16_70,25,11,16,70,Reinforced concrete wall structure systems,25-15-35/140 In situ reinforced concrete wall structure system;,"2.5.2 External enclosing walls below ground level; 2.7.1 Walls and partitions; 1.1.5 Basement retaining walls; 2.5.1 External enclosing walls above ground level (default); 2.7.2 Balustrades and handrails; 2.5.5 Subsidiary walls, balustrades and proprietary balconies;"
+Ss_25_11_16_80,25,11,16,80,Sprayed concrete wall structure systems,25-15-35/175 Sprayed concrete wall structure system;,"2.5.2 External enclosing walls below ground level; 2.7.1 Walls and partitions; 2.5.1 External enclosing walls above ground level (default); 2.7.2 Balustrades and handrails; 2.5.5 Subsidiary walls, balustrades and proprietary balconies;"
 Ss_25_11_70,25,11,70,,Rammed earth wall systems,,
 Ss_25_11_70_55,25,11,70,55,Non-stabilized rammed earth plinth systems,25-00-70/150 Non-stabilized rammed earth wall system;,"2.5.2 External enclosing walls below ground level; 2.5.1 External enclosing walls above ground level (default); 2.5.5 Subsidiary walls, balustrades and proprietary balconies;"
 Ss_25_11_70_83,25,11,70,83,Stabilized rammed earth plinth systems,,
 Ss_25_11_70_85,25,11,70,85,Stabilized rammed earth wall systems,25-00-70/180 Stabilized rammed earth wall system;,"2.5.2 External enclosing walls below ground level; 2.5.1 External enclosing walls above ground level (default); 2.5.5 Subsidiary walls, balustrades and proprietary balconies;"
+Ss_25_11_90,25,11,90,,Timber wall systems,,
+Ss_25_11_90_96,25,11,90,96,Wood log wall systems,,
 Ss_25_12,25,12,,,Panel wall structure systems,,
 Ss_25_12_10,25,12,10,,Brick panel wall systems,,
 Ss_25_12_15,25,12,15,,Concrete panel wall systems,,
@@ -268,6 +271,8 @@ Ss_25_12_80_65,25,12,80,65,Point-fixed structural glass wall systems,25-05-75/11
 Ss_25_12_80_83,25,12,80,83,Stacked structural glass wall systems,25-05-75/120 Stacked structural glass wall system;,2.7.1 Walls and partitions; 2.7.3 Moveable room dividers (default);
 Ss_25_12_80_85,25,12,80,85,Suspended structural glass wall systems,25-05-75/130 Suspended structural glass wall system;,"2.7.1 Walls and partitions; 2.5.3 Solar/rain screening; 2.5.1 External enclosing walls above ground level (default); 2.5.5 Subsidiary walls, balustrades and proprietary balconies;"
 Ss_25_12_85,25,12,85,,Structural steel panel wall systems,,
+Ss_25_12_85_60,25,12,85,60,Prefabricated metal wall systems,,
+Ss_25_12_85_63,25,12,85,63,Profile metal sheet wall systems,,
 Ss_25_13,25,13,,,Unit wall structure systems,,
 Ss_25_13_05,25,13,05,,Adobe block wall systems,,
 Ss_25_13_24,25,13,24,,Dry stone wall systems,,
@@ -280,11 +285,11 @@ Ss_25_13_45,25,13,45,,Lead brick wall systems,,
 Ss_25_13_50,25,13,50,,Masonry wall systems,,
 Ss_25_13_50_11,25,13,50,11,Cavity wall insulation systems,10-70-50/110 Cavity wall insulation system;,2.5.2 External enclosing walls below ground level; 2.7.1 Walls and partitions; 2.5.1 External enclosing walls above ground level (default);
 Ss_25_13_50_49,25,13,50,49,Masonry exposed feature systems,25-10-55/185 Masonry exposed feature system;,"2.5.2 External enclosing walls below ground level; 8.4.2 Walls and screens; 2.7.1 Walls and partitions; 2.5.1 External enclosing walls above ground level (default); 2.5.5 Subsidiary walls, balustrades and proprietary balconies;"
-Ss_25_13_50_50,25,13,50,50,Masonry external wall external leaf system,25-10-55/150 Masonry external leaf system;,"2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls; 2.5.1 External enclosing walls above ground level (default); 2.5.5 Subsidiary walls, balustrades and proprietary balconies;"
-Ss_25_13_50_51,25,13,50,51,Masonry external wall internal leaf system,25-10-55/160 Masonry internal leaf system;,"2.5.2 External enclosing walls below ground level; 2.5.1 External enclosing walls above ground level (default); 2.5.5 Subsidiary walls, balustrades and proprietary balconies;"
-Ss_25_13_50_52,25,13,50,52,Masonry external wall single leaf system,,
-Ss_25_13_50_54,25,13,50,54,Masonry free-standing wall leaf system,25-10-55/170 Masonry freestanding wall leaf system;,"2.5.2 External enclosing walls below ground level; 8.4.2 Walls and screens; 2.5.1 External enclosing walls above ground level (default); 2.5.5 Subsidiary walls, balustrades and proprietary balconies;"
-Ss_25_13_50_56,25,13,50,56,Masonry internal partition system,25-10-55/165 Masonry internal partition system;,2.7.1 Walls and partitions (default); 2.7.2 Balustrades and handrails;
+Ss_25_13_50_50,25,13,50,50,Masonry external wall external leaf systems,25-10-55/150 Masonry external leaf system;,"2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls; 2.5.1 External enclosing walls above ground level (default); 2.5.5 Subsidiary walls, balustrades and proprietary balconies;"
+Ss_25_13_50_51,25,13,50,51,Masonry external wall internal leaf systems,25-10-55/160 Masonry internal leaf system;,"2.5.2 External enclosing walls below ground level; 2.5.1 External enclosing walls above ground level (default); 2.5.5 Subsidiary walls, balustrades and proprietary balconies;"
+Ss_25_13_50_52,25,13,50,52,Masonry external wall single leaf systems,,
+Ss_25_13_50_54,25,13,50,54,Masonry free-standing wall leaf systems,25-10-55/170 Masonry freestanding wall leaf system;,"2.5.2 External enclosing walls below ground level; 8.4.2 Walls and screens; 2.5.1 External enclosing walls above ground level (default); 2.5.5 Subsidiary walls, balustrades and proprietary balconies;"
+Ss_25_13_50_56,25,13,50,56,Masonry internal partition systems,25-10-55/165 Masonry internal partition system;,2.7.1 Walls and partitions (default); 2.7.2 Balustrades and handrails;
 Ss_25_13_70,25,13,70,,Reinforced masonry wall systems,,
 Ss_25_13_85,25,13,85,,Straw bale wall systems,,
 Ss_25_13_85_30,25,13,85,30,Framed straw bale wall systems,25-10-75/130 Framed straw bale wall systems;,"2.5.2 External enclosing walls below ground level; 2.7.1 Walls and partitions; 2.5.1 External enclosing walls above ground level (default); 2.5.5 Subsidiary walls, balustrades and proprietary balconies;"
@@ -310,20 +315,20 @@ Ss_25_14_63_85,25,14,63,85,Steel palisade panel fencing systems,25-20-30/159 Ste
 Ss_25_14_63_86,25,14,63,86,Steel vertical bar fencing systems,25-20-30/161 Steel vertical bar fencing system;,8.4.1 Fencing and railings (default); 8.4.4 Barriers and guardrails;
 Ss_25_14_63_95,25,14,63,95,Wood close boarded fencing systems,25-20-30/115 Wood close boarded fencing system;,8.4.1 Fencing and railings (default); 8.4.4 Barriers and guardrails;
 Ss_25_14_63_96,25,14,63,96,Wood palisade fencing systems,25-20-30/117 Wood palisade fencing system;,8.4.1 Fencing and railings (default); 8.4.4 Barriers and guardrails;
-Ss_25_14_63_97,25,14,63,97,Wooden post and rail fencing systems,25-20-30/109 Wooden post and rail fencing system;,8.4.1 Fencing and railings (default); 8.4.4 Barriers and guardrails;
+Ss_25_14_63_97,25,14,63,97,Wood post and rail fencing systems,25-20-30/109 Wooden post and rail fencing system;,8.4.1 Fencing and railings (default); 8.4.4 Barriers and guardrails;
 Ss_25_14_63_98,25,14,63,98,Wrought iron panel fencing systems,25-20-30/163 Wrought iron panel fencing system;,8.4.1 Fencing and railings (default); 8.4.4 Barriers and guardrails;
 Ss_25_14_67,25,14,67,,"Post, wire and mesh fence systems",,
 Ss_25_14_67_12,25,14,67,12,Chain link fencing systems,25-20-30/133 Chain link fencing system;,8.4.1 Fencing and railings (default); 8.4.4 Barriers and guardrails;
 Ss_25_14_67_14,25,14,67,14,Cleft chestnut pale fencing systems,25-20-30/135 Cleft chestnut pale fencing system;,8.4.1 Fencing and railings (default); 8.4.4 Barriers and guardrails;
 Ss_25_14_67_15,25,14,67,15,Continuous mesh fencing systems,25-20-30/137 Composite continuous mesh fencing system;,8.4.1 Fencing and railings (default); 8.4.4 Barriers and guardrails;
-Ss_25_14_67_24,25,14,67,24,Dropper pattern strained wire fencing system,25-20-30/123 Dropper pattern strained wire fencing system;,8.4.1 Fencing and railings (default); 8.4.4 Barriers and guardrails;
+Ss_25_14_67_24,25,14,67,24,Dropper pattern strained wire fencing systems,25-20-30/123 Dropper pattern strained wire fencing system;,8.4.1 Fencing and railings (default); 8.4.4 Barriers and guardrails;
 Ss_25_14_67_27,25,14,67,27,Electric fencing systems,25-20-30/125 Electric fencing system;,8.4.1 Fencing and railings (default); 8.4.4 Barriers and guardrails;
 Ss_25_14_67_28,25,14,67,28,Electric security fencing systems,25-20-30/127 Electric security fencing system;,8.4.1 Fencing and railings (default); 8.4.4 Barriers and guardrails;
-Ss_25_14_67_33,25,14,67,33,General pattern strained wire fencing system,25-20-30/129 General pattern strained wire fencing system;,8.4.1 Fencing and railings (default); 8.4.4 Barriers and guardrails;
-Ss_25_14_67_34,25,14,67,34,General pattern wire mesh fencing system,25-20-30/139 General pattern wire mesh fencing system;,8.4.1 Fencing and railings (default); 8.4.4 Barriers and guardrails;
+Ss_25_14_67_33,25,14,67,33,General pattern strained wire fencing systems,25-20-30/129 General pattern strained wire fencing system;,8.4.1 Fencing and railings (default); 8.4.4 Barriers and guardrails;
+Ss_25_14_67_34,25,14,67,34,General pattern wire mesh fencing systems,25-20-30/139 General pattern wire mesh fencing system;,8.4.1 Fencing and railings (default); 8.4.4 Barriers and guardrails;
 Ss_25_14_67_51,25,14,67,51,Metal mesh panel fencing systems,25-20-30/145 Metal mesh panel fencing system;,8.4.1 Fencing and railings (default); 8.4.4 Barriers and guardrails;
 Ss_25_14_67_70,25,14,67,70,Rope or chain fencing systems,25-20-30/131 Rope or chain fencing system;,8.4.1 Fencing and railings (default); 8.4.4 Barriers and guardrails;
-Ss_25_14_67_80,25,14,67,80,Spring steel and high tensile wire mesh fencing system,25-20-30/141 Spring steel and high tensile wire mesh fencing system;,8.4.1 Fencing and railings (default); 8.4.4 Barriers and guardrails;
+Ss_25_14_67_80,25,14,67,80,Spring steel and high tensile wire mesh fencing systems,25-20-30/141 Spring steel and high tensile wire mesh fencing system;,8.4.1 Fencing and railings (default); 8.4.4 Barriers and guardrails;
 Ss_25_14_67_97,25,14,67,97,Wire fencing systems,25-20-30/121 Composite wire fencing system;,8.4.1 Fencing and railings (default); 8.4.4 Barriers and guardrails;
 Ss_25_15,25,15,,,Fixed pedestrian barrier systems,,
 Ss_25_15_60,25,15,60,,Pedestrian safety barrier and guarding systems,,
@@ -344,7 +349,7 @@ Ss_25_15_60_57,25,15,60,57,Metal vertical bar pedestrian guard rail systems,25-2
 Ss_25_15_60_60,25,15,60,60,Pedestrian parapet systems,,
 Ss_25_15_60_65,25,15,60,65,Post and panel barrier systems,,
 Ss_25_15_60_66,25,15,60,66,Post and rail barrier systems,,
-Ss_25_15_60_67,25,15,60,67,Post and wire or rope barrier systems,,
+Ss_25_15_60_67,25,15,60,67,Post and rope barrier systems,,
 Ss_25_15_60_68,25,15,60,68,Post and wire barrier systems,25-25-60/170 Post and wire barrier system;,"8.4.4 Barriers and guardrails (default); 2.7.2 Balustrades and handrails; 2.5.5 Subsidiary walls, balustrades and proprietary balconies;"
 Ss_25_15_60_96,25,15,60,96,Wood post and panel barrier systems,25-25-60/180 Wood post and panel barrier system;,"8.4.4 Barriers and guardrails (default); 2.7.2 Balustrades and handrails; 2.5.5 Subsidiary walls, balustrades and proprietary balconies;"
 Ss_25_15_60_97,25,15,60,97,Wood post and rail barrier systems,25-25-60/185 Wood post and rail barrier system;,"8.4.4 Barriers and guardrails (default); 2.7.2 Balustrades and handrails; 2.5.5 Subsidiary walls, balustrades and proprietary balconies;"
@@ -368,7 +373,7 @@ Ss_25_16_80,25,16,80,,Sea wall systems,,
 Ss_25_16_94,25,16,94,,Vehicle restraint systems,,
 Ss_25_16_94_10,25,16,94,10,Bollard systems,25-20-85/110 Bollard system;,8.4.4 Barriers and guardrails; 8.5.1 Site/street furniture and equipment (default);
 Ss_25_16_94_14,25,16,94,14,Combined metal and concrete vehicle safety parapet systems,25-20-85/115 Combined metal and concrete vehicle containment parapet system;,8.4.1 Fencing and railings; 8.4.4 Barriers and guardrails (default);
-Ss_25_16_94_16,25,16,94,16,Concrete safety barrier (CSB) system,25-20-85/160 Precast concrete safety barrier system;,8.4.1 Fencing and railings; 8.4.4 Barriers and guardrails (default);
+Ss_25_16_94_16,25,16,94,16,Concrete safety barrier (CSB) systems,25-20-85/160 Precast concrete safety barrier system;,8.4.1 Fencing and railings; 8.4.4 Barriers and guardrails (default);
 Ss_25_16_94_44,25,16,94,44,Low-speed precast concrete safety parapet (PCONC) systems,25-20-85/165 Precast concrete vehicle containment parapet system;,8.4.4 Barriers and guardrails (default);
 Ss_25_16_94_46,25,16,94,46,Low-speed masonry safety parapet (PMAS) systems,,
 Ss_25_16_94_48,25,16,94,48,Low-speed metal vehicle safety parapet systems,25-20-85/145 Metal vehicle containment parapet system;,8.4.1 Fencing and railings; 8.4.4 Barriers and guardrails (default);
@@ -478,8 +483,8 @@ Ss_25_30_29_94,25,30,29,94,Vertical fire curtain systems,,
 Ss_25_30_29_95,25,30,29,95,Vertical smoke curtain systems,,
 Ss_25_30_95,25,30,95,,Window systems,,
 Ss_25_30_95_26,25,30,95,26,External window systems,25-50-95/125 External window system;,2.6.1 External windows (default);
-Ss_25_30_95_41,25,30,95,41,Internal window systems,25-50-95/140 Internal window system;,2.7.1 Walls and partitions (default);
-Ss_25_30_95_96,25,30,95,96,Window walling system,25-50-95/170 Window walling system;,2.7.1 Walls and partitions; 2.5.1 External enclosing walls above ground level (default);
+Ss_25_30_95_41,25,30,95,41,Internal window systems,,
+Ss_25_30_95_96,25,30,95,96,Window walling systems,25-50-95/170 Window walling system;,2.7.1 Walls and partitions; 2.5.1 External enclosing walls above ground level (default);
 Ss_25_32,25,32,,,Gate access systems,,
 Ss_25_32_35,25,32,35,,Gate systems,,
 Ss_25_32_35_05,25,32,35,05,Animal gate systems,25-60-35/125 Animal gate system;,8.4.1 Fencing and railings (default);
@@ -499,8 +504,8 @@ Ss_25_34_40,25,34,40,,Internal automated pedestrian barrier systems,,
 Ss_25_34_43,25,34,43,,Internal manual pedestrian barrier systems,,
 Ss_25_34_59,25,34,59,,Operable industrial safety barrier systems,,
 Ss_25_34_60,25,34,60,,Passport control automated e-gate systems,,
-Ss_25_34_60_26,25,34,60,26,e-passport gate system,75-60-60/110 e-Passport gate system;,
-Ss_25_34_60_60,25,34,60,60,Passport gate system,75-60-60/120 Passport gate system;,
+Ss_25_34_60_26,25,34,60,26,e-passport gate systems,75-60-60/110 e-Passport gate system;,
+Ss_25_34_60_60,25,34,60,60,Passport gate systems,75-60-60/120 Passport gate system;,
 Ss_25_34_70,25,34,70,,Railway platform automated barrier systems,,
 Ss_25_36,25,36,,,Operable traffic barrier systems,,
 Ss_25_36_24,25,36,24,,Dry dock automated gate systems,,
@@ -539,7 +544,7 @@ Ss_25_45_02_60,25,45,02,60,Parge coat systems,25-85-60/160 Parge coat system;,3.
 Ss_25_45_25,25,45,25,,Drapery systems,,
 Ss_25_45_70,25,45,70,,Render and roughcast coating systems,,
 Ss_25_45_70_55,25,45,70,55,Multicoat render systems,25-80-72/150 Multicoat render system;,2.5.1 External enclosing walls above ground level (default); 3.1.1 Wall finishes;
-Ss_25_45_70_60,25,45,70,60,Once coat render systems,25-80-72/160 One coat render system;,2.5.1 External enclosing walls above ground level (default); 3.1.1 Wall finishes;
+Ss_25_45_70_60,25,45,70,60,One coat render systems,25-80-72/160 One coat render system;,2.5.1 External enclosing walls above ground level (default); 3.1.1 Wall finishes;
 Ss_25_45_72,25,45,72,,Rendered insulation systems,,
 Ss_25_45_72_02,25,45,72,02,Adhesive fixed external wall insulation systems,25-80-79/110 Adhesive fixed external wall insulation system;,2.5.1 External enclosing walls above ground level (default);
 Ss_25_45_72_42,25,45,72,42,Insulated plinth systems,25-80-79/130 Insulated plinth system;,2.5.1 External enclosing walls above ground level (default);
@@ -553,7 +558,7 @@ Ss_25_45_86,25,45,86,,Suspended render systems,,
 Ss_25_45_88,25,45,88,,Tiling systems,,
 Ss_25_45_88_25,25,45,88,25,External wall tiling systems,25-85-97/125 External wall tiling system;,3.1.1 Wall finishes (default);
 Ss_25_45_88_40,25,45,88,40,Internal wall tiling systems,25-85-97/140 Internal wall tiling system;,3.1.1 Wall finishes (default);
-Ss_25_45_88_88,25,45,88,88,Terrazzo walling tiling systems,25-85-90/185 Terrazzo wall tiling system;,3.1.1 Wall finishes (default);
+Ss_25_45_88_88,25,45,88,88,Terrazzo wall tiling systems,25-85-90/185 Terrazzo wall tiling system;,3.1.1 Wall finishes (default);
 Ss_25_45_88_90,25,45,88,90,Tiling and mosaic mortar substrate systems,25-80-72/185 Tiling and mosaic mortar substrate system;,2.5.1 External enclosing walls above ground level (default); 3.1.1 Wall finishes;
 Ss_25_45_90,25,45,90,,Unit facing systems,,
 Ss_25_50,25,50,,,Wall mounted canopy and screen systems,,
@@ -612,6 +617,7 @@ Ss_30_10_30_25,30,10,30,25,Heavy steel roof framing systems,20-00-75/135 Heavy s
 Ss_30_10_30_30,30,10,30,30,Heavy steel roof space frame systems,20-00-75/137 Heavy steel space frame system;,2.1.1 Steel frames; 2.1.2 Space frames/decks (default);
 Ss_30_10_30_35,30,10,30,35,Heavy steel roof space truss systems,20-00-75/139 Heavy steel space truss system;,2.1.1 Steel frames (default); 2.1.2 Space frames/decks;
 Ss_30_10_30_45,30,10,30,45,Light steel roof framing systems,20-00-75/140 Light steel framed roof structure system;,2.1.1 Steel frames; 2.1.2 Space frames/decks (default);
+Ss_30_10_30_60,30,10,30,60,Precast concrete roof structure systems,20-00-75/145 Precast concrete roof structure system;,
 Ss_30_10_30_70,30,10,30,70,Reinforced concrete roof framing systems,,
 Ss_30_10_30_85,30,10,30,85,Timber roof framing systems,20-00-75/185 Timber framed roof structure system;,2.3.1 Roof structure (default);
 Ss_30_10_50,30,10,50,,Monolithic roof structure systems,,
@@ -653,12 +659,12 @@ Ss_30_14_02_41,30,14,02,41,Impact absorbing synthetic play and sport paving syst
 Ss_30_14_02_42,30,14,02,42,Impervious acrylic coated sports paving systems,20-15-35/154 Impervious acrylic coated paving system;,2.4.2 Stair/ramp finishes; 8.2.2 Special surfacings and pavings (default); 3.2.1 Finishes to floors; 2.3.2 Roof coverings;
 Ss_30_14_02_70,30,14,02,70,Resin-bonded aggregate paving systems,20-15-35/155 Resin-bonded aggregate paving system;,7.6.2 Concrete repairs; 2.4.2 Stair/ramp finishes; 8.2.2 Special surfacings and pavings (default); 3.2.1 Finishes to floors; 2.3.2 Roof coverings;
 Ss_30_14_02_71,30,14,02,71,Resin-bound aggregate light duty paving systems,20-15-35/160 Resin-bound aggregate light duty paving system;,7.6.2 Concrete repairs; 2.4.2 Stair/ramp finishes; 8.2.2 Special surfacings and pavings (default); 3.2.1 Finishes to floors; 2.3.2 Roof coverings;
-Ss_30_14_02_72,30,14,02,72,Resin-bound aggregate heavy duty paving systems,20-15-35/165 Resin-bound aggregate heavy duty paving system;,7.6.2 Concrete repairs; 2.4.2 Stair/ramp finishes; 8.2.2 Special surfacings and pavings (default); 3.2.1 Finishes to floors; 2.3.2 Roof coverings;
+Ss_30_14_02_72,30,14,02,72,Resin-bound aggregate heavy duty paving systems,,
 Ss_30_14_02_73,30,14,02,73,Resin-bound aggregate overlay systems,20-15-35/180 Resin-bound aggregate overlay system;,7.6.2 Concrete repairs; 2.4.2 Stair/ramp finishes; 8.2.2 Special surfacings and pavings (default); 3.2.1 Finishes to floors; 2.3.2 Roof coverings;
 Ss_30_14_02_74,30,14,02,74,Resin-bound stone aggregate sports paving systems,,
 Ss_30_14_02_85,30,14,02,85,Synthetic play surfacing systems,,
 Ss_30_14_05,30,14,05,,Asphalt road and paving systems,,
-Ss_30_14_05_05,30,14,05,05,Asphalt concrete light duty paving systems,20-15-05/105 Asphalt concrete light duty paving system;,"2.4.2 Stair/ramp finishes; 3.2.1 Finishes to floors; 2.3.2 Roof coverings; 8.2.1 Roads, paths and pavings (default);"
+Ss_30_14_05_05,30,14,05,05,Asphalt concrete light duty paving systems,,
 Ss_30_14_05_06,30,14,05,06,Asphalt concrete paving systems,20-15-05/110 Asphalt concrete paving system;,"2.4.2 Stair/ramp finishes; 3.2.1 Finishes to floors; 2.3.2 Roof coverings; 8.2.1 Roads, paths and pavings (default);"
 Ss_30_14_05_07,30,14,05,07,Asphalt concrete runway paving systems,,
 Ss_30_14_05_08,30,14,05,08,Asphalt concrete surface overlay systems,20-15-05/130 Existing pavement surface overlay system;,"2.4.2 Stair/ramp finishes; 3.2.1 Finishes to floors; 2.3.2 Roof coverings; 8.2.1 Roads, paths and pavings (default);"
@@ -685,10 +691,10 @@ Ss_30_14_80_40,30,14,80,40,Hard binding gravel paving systems,20-15-85/125 Hard 
 Ss_30_14_80_45,30,14,80,45,Loose laid aggregate paving systems,20-15-85/145 Loose laid aggregate paving system;,"8.2.1 Roads, paths and pavings (default);"
 Ss_30_14_80_47,30,14,80,47,Loose aggregate overlay systems,20-15-85/140 Loose aggregate overlay system;,"2.3.2 Roof coverings; 8.2.1 Roads, paths and pavings (default);"
 Ss_30_14_80_48,30,14,80,48,Loose gravel paving systems,20-15-85/145 Loose laid aggregate paving system;,"8.2.1 Roads, paths and pavings (default);"
-Ss_30_14_80_75,30,14,80,75,Sand play surfacing systems,20-15-85/165 Sand play surfacing system;,"8.2.1 Roads, paths and pavings (default);"
-Ss_30_14_80_80,30,14,80,80,Slurry surfacing overlay systems,20-15-35/185 Slurry surfacing overlay system;,7.6.2 Concrete repairs; 2.4.2 Stair/ramp finishes; 8.2.2 Special surfacings and pavings (default); 3.2.1 Finishes to floors; 2.3.2 Roof coverings;
+Ss_30_14_80_75,30,14,80,75,Sand play surfacing systems,,
+Ss_30_14_80_80,30,14,80,80,Slurry surfacing overlay systems,20-15-05/125 Slurry surfacing overlay system;,
 Ss_30_14_80_90,30,14,80,90,Unbound aggregate cycle paving systems,,
-Ss_30_14_80_95,30,14,80,95,Woodchip and stone trim trail paving systems,20-15-85/185 Woodchip and aggregate paving system;,"8.2.1 Roads, paths and pavings (default);"
+Ss_30_14_80_95,30,14,80,95,Woodchip and stone trim trail paving systems,,
 Ss_30_14_80_98,30,14,80,98,Woodchip and woodfibre surface paving systems,20-15-85/180 Woodchip or bark paving system;,8.2.2 Special surfacings and pavings (default);
 Ss_30_14_90,30,14,90,,Unit paving systems,,
 Ss_30_14_90_11,30,14,90,11,Cellular plastics grass-filled paving systems,20-15-90/155 Cellular grass-filled paving system;,"8.2.2 Special surfacings and pavings; 8.2.1 Roads, paths and pavings (default);"
@@ -700,7 +706,7 @@ Ss_30_14_90_36,30,14,90,36,Flag and slab unbound paving systems,20-15-90/135 Fla
 Ss_30_14_90_50,30,14,90,50,Mosaic paving systems,20-15-90/138 Mosaic paving system;,"2.4.2 Stair/ramp finishes; 3.2.1 Finishes to floors; 2.3.2 Roof coverings; 8.2.1 Roads, paths and pavings (default);"
 Ss_30_14_90_60,30,14,90,60,Permeable flag and slab paving systems,20-15-90/165 Permeable flag and slab paving system;,"8.2.1 Roads, paths and pavings (default);"
 Ss_30_14_90_62,30,14,90,62,Permeable small unit paving systems,20-15-90/170 Permeable small unit paving system;,"2.4.2 Stair/ramp finishes; 2.3.2 Roof coverings; 8.2.1 Roads, paths and pavings (default);"
-Ss_30_14_90_70,30,14,90,70,Rail track paving system,20-15-90/180 Rail track paving system;,
+Ss_30_14_90_70,30,14,90,70,Rail track paving systems,20-15-90/180 Rail track paving system;,
 Ss_30_14_90_75,30,14,90,75,Small unit bound paving systems,20-15-90/140 Small unit mortar-bedded paving system;,"2.4.2 Stair/ramp finishes; 2.3.2 Roof coverings; 8.2.1 Roads, paths and pavings (default);"
 Ss_30_14_90_80,30,14,90,80,Small unit paving overlay systems,20-15-90/145 Small unit paving overlay system;,"2.4.2 Stair/ramp finishes; 2.3.2 Roof coverings; 8.2.1 Roads, paths and pavings (default);"
 Ss_30_14_90_85,30,14,90,85,Small unit unbound paving systems,20-15-90/150 Small unit unbound paving system;,"2.4.2 Stair/ramp finishes; 2.3.2 Roof coverings; 8.2.1 Roads, paths and pavings (default);"
@@ -718,10 +724,10 @@ Ss_30_16_10_59,30,16,10,59,Orthotropic deck systems,20-20-10/110 Orthotropic dec
 Ss_30_16_10_65,30,16,10,65,Pre-stressed concrete beam deck systems,20-20-10/125 Pre-stressed concrete beam deck;,
 Ss_30_16_10_80,30,16,10,80,Solid steel slab systems,20-20-10/105 Solid steel slab;,
 Ss_30_16_30,30,16,30,,Bridge expansion joint systems,,
-Ss_30_16_30_04,30,16,30,04,Asphaltic plug joint system,20-20-30/110 Asphaltic plug joint system;,
-Ss_30_16_30_09,30,16,30,09,Buried expansion joint system,20-20-30/105 Buried expansion joint system;,
-Ss_30_16_30_56,30,16,30,56,Nosing expansion joint system with poured sealant,20-20-30/120 Nosing expansion joint system with poured sealant;,
-Ss_30_16_30_57,30,16,30,57,Nosing expansion joint system with preformed compression seal,20-20-30/125 Nosing expansion joint system with preformed compression seal;,
+Ss_30_16_30_04,30,16,30,04,Asphaltic plug joint systems,20-20-30/110 Asphaltic plug joint system;,
+Ss_30_16_30_09,30,16,30,09,Buried expansion joint systems,20-20-30/105 Buried expansion joint system;,
+Ss_30_16_30_56,30,16,30,56,Nosing expansion joint systems with poured sealants,20-20-30/120 Nosing expansion joint system with poured sealant;,
+Ss_30_16_30_57,30,16,30,57,Nosing expansion joint systems with preformed compression seals,20-20-30/125 Nosing expansion joint system with preformed compression seal;,
 Ss_30_20,30,20,,,Flooring and decking systems,,
 Ss_30_20_10,30,20,10,,Board floor systems,,
 Ss_30_20_10_10,30,20,10,10,Battened timber board floating floor systems,20-55-05/110 Battened timber board floating floor system;,2.4.1 Stair/ramp structures; 1.1.3 Lowest floor construction; 2.2.1 Floors (default);
@@ -769,7 +775,7 @@ Ss_30_30_73,30,30,73,,Roof ventilator systems,,
 Ss_30_30_73_60,30,30,73,60,Passive roof natural ventilator systems,20-25-75/165 Passive roof ventilator system;,"2.3.5 Rooflights, skylights and openings (default);"
 Ss_30_30_73_72,30,30,73,72,Roof smoke ventilator systems,,
 Ss_30_32,30,32,,,Floor opening systems,,
-Ss_30_32_15,30,32,15,,Concrete floor glazing systems,,
+Ss_30_32_15,30,32,15,,Floor glazing systems,,
 Ss_30_32_15_15,30,32,15,15,Concrete floor glazing systems,20-40-60/110 Cast in situ floor and roof glazing systems;,"2.3.1 Roof structure; 2.2.2 Balconies; 2.2.1 Floors; 2.3.5 Rooflights, skylights and openings (default);"
 Ss_30_32_15_64,30,32,15,64,Precast concrete lift-out access floor glazing systems,20-40-60/150 Precast lift-out access floor and roof glazing systems;,"2.3.1 Roof structure; 2.2.2 Balconies; 2.2.1 Floors; 2.3.5 Rooflights, skylights and openings (default);"
 Ss_30_32_15_65,30,32,15,65,Precast concrete floor glazing systems,20-40-60/140 Precast floor and roof glazing system;,"2.2.2 Balconies; 2.2.1 Floors; 2.3.5 Rooflights, skylights and openings (default);"
@@ -777,11 +783,11 @@ Ss_30_32_30,30,32,30,,Floor hatch systems,,
 Ss_30_34,30,34,,,Pavement opening systems,,
 Ss_30_34_03,30,34,03,,Animal grid systems,,
 Ss_30_34_03_11,30,34,03,11,Cattle grid systems,25-70-05/105 Animal grid system;,8.4.4 Barriers and guardrails (default);
-Ss_30_34_15,30,34,15,,Concrete pavement glazing systems,,
+Ss_30_34_15,30,34,15,,Pavement glazing systems,,
 Ss_30_34_15_15,30,34,15,15,Concrete pavement glazing systems,20-40-60/125 Cast in situ pavement glazing system;,"2.3.5 Rooflights, skylights and openings (default);"
 Ss_30_34_15_64,30,34,15,64,Precast concrete lift-out access pavement glazing systems,20-40-60/155 Precast lift-out access pavement glazing system;,"8.2.1 Roads, paths and pavings (default); 2.3.1 Roof structure; 2.2.2 Balconies; 2.2.1 Floors;"
 Ss_30_34_15_65,30,34,15,65,Precast concrete pavement glazing systems,20-40-60/165 Precast pavement glazing system;,"8.2.1 Roads, paths and pavings (default); 2.3.5 Rooflights, skylights and openings;"
-Ss_30_34_16,30,34,16,,Concrete pavement smoke venting systems,,
+Ss_30_34_16,30,34,16,,Pavement smoke venting systems,,
 Ss_30_34_16_15,30,34,16,15,Concrete pavement glazing smoke venting systems,20-40-60/115 Cast in situ glazed smoke venting system;,"8.2.1 Roads, paths and pavings (default); 2.3.1 Roof structure; 2.2.2 Balconies; 2.2.1 Floors;"
 Ss_30_34_16_16,30,34,16,16,Concrete pavement non-glazed smoke venting systems,20-40-60/120 Cast in situ non-glazed smoke venting system;,2.3.1 Roof structure; 2.2.2 Balconies; 2.2.1 Floors (default);
 Ss_30_34_16_64,30,34,16,64,Precast concrete pavement glazing smoke venting systems,20-40-60/145 Precast glazed smoke venting system;,"2.2.2 Balconies; 2.2.1 Floors; 2.3.5 Rooflights, skylights and openings (default);"
@@ -850,7 +856,7 @@ Ss_30_40_95_70,30,40,95,70,Reconstituted slate roofing systems,20-50-95/170 Reco
 Ss_30_40_95_74,30,40,95,74,Roofing edges and junction systems,20-50-95/199 Roofing edges and junctions systems;,
 Ss_30_40_95_95,30,40,95,95,Wood shake or shingle roofing systems,20-50-95/195 Wood shake or shingle roofing system;,2.3.2 Roof coverings (default);
 Ss_30_42,30,42,,,Floor covering and finishing systems,,
-Ss_30_42_10,30,42,10,,Calcium sulfate based screed systems,,
+Ss_30_42_10,30,42,10,,Calcium sulfate-based screed systems,,
 Ss_30_42_10_10,30,42,10,10,Bonded calcium sulfate-based screed systems,20-55-10/110 Bonded calcium sulfate-based screed system;,2.4.2 Stair/ramp finishes; 3.2.1 Finishes to floors (default);
 Ss_30_42_10_30,30,42,10,30,Floating calcium sulfate-based screed systems,20-55-10/130 Floating calcium sulfate-based screed system;,2.4.2 Stair/ramp finishes; 3.2.1 Finishes to floors (default);
 Ss_30_42_10_90,30,42,10,90,Unbonded calcium sulfate-based screed systems,20-55-10/190 Unbonded calcium sulfate-based screed system;,2.4.2 Stair/ramp finishes; 3.2.1 Finishes to floors (default);
@@ -875,7 +881,7 @@ Ss_30_42_54_75,30,42,54,75,Resin flooring systems,20-55-77/170 Resin flooring sy
 Ss_30_42_72,30,42,72,,Resilient and textile floor covering systems,,
 Ss_30_42_72_05,30,42,72,05,Adhesive-fixed rolled carpet systems,20-55-75/175 Rolled carpet system;,2.4.2 Stair/ramp finishes; 3.2.1 Finishes to floors (default);
 Ss_30_42_72_10,30,42,72,10,Carpet tile systems,20-55-75/110 Carpet tile system;,2.4.2 Stair/ramp finishes; 3.2.1 Finishes to floors (default);
-Ss_30_42_72_25,30,42,72,25,Edge-fixed carpeting systems,20-55-25/125 Edge-fixed carpeting system;,2.4.2 Stair/ramp finishes; 3.2.1 Finishes to floors (default);
+Ss_30_42_72_25,30,42,72,25,Edge-fixed carpet systems,20-55-25/125 Edge-fixed carpeting system;,2.4.2 Stair/ramp finishes; 3.2.1 Finishes to floors (default);
 Ss_30_42_72_72,30,42,72,72,Resilient sheet floor covering systems,20-55-75/165 Resilient sheet flooring system;,2.4.2 Stair/ramp finishes; 3.2.1 Finishes to floors (default);
 Ss_30_42_72_75,30,42,72,75,Resilient tile floor covering systems,20-55-75/170 Resilient tile flooring system;,2.4.2 Stair/ramp finishes; 3.2.1 Finishes to floors (default);
 Ss_30_42_90,30,42,90,,Terrazzo floor tiling and screed systems,,
@@ -894,7 +900,7 @@ Ss_30_60_50_99,30,60,50,99,Zinc roof flashing and weathering systems,30-85-50/16
 Ss_30_60_70,30,60,70,,Roof feature systems,,
 Ss_30_75,30,75,,,"Roof, floor and paving drainage systems",,
 Ss_30_75_40,30,75,40,,Kerb and channel systems,,
-Ss_30_75_40_30,30,75,40,30,Footway grating system,20-85-45/130 Footway grating system;,8.6.1 Surface water and foul water drainage (default); 2.2.3 Drainage to balconies; 2.3.4 Roof drainage;
+Ss_30_75_40_30,30,75,40,30,Footway grating systems,20-85-45/130 Footway grating system;,8.6.1 Surface water and foul water drainage (default); 2.2.3 Drainage to balconies; 2.3.4 Roof drainage;
 Ss_30_75_40_50,30,75,40,50,Multi unit surface drainage channel systems,20-85-45/150 Multi unit surface drainage channel system;,8.6.1 Surface water and foul water drainage (default); 2.2.3 Drainage to balconies; 2.3.4 Roof drainage;
 Ss_30_75_40_75,30,75,40,75,Single unit surface drainage channel systems,20-85-45/175 Single unit surface drainage channel system;,8.6.1 Surface water and foul water drainage (default); 2.2.3 Drainage to balconies; 2.3.4 Roof drainage;
 Ss_30_75_45,30,75,45,,Kerb and traffic separation systems,,
@@ -961,11 +967,11 @@ Ss_32_80_03_14,32,80,03,14,Cold-applied liquid external tanking systems,30-70-90
 Ss_32_80_03_16,32,80,03,16,Cold-applied liquid sandwiched tanking systems,30-70-90/120 Cold-applied liquid sandwiched tanking system;,2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls; 7.3.1 Damp-proof courses; 1.1.1 Standard foundations; 1.1.3 Lowest floor construction (default);
 Ss_32_80_03_18,32,80,03,18,Crystallization-active cementitious mortar dry shake tanking systems,30-70-90/125 Crystallization-active cementitious mortar dry shake tanking system;,2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls; 7.3.1 Damp-proof courses; 1.1.1 Standard foundations; 1.1.3 Lowest floor construction (default);
 Ss_32_80_03_20,32,80,03,20,Crystallization-active cementitious mortar slurry tanking systems,30-70-90/130 Crystallization-active cementitious mortar slurry tanking system;,2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls; 7.3.1 Damp-proof courses; 1.1.1 Standard foundations; 1.1.3 Lowest floor construction (default);
-Ss_32_80_03_40,32,80,03,40,Interstitial grouting systems,,
+Ss_32_80_03_40,32,80,03,40,Interstitial grouting systems,30-70-30/110 Interstitial grouting system;,
 Ss_32_80_03_50,32,80,03,50,Mastic asphalt external tanking systems,30-70-90/155 Mastic asphalt external tanking system;,2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls; 7.3.1 Damp-proof courses; 1.1.1 Standard foundations; 1.1.3 Lowest floor construction (default);
 Ss_32_80_03_52,32,80,03,52,Mastic asphalt sandwiched tanking systems,30-70-90/160 Mastic asphalt sandwiched tanking system;,2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls; 7.3.1 Damp-proof courses; 1.1.1 Standard foundations; 1.1.3 Lowest floor construction (default);
 Ss_32_80_03_54,32,80,03,54,Mastic asphalt tank lining systems,30-70-90/165 Mastic asphalt tank lining system;,"8.6.2 Ancillary drainage systems; 5.14.1 Builder's work in connection with services; 5.3.2 Chemical, toxic and industrial liquid waste drainage; 8.5.2 Ornamental features; 1.1.3 Lowest floor construction (default); 2.2.1 Floors; 8.6.3 External chemical, toxic and industrial liquid waste drainage; 5.13.5 Water features;"
-Ss_32_80_03_90,32,80,03,90,Tunnel spray applied membrane systems,,
+Ss_32_80_03_90,32,80,03,90,Tunnel-spray applied membrane systems,,
 Ss_32_80_79,32,80,79,,Sheeted systems,,
 Ss_32_80_79_08,32,80,79,08,Bridge deck sheet systems,20-20-90/105 Sheet system;,
 Ss_32_80_79_30,32,80,79,30,Fully-bonded bitumen membrane external tanking systems,30-70-90/135 Fully-bonded bitumen membrane external tanking system;,2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls; 7.3.1 Damp-proof courses; 1.1.1 Standard foundations; 1.1.3 Lowest floor construction (default);
@@ -983,7 +989,7 @@ Ss_32_80_79_92,32,80,79,92,Unbonded flexible sheet membrane waterproofing system
 Ss_35,35,,,,Stair and ramp systems,,
 Ss_35_10,35,10,,,Stair and ramp structure systems,,
 Ss_35_10_25,35,10,25,,External stair and ramp systems,,
-Ss_35_10_25_34,35,10,25,34,Ground bearing external ramp systems,,
+Ss_35_10_25_34,35,10,25,34,Ground bearing external ramp systems,30-05-25/140 Ground bearing external ramp system;,
 Ss_35_10_25_35,35,10,25,35,Ground bearing external stair systems,30-05-25/135 Ground bearing external stair system;,2.5.6 Facade access/cleaning systems; 2.4.1 Stair/ramp structures (default);
 Ss_35_10_25_83,35,10,25,83,Suspended external ramp systems,,
 Ss_35_10_25_85,35,10,25,85,Suspended external stair systems,,
@@ -1026,20 +1032,20 @@ Ss_37_16_10,37,16,10,,Bund systems,,
 Ss_37_16_10_32,37,16,10,32,Fuel tank bund systems,,
 Ss_37_16_50,37,16,50,,Metal and plastics water retaining systems,,
 Ss_37_16_65,37,16,65,,Pond and wetland systems,,
-Ss_37_16_65_40,37,16,65,40,Informal pond system,30-60-60/130 Informal pond system;,8.3.3 Irrigation systems; 8.6.2 Ancillary drainage systems; 8.5.2 Ornamental features (default); 5.13.5 Water features;
+Ss_37_16_65_40,37,16,65,40,Informal pond systems,30-60-60/130 Informal pond system;,8.3.3 Irrigation systems; 8.6.2 Ancillary drainage systems; 8.5.2 Ornamental features (default); 5.13.5 Water features;
 Ss_37_16_65_70,37,16,65,70,Raised formal pond systems,30-60-60/170 Raised formal pond system;,8.3.3 Irrigation systems; 8.6.2 Ancillary drainage systems; 8.5.2 Ornamental features (default); 5.13.5 Water features;
 Ss_37_16_65_85,37,16,65,85,Submerged formal pond systems,30-60-60/175 Submerged formal pond system;,8.3.3 Irrigation systems; 8.6.2 Ancillary drainage systems; 8.5.2 Ornamental features (default); 5.13.5 Water features;
 Ss_37_16_65_95,37,16,65,95,Wetland systems,30-60-60/180 Wetland system;,8.3.3 Irrigation systems; 8.6.2 Ancillary drainage systems (default); 8.5.2 Ornamental features;
 Ss_37_16_75,37,16,75,,Silo systems,,
 Ss_37_16_90,37,16,90,,"Trench, pipeway and pit systems",,
 Ss_37_16_90_11,37,16,90,11,Cable protection systems,,
-Ss_37_16_90_28,37,16,90,28,External underground surface duct systems,30-15-85/120 External underground surface duct system;,8.7.11 Builder's work in connection with external services (default);
+Ss_37_16_90_28,37,16,90,28,External underground service duct systems,30-15-85/120 External underground surface duct system;,8.7.11 Builder's work in connection with external services (default);
 Ss_37_16_90_63,37,16,90,63,Pit systems,,
 Ss_37_16_95,37,16,95,,Watertight structural systems,,
 Ss_37_16_95_78,37,16,95,78,Sewage treatment vessel systems,,
 Ss_37_17,37,17,,,"Tower, chimney and mast systems",,
 Ss_37_17_13,37,17,13,,Chimney systems,,
-Ss_37_17_13_50,37,17,13,50,Masonry chimney stack systems,,
+Ss_37_17_13_50,37,17,13,50,Masonry chimney stack systems,25-10-55/180 Masonry chimney stack system;,2.7.1 Walls and partitions; 2.5.1 External enclosing walls above ground level (default); 5.5.1 Heat source; 2.3.1 Roof structure;
 Ss_37_17_35,37,17,35,,Gantry systems,,
 Ss_37_17_35_11,37,17,35,11,Cantilever gantry systems,,
 Ss_37_17_35_32,37,17,35,32,Full span gantry systems,,
@@ -1076,8 +1082,12 @@ Ss_40_10_25_25,40,10,25,25,Electrical external signage systems,35-80-25/130 Exte
 Ss_40_10_25_30,40,10,25,30,Fixed external signage systems,35-80-25/110 Fixed external signage system;,8.5.1 Site/street furniture and equipment (default);
 Ss_40_10_25_32,40,10,25,32,Free-standing external architectural signage systems,35-80-25/120 Free standing external signage system;,8.5.1 Site/street furniture and equipment (default);
 Ss_40_10_30,40,10,30,,Fire and safety signage systems,,
+Ss_40_10_30_20,40,10,30,20,Emergency do not enter signage systems,,
+Ss_40_10_30_25,40,10,30,25,Evacuation and safe condition sign systems,,
+Ss_40_10_30_27,40,10,30,27,Evacuation and safety way quidance systems,,
 Ss_40_10_30_30,40,10,30,30,Fire signage systems,,
 Ss_40_10_30_75,40,10,30,75,Safety signage systems,35-80-30/110 Safety signage system;,5.8.3 Lighting installations; 4.1.4 Signs/notices (default); 8.7.9 External street lighting systems; 8.5.1 Site/street furniture and equipment;
+Ss_40_10_30_95,40,10,30,95,Water safety sign systems,,
 Ss_40_10_40,40,10,40,,Internal architectural signage systems,,
 Ss_40_10_40_25,40,10,40,25,Electrical internal architectural signage systems,35-80-40/140 Internal electrical architectural signage system;,5.8.3 Lighting installations (default);
 Ss_40_10_40_30,40,10,40,30,Fixed internal architectural signage systems,35-80-40/110 Internal fixed architectural signage system;,4.1.4 Signs/notices (default);
@@ -1097,7 +1107,7 @@ Ss_40_15_35_35,40,15,35,35,General FF&E systems,"35-05-35/135 General fittings, 
 Ss_40_15_35_50,40,15,35,50,Minor joinery systems,35-05-50/150 Minor joinery system;,"4.1.1 General fittings, furnishings and equipment (default);"
 Ss_40_15_46,40,15,46,,Laundry FF&E systems,,
 Ss_40_15_46_15,40,15,46,15,Commercial laundry FF&E systems,"35-70-50/110 Laundry fittings, furnishings and equipment system;","4.1.3 Special purpose fittings, furnishings and equipment (default);"
-Ss_40_15_46_20,40,15,46,20,Domestic laundry FF&E,"35-70-50/110 Laundry fittings, furnishings and equipment system;","4.1.3 Special purpose fittings, furnishings and equipment (default);"
+Ss_40_15_46_20,40,15,46,20,Domestic laundry FF&E systems,"35-70-50/110 Laundry fittings, furnishings and equipment system;","4.1.3 Special purpose fittings, furnishings and equipment (default);"
 Ss_40_15_75,40,15,75,,Sanitary appliance systems,,
 Ss_40_15_75_05,40,15,75,05,Bath systems,35-70-70/110 Bath assembly;,5.1.1 Sanitary appliances (default);
 Ss_40_15_75_10,40,15,75,10,Bidet systems,35-70-70/112 Bidet assembly;,5.1.1 Sanitary appliances (default);
@@ -1147,7 +1157,7 @@ Ss_40_25_20,40,25,20,,Cultural FF&E systems,,
 Ss_40_25_20_02,40,25,20,02,Aquarium FF&E systems,,
 Ss_40_25_20_03,40,25,20,03,Art gallery FF&E systems,,
 Ss_40_25_20_04,40,25,20,04,Artwork systems,35-35-30/110 Artwork system;,8.5.2 Ornamental features (default);
-Ss_40_25_20_05,40,25,20,05,Auditoria FF&E systems,"35-15-05/105 Auditoria fittings, furnishings and equipment system;","4.1.1 General fittings, furnishings and equipment (default);"
+Ss_40_25_20_05,40,25,20,05,Auditorium FF&E systems,"35-15-05/105 Auditoria fittings, furnishings and equipment system;","4.1.1 General fittings, furnishings and equipment (default);"
 Ss_40_25_20_22,40,25,20,22,Display FF&E systems,,
 Ss_40_25_20_28,40,25,20,28,Exhibition FF&E systems,,
 Ss_40_25_20_85,40,25,20,85,Studio FF&E systems,,
@@ -1161,6 +1171,7 @@ Ss_40_25_71,40,25,71,,Religious FF&E systems,,
 Ss_40_25_71_11,40,25,71,11,"Cathedral, church and chapel FF&E systems",,
 Ss_40_25_71_52,40,25,71,52,Mosque FF&E systems,,
 Ss_40_25_71_86,40,25,71,86,Synagogue FF&E systems,,
+Ss_40_25_71_90,40,25,71,90,Temple FF&E systems,,
 Ss_40_25_75,40,25,75,,Scientific FF&E systems,,
 Ss_40_25_75_21,40,25,75,21,Dark room FF&E systems,,
 Ss_40_25_75_45,40,25,75,45,Laboratory FF&E systems,"35-15-45/145 Laboratory fittings, furnishings and equipment system;","4.1.3 Special purpose fittings, furnishings and equipment (default);"
@@ -1229,11 +1240,6 @@ Ss_40_70_75_85,40,70,75,85,Sports pitch FF&E systems,35-35-75/120 Pitch equipmen
 Ss_40_70_75_90,40,70,75,90,Trim trail FF&E systems,35-35-75/150 Trim trail equipment systems;,"4.1.3 Special purpose fittings, furnishings and equipment; 8.5.1 Site/street furniture and equipment (default);"
 Ss_40_70_80,40,70,80,,Stadium FF&E systems,,
 Ss_40_70_95,40,70,95,,"Wildlife, eco site and nature conservation FF&E systems",,
-Ss_40_70_95_03,40,70,95,03,Animal shelters,,
-Ss_40_70_95_06,40,70,95,06,Bat boxes,,
-Ss_40_70_95_08,40,70,95,08,Bird boxes,,
-Ss_40_70_95_22,40,70,95,22,Decoys,,
-Ss_40_70_95_70,40,70,95,70,Raptor poles,,
 Ss_40_85,40,85,,,Transport FF&E systems,,
 Ss_40_85_01,40,85,01,,Aerospace FF&E systems,,
 Ss_40_85_01_01,40,85,01,01,Aircraft fire training simulation systems,35-70-65/105 Aircraft fire training simulation system;,
@@ -1282,7 +1288,7 @@ Ss_45,45,,,,Flora and fauna systems,,
 Ss_45_05,45,05,,,Ecosystems,,
 Ss_45_10,45,10,,,Flora and fauna control systems,,
 Ss_45_10_10,45,10,10,,Bird and vermin control systems,,
-Ss_45_10_10_04,45,10,10,04,Animal control systems,,
+Ss_45_10_10_04,45,10,10,04,Animal control systems,35-70-10/130 Animal control system;,4.1.8 Bird and vermin control (default);
 Ss_45_10_10_10,45,10,10,10,Bird control systems,35-70-10/120 Bird control system;,4.1.8 Bird and vermin control (default);
 Ss_45_10_10_40,45,10,10,40,Insect control systems,35-70-10/140 Insect control system;,4.1.8 Bird and vermin control (default);
 Ss_45_10_10_72,45,10,10,72,Rodent control systems,35-70-10/150 Rodent control system;,4.1.8 Bird and vermin control (default);
@@ -1292,10 +1298,10 @@ Ss_45_10_40_50,45,10,40,50,Microbial control systems,,
 Ss_45_10_95,45,10,95,,Vegetation control systems,,
 Ss_45_10_95_50,45,10,95,50,"Moss, algae and lichen control systems",35-70-41/110 Control system for rooted plants on hard surfaces;,8.3.2 External planting (default);
 Ss_45_10_95_72,45,10,95,72,Rooted plants on hard surfaces control systems,35-70-41/115 Control system for self-clinging plants on hard surfaces;,4.1.7 Internal planting; 8.3.2 External planting (default);
-Ss_45_10_95_80,45,10,95,80,Selective vegetation control system,35-70-41/175 Selective vegetation control system;,8.3.2 External planting (default);
+Ss_45_10_95_80,45,10,95,80,Selective vegetation control systems,35-70-41/175 Selective vegetation control system;,8.3.2 External planting (default);
 Ss_45_10_95_81,45,10,95,81,Self-clinging plants on hard surfaces control systems,"35-70-41/145 Moss, algae and lichen control system;","7.5.1 Cleaning; 8.2.1 Roads, paths and pavings (default);"
-Ss_45_10_95_83,45,10,95,83,Site vegetation control system,35-70-41/180 Site vegetation control system;,0.1.3 Eradication of plant growth; 8.3.2 External planting (default);
-Ss_45_10_95_95,45,10,95,95,Waterborne vegetation control system,35-70-41/185 Waterborne vegetation control system;,0.1.3 Eradication of plant growth; 8.3.2 External planting (default);
+Ss_45_10_95_83,45,10,95,83,Site vegetation control systems,35-70-41/180 Site vegetation control system;,0.1.3 Eradication of plant growth; 8.3.2 External planting (default);
+Ss_45_10_95_95,45,10,95,95,Waterborne vegetation control systems,35-70-41/185 Waterborne vegetation control system;,0.1.3 Eradication of plant growth; 8.3.2 External planting (default);
 Ss_45_30,45,30,,,Aquatic flora systems,,
 Ss_45_30_05,45,30,05,,Aquatic and wetland planting systems,,
 Ss_45_30_05_05,45,30,05,05,Aquatic planting systems,40-30-00/105 Aquatic planting system;,4.1.7 Internal planting; 8.3.2 External planting (default);
@@ -1357,7 +1363,6 @@ Ss_45_60,45,60,,,Avian fauna systems,,
 Ss_45_65,45,65,,,Insectile fauna systems,,
 Ss_45_70,45,70,,,Mammalian fauna systems,,
 Ss_45_70_05,45,70,05,,Animal conservation systems,,
-Ss_45_70_05_25,45,70,05,25,Animal conservation assessment survey systems,40-10-06/105 Animal conservation assessment survey;,0.6.3 Other extraordinary site investigation works (default);
 Ss_45_70_05_27,45,70,05,27,Animal road crossing systems,,
 Ss_45_70_05_29,45,70,05,29,Animal species introduction systems,40-10-06/130 Animal species introduction system;,0.6.2 Reptile/wildlife mitigation measures (default);
 Ss_45_70_05_30,45,70,05,30,Animal species protection systems,40-10-06/150 Species protection system;,0.6.2 Reptile/wildlife mitigation measures (default);
@@ -1437,7 +1442,7 @@ Ss_50_70_05_20,50,70,05,20,Below-ground waste water drainage field systems,50-50
 Ss_50_70_05_22,50,70,05,22,Below-ground drainage packaged grease trap systems,50-50-05/150 Packaged grease trap system for below ground domestic wastewater drainage;,8.6.1 Surface water and foul water drainage (default);
 Ss_50_70_05_23,50,70,05,23,Below-ground drainage private packaged septic tank systems,50-50-05/160 Private packaged septic tank system for below ground domestic wastewater drainage;,8.6.2 Ancillary drainage systems (default);
 Ss_50_70_05_24,50,70,05,24,Below-ground drainage private packaged sewage treatment systems,50-50-05/165 Private packaged sewage treatment system for below ground domestic wastewater drainage;,8.6.2 Ancillary drainage systems (default);
-Ss_50_70_05_25,50,70,05,25,Below-ground drainage private packaged storage tank systems (cesspools),50-50-05/155 Private packaged domestic wastewater below ground storage tank system (cesspool);,8.6.2 Ancillary drainage systems (default);
+Ss_50_70_05_25,50,70,05,25,Below-ground drainage private packaged storage tank systems,50-50-05/155 Private packaged domestic wastewater below ground storage tank system (cesspool);,8.6.2 Ancillary drainage systems (default);
 Ss_50_70_05_79,50,70,05,79,Below-ground drainage concrete soakaway systems,50-50-05/130 Precast concrete soakaway system for below ground surface water drainage;,8.6.1 Surface water and foul water drainage (default);
 Ss_50_70_05_80,50,70,05,80,Below-ground drainage granular fill soakaway systems,50-50-05/120 Granular fill soakaway system for below ground surface water drainage;,8.6.1 Surface water and foul water drainage (default);
 Ss_50_70_05_81,50,70,05,81,Below-ground drainage modular plastics attenuation or storage tank systems,50-50-05/135 Modular plastics attenuation or storage tank system for below ground surface water drainage;,8.6.1 Surface water and foul water drainage (default);
@@ -1447,6 +1452,8 @@ Ss_50_70_05_84,50,70,05,84,Below-ground drainage packaged silt trap systems,50-5
 Ss_50_70_05_85,50,70,05,85,Below-ground drainage rigid attenuation or storage tank systems,50-50-05/140 Rigid attenuation or storage tank system for below ground surface water drainage;,8.6.1 Surface water and foul water drainage (default);
 Ss_50_70_05_86,50,70,05,86,Below-ground drainage wet well systems,50-50-05/115 Wet well system for below ground surface water drainage;,8.6.1 Surface water and foul water drainage (default);
 Ss_50_70_05_95,50,70,05,95,Below-ground drainage outfall systems,50-50-05/175 Drainage outfall system for below ground wastewater drainage;,8.6.1 Surface water and foul water drainage (default);
+Ss_50_70_60,50,70,60,,Private drainage treatment systems,,
+Ss_50_70_60_70,50,70,60,70,Radioactive wastewater treatment systems,,
 Ss_50_70_83,50,70,83,,Surface water tank systems,,
 Ss_50_70_85,50,70,85,,Sustainable drainage systems (SuDS),,
 Ss_50_70_85_00,50,70,85,00,SuDS management train systems,50-50-75/102 SuDS management train systems;,8.6.2 Ancillary drainage systems (default);
@@ -1614,6 +1621,8 @@ Ss_55_50,55,50,,,Liquid fuel distribution and supply systems,,
 Ss_55_50_46,55,50,46,,Liquid fuel distribution network systems,,
 Ss_55_50_46_58,55,50,46,58,Oil distribution network systems,,
 Ss_55_50_47,55,50,47,,Liquid fuel supply systems,,
+Ss_55_50_47_10,55,50,47,10,Biodiesel supply systems,,
+Ss_55_50_47_12,55,50,47,12,Bioethanol supply systems,55-45-50/120 Bioethanol supply system;,
 Ss_55_50_47_21,55,50,47,21,Diesel supply systems,55-45-20/120 Diesel supply system;,5.9.1 Fuel storage; 8.7.7 External fuel storage and piped distribution systems (default); 5.9.2 Fuel distribution systems;
 Ss_55_50_47_32,55,50,47,32,Fuel oil supply systems,55-45-30/110 Fuel oil supply system;,5.9.1 Fuel storage; 8.7.7 External fuel storage and piped distribution systems (default); 5.9.2 Fuel distribution systems;
 Ss_55_50_47_45,55,50,47,45,Kerosene/ jet fuel supply systems,,
@@ -1712,7 +1721,7 @@ Ss_65_40,65,40,,,Ventilation systems,,
 Ss_65_40_25,65,40,25,,Dust extract systems,,
 Ss_65_40_32,65,40,32,,Fume extract systems,,
 Ss_65_40_32_32,65,40,32,32,Fume cupboard extract systems,65-10-30/120 Fume cupboard extract system;,5.7.2 Local and special ventilation (default);
-Ss_65_40_32_70,65,40,32,70,Recirculatory fume cupboards systems,65-10-30/130 Recirculatory fume cupboards system;,5.7.2 Local and special ventilation (default);
+Ss_65_40_32_70,65,40,32,70,Recirculatory fume cupboard systems,65-10-30/130 Recirculatory fume cupboards system;,5.7.2 Local and special ventilation (default);
 Ss_65_40_32_75,65,40,32,75,Safety cabinet extract systems,65-10-30/110 Safety cabinet extract system;,5.7.2 Local and special ventilation (default);
 Ss_65_40_33,65,40,33,,General space ventilation systems,,
 Ss_65_40_33_45,65,40,33,45,Kitchen extract ventilation systems,65-10-95/160 Kitchen extract ventilation system;,5.7.2 Local and special ventilation (default);
@@ -1726,6 +1735,8 @@ Ss_65_40_33_90,65,40,33,90,Toilet extract ventilation systems,65-10-95/150 Toile
 Ss_65_40_42,65,40,42,,Industrial fume extract systems,,
 Ss_65_40_42_45,65,40,42,45,Local exhaust ventilation systems,65-40-45/130 Local exhaust ventilation system;,5.7.2 Local and special ventilation (default);
 Ss_65_40_42_95,65,40,42,95,Vehicle exhaust extract systems,65-40-45/110 Vehicle exhaust extract system;,5.7.2 Local and special ventilation (default);
+Ss_65_40_55,65,40,55,,Nuclear ventilation systems,,
+Ss_65_40_55_22,65,40,55,22,Decontamination areas ventilation systems,,
 Ss_65_40_80,65,40,80,,Smoke extract and control systems,,
 Ss_65_40_80_65,65,40,80,65,Pressure differential systems,65-10-75/120 Pressure differential system;,5.7.3 Smoke extract/control (default);
 Ss_65_40_80_80,65,40,80,80,Smoke and heat exhaust ventilation systems,65-10-75/110 Smoke and heat exhaust ventilation system;,5.7.3 Smoke extract/control (default);
@@ -1751,20 +1762,16 @@ Ss_70_10,70,10,,,Electrical power generation systems,,
 Ss_70_10_30,70,10,30,,Fossil fuel power generation systems,,
 Ss_70_10_30_33,70,10,30,33,Gas power generating systems,70-10-30/110 Gas power generating system;,
 Ss_70_10_30_70,70,10,30,70,Reciprocating internal combustion engine,70-65-35/110 Reciprocating internal combustion engine driven alternating current generator system;,5.8.5 Local electricity generation systems (default);
-Ss_70_10_32,70,10,32,,Geothermal power generation systems,,
-Ss_70_10_32_33,70,10,32,33,Geothermal power generation systems,,
-Ss_70_10_35,70,10,35,,Gravity power generation systems,,
-Ss_70_10_35_36,70,10,35,36,Hydroelectric power generation systems,70-10-40/110 Hydroelectric power generating system;,
-Ss_70_10_35_96,70,10,35,96,Water mill systems,,
-Ss_70_10_35_97,70,10,35,97,Water turbine systems,,
-Ss_70_10_80,70,10,80,,Solar power generation systems,,
-Ss_70_10_80_35,70,10,80,35,Grid-connected photovoltaic systems,70-65-60/110 Grid connected photovoltaic system;,5.8.5 Local electricity generation systems (default);
-Ss_70_10_80_85,70,10,80,85,Stand-alone photovoltaic systems,70-65-60/115 Stand-alone photovoltaic system;,5.8.5 Local electricity generation systems (default);
-Ss_70_10_96,70,10,96,,Wave and tidal power generation systems,,
-Ss_70_10_96_80,70,10,96,80,Small-scale wave and tidal power generation systems,70-65-85/110 Small scale wind generating system;,5.8.5 Local electricity generation systems (default);
-Ss_70_10_97,70,10,97,,Wind power generation systems,,
-Ss_70_10_97_80,70,10,97,80,Small-scale wind power generation systems,,
-Ss_70_10_97_97,70,10,97,97,Wind power generating systems,70-10-95/110 Wind power generating system;,
+Ss_70_10_70,70,10,70,,Renewable power generation systems,,
+Ss_70_10_70_33,70,10,70,33,Geothermal power generation systems,,
+Ss_70_10_70_35,70,10,70,35,Grid-connected photovoltaic systems,70-65-60/110 Grid connected photovoltaic system;,5.8.5 Local electricity generation systems (default);
+Ss_70_10_70_36,70,10,70,36,Hydroelectric power generation systems,70-10-40/110 Hydroelectric power generating system;,
+Ss_70_10_70_80,70,10,70,80,Small-scale wave and tidal power generation systems,,
+Ss_70_10_70_82,70,10,70,82,Small-scale wind power generation systems,70-65-85/110 Small scale wind generating system;,5.8.5 Local electricity generation systems (default);
+Ss_70_10_70_85,70,10,70,85,Stand-alone photovoltaic systems,70-65-60/115 Stand-alone photovoltaic system;,5.8.5 Local electricity generation systems (default);
+Ss_70_10_70_95,70,10,70,95,Water mill systems,,
+Ss_70_10_70_97,70,10,70,97,Water turbine systems,,
+Ss_70_10_70_98,70,10,70,98,Wind power generating systems,70-10-95/110 Wind power generating system;,
 Ss_70_30,70,30,,,Electricity distribution and transmission systems,,
 Ss_70_30_35,70,30,35,,High-voltage distribution and transmission systems,,
 Ss_70_30_35_35,70,30,35,35,High-voltage distribution systems,70-70-35/110 High voltage distribution system;,5.8.1 Electrical mains and sub-mains distribution (default);
@@ -1856,7 +1863,7 @@ Ss_75_50_26,75,50,26,,Debris detection systems,,
 Ss_75_50_26_30,75,50,26,30,Foreign object debris (FOD) detection systems,75-65-32/105 Foreign object debris detection system;,
 Ss_75_50_28,75,50,28,,Detection and alarm systems,,
 Ss_75_50_28_05,75,50,28,05,Aspirating detection systems,75-65-30/120 Aspirating detection system;,5.12.1 Communication systems (default);
-Ss_75_50_28_24,75,50,28,24,Duct smoke detector systems,,
+Ss_75_50_28_24,75,50,28,24,Duct smoke detector systems,75-65-30/130 Duct smoke detector system;,
 Ss_75_50_28_29,75,50,28,29,Fire detection and alarm systems,75-65-30/110 Fire detection and alarm system;,5.12.1 Communication systems (default);
 Ss_75_50_28_30,75,50,28,30,Fixed gas detection and alarm systems,75-65-35/110 Fixed gas detection and alarm system;,5.13.1 Specialist piped supply installations (default);
 Ss_75_50_28_32,75,50,28,32,Flow sample gas detection and alarm systems,75-65-35/120 Flow sample gas detection and alarm system;,5.13.1 Specialist piped supply installations (default);
@@ -1998,9 +2005,9 @@ Ss_80_50_94,80,50,94,,Vehicle and boat stacking systems,,
 Ss_80_50_96,80,50,96,,Warehouse stacking systems,,
 Ss_80_70,80,70,,,Track systems,,
 Ss_80_70_46,80,70,46,,Level crossing systems,,
-Ss_80_70_46_60,80,70,46,60,Pedestrian crossing systems,80-05-45/115 Pedestrian level crossing system;,
-Ss_80_70_46_93,80,70,46,93,User worked crossing systems,80-05-45/105 User worked level crossing system;,
-Ss_80_70_46_95,80,70,46,95,Vehicular crossing systems,80-05-45/110 Public vehicular level crossing system;,
+Ss_80_70_46_60,80,70,46,60,Pedestrian level crossing systems,80-05-45/115 Pedestrian level crossing system;,
+Ss_80_70_46_93,80,70,46,93,User worked level crossing systems,80-05-45/105 User worked level crossing system;,
+Ss_80_70_46_95,80,70,46,95,Vehicular level crossing systems,80-05-45/110 Public vehicular level crossing system;,
 Ss_80_70_50,80,70,50,,Monorail systems,,
 Ss_80_70_69,80,70,69,,Rail buffer systems,,
 Ss_80_70_69_30,80,70,69,30,Fixed buffer systems,80-05-75/110 Fixed buffer system;,
@@ -2037,7 +2044,7 @@ Ss_90_12,90,12,,,Hospitality demands,,
 Ss_90_13,90,13,,,Demand for information and communication,,
 Ss_90_14,90,14,,,Demand for logistics,,
 Ss_90_15,90,15,,,"Demand for integrated management, consultancy and administration",,
-Ss_90_20,90,20,,,"Specific demand of administrative, commercial and protective service",,
+Ss_90_20,90,20,,,"Specific demand of administrative, commercial and protective services",,
 Ss_90_25,90,25,,,"Specific demand of cultural, educational, scientific and information",,
 Ss_90_30,90,30,,,Specific demand of industrial organizations,,
 Ss_90_35,90,35,,,"Specific demand of medical, health, welfare and sanitary organizations",,
