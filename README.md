@@ -16,7 +16,7 @@ Co Complexes | [Uniclass2015_Co.csv](Uniclass2015_Co.csv) | 25 January 2017 - v1
 EF Elements/ functions | [Uniclass2015_EF.csv](Uniclass2015_EF.csv) | 25 January 2017 - v1.2
 En Entities | [Uniclass2015_En.csv](Uniclass2015_En.csv) | 25 January 2017 - v1.3
 FI Form of Information | [Uniclass2015_FI.csv](Uniclass2015_FI.csv) | 25 January 2017 - v0.1
-PM Project Management | [Uniclass2015_PM.csv](Uniclass2015_PM.csv) | 08 July 2016 - v0.1
+PM Project Management | [Uniclass2015_PM.csv](Uniclass2015_PM.csv) | 25 January 2017 - v0.1
 Pr Products | [Uniclass2015_Pr.csv](Uniclass2015_Pr.csv) | 24 March 2016 - v1.3
 SL Spaces/ locations | [Uniclass2015_SL.csv](Uniclass2015_SL.csv) | 24 March 2016 - v1.1
 Ss Systems | [Uniclass2015_Ss.csv](Uniclass2015_Ss.csv) | 24 March 2016 - v1.3
