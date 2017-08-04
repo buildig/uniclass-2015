@@ -4,7 +4,7 @@ Uniclass2015 is a unified classification for the construction industry. Uniclass
 
 These tables are also suitable for buildings and other assets in use, and maintaining asset management and facilities management information.
 
-[Buildig](http://buildig.com/) converted Uniclass 2015 classification tables into CSV format and [packaged as a versioned snapshot](https://github.com/buildig/uniclass-2015/releases) for easier usage in a software development process.
+[Buildig](http://buildig.com/) converted Uniclass 2015 classification tables into CSV format and [packaged as a versioned snapshot](https://github.com/buildig/uniclass-2015/releases) for easier usage in a software development process. Converting script can be found from [/util/convert.sh](/util/convert.sh).
 
 ## Tables
 
