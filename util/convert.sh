@@ -17,4 +17,5 @@ for i in *.csv
 do
   newname="$(echo $i|cut -d_ -f1,2).csv";
   cp $i $newname
+  rm $i
 done
