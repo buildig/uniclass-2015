@@ -1,6 +1,6 @@
 ## How to use convert.sh
 
-1. Update Uniclass [file version numbers](/util/convert.sh#L6-L16) to the latest
+1. Update Uniclass [file version numbers](/util/convert.sh#L6-L16) to the [latest](https://toolkit.thenbs.com/articles/classification#classificationtables)
 2. Run this script (requires [in2csv](http://csvkit.readthedocs.io/en/1.0.2/scripts/in2csv.html)):
 
 ```
