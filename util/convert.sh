@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# download xlsx files, April 2017 (change versions to latest first)
+# download xlsx files, April 2017 (change versions to latest before launching this script!)
 
 nbsurl="https://toolkit.thenbs.com/Articles/Classification/Uniclass2015Table/"
 curl $nbsurl"Co?version=v1_3" > Uniclass2015_Co.xlsx &&
