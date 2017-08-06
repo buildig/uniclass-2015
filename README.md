@@ -12,7 +12,7 @@ Table name | Filename | Date - Version
 --- | --- | ---
 Ac - Activities | [Uniclass2015_Ac.csv](Uniclass2015_Ac.csv) | 26 April 2017 - v1.3
 Co - Complexes | [Uniclass2015_Co.csv](Uniclass2015_Co.csv) | 26 April 2017 - v1.3
-EF - Elements/ functions | [Uniclass2015_EF.csv](Uniclass2015_EF.csv) | 25 January 2017 - v1.2
+EF - Elements/ functions | [Uniclass2015_EF.csv](Uniclass2015_EF.csv) | November 2016 - v1.2
 En - Entities | [Uniclass2015_En.csv](Uniclass2015_En.csv) | 26 April 2017 - v1.4
 FI - Form of Information | [Uniclass2015_FI.csv](Uniclass2015_FI.csv) | 25 January 2017 - v0.1
 PM - Project Management | [Uniclass2015_PM.csv](Uniclass2015_PM.csv) | 25 January 2017 - v0.1
@@ -20,7 +20,7 @@ Pr - Products | [Uniclass2015_Pr.csv](Uniclass2015_Pr.csv) | 26 April 2017 - v1.
 SL - Spaces/ locations | [Uniclass2015_SL.csv](Uniclass2015_SL.csv) | 26 April 2017 - v1.4
 Ss - Systems | [Uniclass2015_Ss.csv](Uniclass2015_Ss.csv) | 26 April 2017 - v1.6
 TE - Tools and Equipment | [Uniclass2015_TE.csv](Uniclass2015_TE.csv) | 26 April 2017 - v1.1
-Zz - CAD | [Uniclass2015_Zz.csv](Uniclass2015_Zz.csv) | 25 January 2017 - v1.0
+Zz - CAD | [Uniclass2015_Zz.csv](Uniclass2015_Zz.csv) | July 2015 - v1.0
 
 Publisher: [NBS](https://toolkit.thenbs.com/articles/classification)
 
