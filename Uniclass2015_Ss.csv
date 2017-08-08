@@ -175,7 +175,7 @@ Ss_20_40_07,20,40,07,,Bridge suspension cable systems,,
 Ss_20_40_07_11,20,40,07,11,Cable stayed bridge cable systems,15-20-20/115 Cable stayed bridge cable system;,
 Ss_20_40_07_85,20,40,07,85,Suspension bridge cable systems,15-20-20/105 Suspension bridge cable system;,
 Ss_20_40_10,20,40,10,,Building cable systems,,
-Ss_20_50,20,50,,,Bridge abutments and piers systems,,
+Ss_20_50,20,50,,,Bridge abutment and pier systems,,
 Ss_20_50_10,20,50,10,,Abutment systems,,
 Ss_20_50_10_10,20,50,10,10,Bank seat abutments,,
 Ss_20_50_10_30,20,50,10,30,Embedded retaining wall bridge abutments,,
@@ -476,7 +476,7 @@ Ss_25_30_20_77,25,30,20,77,Sliding doorset systems,25-50-20/175 Sliding doorset 
 Ss_25_30_20_78,25,30,20,78,Sliding folding doorset systems,25-50-20/180 Sliding folding doorset system;,2.7.3 Moveable room dividers; 2.6.2 External doors (default); 2.8.1 Internal doors;
 Ss_25_30_20_80,25,30,20,80,Sliding stacking panel partition systems,25-50-20/185 Sliding stacking panel partition system;,2.7.3 Moveable room dividers (default);
 Ss_25_30_20_84,25,30,20,84,Strip curtain doorset systems,,
-Ss_25_30_20_93,25,30,20,93,Up over doorset systems,,
+Ss_25_30_20_93,25,30,20,93,Up and over doorset systems,,
 Ss_25_30_29,25,30,29,,Fire and smoke curtain systems,,
 Ss_25_30_29_38,25,30,29,38,Horizontal fire curtain systems,,
 Ss_25_30_29_39,25,30,29,39,Horizontal smoke curtain systems,,
@@ -548,6 +548,7 @@ Ss_25_45_25,25,45,25,,Drapery systems,,
 Ss_25_45_70,25,45,70,,Render and roughcast coating systems,,
 Ss_25_45_70_55,25,45,70,55,Multicoat render systems,25-80-72/150 Multicoat render system;,2.5.1 External enclosing walls above ground level (default); 3.1.1 Wall finishes;
 Ss_25_45_70_60,25,45,70,60,One coat render systems,25-80-72/160 One coat render system;,2.5.1 External enclosing walls above ground level (default); 3.1.1 Wall finishes;
+Ss_25_45_70_90,25,45,70,90,Tiling and mosaic render substrate systems,25-80-72/185 Tiling and mosaic for render mortar substrate system;,2.5.1 External enclosing walls above ground level (default); 3.1.1 Wall finishes;
 Ss_25_45_72,25,45,72,,Rendered insulation systems,,
 Ss_25_45_72_02,25,45,72,02,Adhesive fixed external wall insulation systems,25-80-79/110 Adhesive fixed external wall insulation system;,2.5.1 External enclosing walls above ground level (default);
 Ss_25_45_72_42,25,45,72,42,Insulated plinth systems,25-80-79/130 Insulated plinth system;,2.5.1 External enclosing walls above ground level (default);
@@ -562,7 +563,7 @@ Ss_25_45_88,25,45,88,,Tiling systems,,
 Ss_25_45_88_25,25,45,88,25,External wall tiling systems,25-85-97/125 External wall tiling system;,3.1.1 Wall finishes (default);
 Ss_25_45_88_40,25,45,88,40,Internal wall tiling systems,25-85-97/140 Internal wall tiling system;,3.1.1 Wall finishes (default);
 Ss_25_45_88_88,25,45,88,88,Terrazzo wall tiling systems,25-85-90/185 Terrazzo wall tiling system;,3.1.1 Wall finishes (default);
-Ss_25_45_88_90,25,45,88,90,Tiling and mosaic mortar substrate systems,25-80-72/185 Tiling and mosaic mortar substrate system;,2.5.1 External enclosing walls above ground level (default); 3.1.1 Wall finishes;
+Ss_25_45_88_90,25,45,88,90,Tiling and mosaic mortar substrate systems,,
 Ss_25_45_90,25,45,90,,Unit facing systems,,
 Ss_25_50,25,50,,,Wall mounted canopy and screen systems,,
 Ss_25_50_05,25,50,05,,Awning systems,,
@@ -683,7 +684,7 @@ Ss_30_14_15_14,30,14,15,14,Concrete grass-filled paving systems,20-15-45/110 In 
 Ss_30_14_15_16,30,14,15,16,Concrete paving systems,20-15-45/120 In situ concrete paving system;,"2.4.2 Stair/ramp finishes; 3.2.1 Finishes to floors; 2.3.2 Roof coverings; 8.2.1 Roads, paths and pavings (default);"
 Ss_30_14_15_17,30,14,15,17,Concrete porous paving systems,20-15-45/130 In situ concrete porous paving system;,"2.4.2 Stair/ramp finishes; 3.2.1 Finishes to floors; 2.3.2 Roof coverings; 8.2.1 Roads, paths and pavings (default); 8.6.4 Land drainage;"
 Ss_30_14_15_18,30,14,15,18,Concrete runway paving systems,,
-Ss_30_14_50,30,14,50,,Matt and sheet paving systems,,
+Ss_30_14_50,30,14,50,,Mat and sheet paving systems,,
 Ss_30_14_50_25,30,14,50,25,Dry ski slope synthetic matting systems,20-15-50/125 Dry ski slope synthetic matting system;,2.4.2 Stair/ramp finishes; 8.2.2 Special surfacings and pavings (default); 3.2.1 Finishes to floors; 2.3.2 Roof coverings;
 Ss_30_14_50_65,30,14,50,65,Polymeric sports paving systems,20-15-50/175 Polymer play and sports paving system;,2.4.2 Stair/ramp finishes; 8.2.2 Special surfacings and pavings (default); 3.2.1 Finishes to floors; 2.3.2 Roof coverings;
 Ss_30_14_50_80,30,14,50,80,Synthetic grass surfacing systems,20-15-50/180 Synthetic grass surfacing system;,2.4.2 Stair/ramp finishes; 8.2.2 Special surfacings and pavings (default); 3.2.1 Finishes to floors; 2.3.2 Roof coverings;
@@ -907,8 +908,8 @@ Ss_30_75_40_30,30,75,40,30,Footway grating systems,20-85-45/130 Footway grating 
 Ss_30_75_40_50,30,75,40,50,Multi unit surface drainage channel systems,20-85-45/150 Multi unit surface drainage channel system;,8.6.1 Surface water and foul water drainage (default); 2.2.3 Drainage to balconies; 2.3.4 Roof drainage;
 Ss_30_75_40_75,30,75,40,75,Single unit surface drainage channel systems,20-85-45/175 Single unit surface drainage channel system;,8.6.1 Surface water and foul water drainage (default); 2.2.3 Drainage to balconies; 2.3.4 Roof drainage;
 Ss_30_75_45,30,75,45,,Kerb and traffic separation systems,,
-Ss_30_75_45_03,30,75,45,03,Asphalt kerb systems,20-85-45/142 In-situ asphalt kerb system;,
-Ss_30_75_45_15,30,75,45,15,Concrete kerb systems,20-85-45/140 In-situ concrete kerb system;,
+Ss_30_75_45_03,30,75,45,03,Asphalt kerb systems,,
+Ss_30_75_45_15,30,75,45,15,Concrete kerb systems,,
 Ss_30_75_45_20,30,75,45,20,Demarcation paving systems,20-85-45/120 Demarcation paving system;,"8.2.1 Roads, paths and pavings (default);"
 Ss_30_75_45_45,30,75,45,45,Light duty kerb systems,20-85-45/145 Light duty kerb system;,"8.2.1 Roads, paths and pavings (default);"
 Ss_30_75_45_55,30,75,45,55,Multi unit traffic calming systems,20-85-45/155 Multi unit traffic calming system;,"8.2.1 Roads, paths and pavings (default); 8.5.1 Site/street furniture and equipment;"
@@ -961,8 +962,9 @@ Ss_32_46_65,32,46,65,,Plaster coating systems,,
 Ss_32_46_65_15,32,46,65,15,Clay plaster systems,25-85-60/115 Clay plaster system;,3.1.1 Wall finishes (default);
 Ss_32_46_65_55,32,46,65,55,Multicoat plaster systems,25-85-60/150 Multicoat plaster system;,3.1.1 Wall finishes (default);
 Ss_32_46_65_58,32,46,65,58,One coat plaster systems,25-85-60/155 One coat plaster system;,3.1.1 Wall finishes (default);
+Ss_32_46_65_90,32,46,65,90,Tiling and mosaic plaster substrate systems,25-85-60/185 Tiling and mosaic mortar for plaster substrate system;,3.1.1 Wall finishes (default);
 Ss_32_80,32,80,,,Waterproofing and tanking systems,,
-Ss_32_80_03,32,80,03,,Applied systems,,
+Ss_32_80_03,32,80,03,,Applied waterproofing and tanking systems,,
 Ss_32_80_03_08,32,80,03,08,Bridge deck liquid sprayed systems,20-20-90/115 Liquid (sprayed) system;,
 Ss_32_80_03_10,32,80,03,10,Cementitious proprietary mortar slurry tanking systems,30-70-90/105 Cementitious proprietary mortar slurry tanking system;,2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls; 7.3.1 Damp-proof courses; 1.1.1 Standard foundations; 1.1.3 Lowest floor construction (default);
 Ss_32_80_03_12,32,80,03,12,Cementitious site-batched-and-mixed mortar tanking systems,30-70-90/110 Cementitious site-batched-and-mixed mortar tanking system;,2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls; 7.3.1 Damp-proof courses; 1.1.1 Standard foundations; 1.1.3 Lowest floor construction (default);
@@ -974,8 +976,8 @@ Ss_32_80_03_40,32,80,03,40,Interstitial grouting systems,30-70-30/110 Interstiti
 Ss_32_80_03_50,32,80,03,50,Mastic asphalt external tanking systems,30-70-90/155 Mastic asphalt external tanking system;,2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls; 7.3.1 Damp-proof courses; 1.1.1 Standard foundations; 1.1.3 Lowest floor construction (default);
 Ss_32_80_03_52,32,80,03,52,Mastic asphalt sandwiched tanking systems,30-70-90/160 Mastic asphalt sandwiched tanking system;,2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls; 7.3.1 Damp-proof courses; 1.1.1 Standard foundations; 1.1.3 Lowest floor construction (default);
 Ss_32_80_03_54,32,80,03,54,Mastic asphalt tank lining systems,30-70-90/165 Mastic asphalt tank lining system;,"8.6.2 Ancillary drainage systems; 5.14.1 Builder's work in connection with services; 5.3.2 Chemical, toxic and industrial liquid waste drainage; 8.5.2 Ornamental features; 1.1.3 Lowest floor construction (default); 2.2.1 Floors; 8.6.3 External chemical, toxic and industrial liquid waste drainage; 5.13.5 Water features;"
-Ss_32_80_03_90,32,80,03,90,Tunnel-spray applied membrane systems,,
-Ss_32_80_79,32,80,79,,Sheeted systems,,
+Ss_32_80_03_90,32,80,03,90,Tunnel spray-applied membrane systems,,
+Ss_32_80_79,32,80,79,,Sheeted waterproofing and tanking systems,,
 Ss_32_80_79_08,32,80,79,08,Bridge deck sheet systems,20-20-90/105 Sheet system;,
 Ss_32_80_79_30,32,80,79,30,Fully-bonded bitumen membrane external tanking systems,30-70-90/135 Fully-bonded bitumen membrane external tanking system;,2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls; 7.3.1 Damp-proof courses; 1.1.1 Standard foundations; 1.1.3 Lowest floor construction (default);
 Ss_32_80_79_32,32,80,79,32,Fully-bonded bitumen membrane sandwiched tanking systems,30-70-90/140 Fully-bonded bitumen membrane sandwiched tanking system;,2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls; 7.3.1 Damp-proof courses; 1.1.1 Standard foundations; 1.1.3 Lowest floor construction (default);
@@ -1062,7 +1064,7 @@ Ss_37_40,37,40,,,"Tunnel, shaft, vessel and tower covering and finishing systems
 Ss_37_40_85,37,40,85,,Swimming pool tiling systems,,
 Ss_37_40_85_83,37,40,85,83,Swimming pool floor tiling systems,30-70-75/175 Swimming pool floor tiling system;,3.2.1 Finishes to floors (default);
 Ss_37_40_85_85,37,40,85,85,Swimming pool wall tiling systems,30-70-75/180 Swimming pool wall tiling system;,3.1.1 Wall finishes (default);
-Ss_37_50,37,50,,,Shafts and tunnels structural systems,,
+Ss_37_50,37,50,,,Shaft and tunnel structural systems,,
 Ss_37_50_80,37,50,80,,Shaft structure systems,,
 Ss_37_50_80_50,37,50,80,50,Masonry lined shaft systems,,
 Ss_37_50_80_71,37,50,80,71,Reinforced concrete shaft structure systems,,
@@ -1085,7 +1087,7 @@ Ss_40_10_25_25,40,10,25,25,Electrical external signage systems,35-80-25/130 Exte
 Ss_40_10_25_30,40,10,25,30,Fixed external signage systems,35-80-25/110 Fixed external signage system;,8.5.1 Site/street furniture and equipment (default);
 Ss_40_10_25_32,40,10,25,32,Free-standing external architectural signage systems,35-80-25/120 Free standing external signage system;,8.5.1 Site/street furniture and equipment (default);
 Ss_40_10_30,40,10,30,,Fire and safety signage systems,,
-Ss_40_10_30_20,40,10,30,20,Emergency do not enter signage systems,,
+Ss_40_10_30_20,40,10,30,20,Emergency 'do not enter' signage systems,,
 Ss_40_10_30_25,40,10,30,25,Evacuation and safe condition sign systems,35-80-30/120 Evacuation and safe condition sign system;,
 Ss_40_10_30_27,40,10,30,27,Evacuation and safety way guidance systems,35-80-30/130 Evacuation and safety way guidance system;,
 Ss_40_10_30_30,40,10,30,30,Fire signage systems,,
@@ -1134,7 +1136,7 @@ Ss_40_15_90,40,15,90,,Toilet systems,,
 Ss_40_15_90_05,40,15,90,05,Accessible WC package systems,35-70-70/140 Accessible WC package assembly;,5.1.2 Sanitary ancillaries (default); 5.1.1 Sanitary appliances;
 Ss_40_15_90_85,40,15,90,85,Squatting WC systems,35-70-70/136 Squatting WC assembly;,5.1.2 Sanitary ancillaries (default);
 Ss_40_15_90_95,40,15,90,95,Waterless toilet systems,35-70-70/138 Waterless WC assembly;,5.1.1 Sanitary appliances (default);
-Ss_40_15_90_96,40,15,90,96,WC and wash basin combination systems,35-70-70/144 WC and washbasin combination assembly;,5.1.1 Sanitary appliances (default);
+Ss_40_15_90_96,40,15,90,96, WC and wash basin combination systems,35-70-70/144 WC and washbasin combination assembly;,5.1.1 Sanitary appliances (default);
 Ss_40_15_90_97,40,15,90,97,WC systems,35-70-70/134 WC assembly;,5.1.1 Sanitary appliances (default);
 Ss_40_15_90_98,40,15,90,98,WC wash and dry combination systems,35-70-70/142 WC wash and dry combination assembly;,5.1.1 Sanitary appliances (default);
 Ss_40_20,40,20,,,"Administrative, commercial and protective service FF&E systems",,
@@ -1199,7 +1201,7 @@ Ss_40_45_37_22,40,45,37,22,Dining room FF&E systems,,
 Ss_40_45_37_28,40,45,37,28,External FF&E systems,,
 Ss_40_45_37_45,40,45,37,45,Kitchen FF&E systems,,
 Ss_40_45_37_47,40,45,37,47,Living room FF&E systems,,
-Ss_40_45_70,40,45,70,,Residential living spaces FF&E systems,,
+Ss_40_45_70,40,45,70,,Residential living space FF&E systems,,
 Ss_40_45_70_07,40,45,70,07,Bedroom FF&E systems,,
 Ss_40_45_70_22,40,45,70,22,Dining room FF&E systems,,
 Ss_40_45_70_24,40,45,70,24,Domestic kitchen FF&E systems,,
@@ -1407,7 +1409,7 @@ Ss_50_30_06_62,50,30,06,62,Plastics deep non-entry inspection chamber systems,50
 Ss_50_30_06_64,50,30,06,64,Plastics distribution and sampling chamber systems,50-10-10/135 Plastics distribution and sampling chamber system for below ground drainage;,"8.6.1 Surface water and foul water drainage (default); 8.6.2 Ancillary drainage systems; 8.6.4 Land drainage; 8.6.3 External chemical, toxic and industrial liquid waste drainage;"
 Ss_50_30_06_66,50,30,06,66,Plastics shallow inspection chamber systems,50-10-10/125 Plastics shallow inspection chamber system for below ground drainage;,"8.6.1 Surface water and foul water drainage (default); 8.6.2 Ancillary drainage systems; 8.6.4 Land drainage; 8.6.3 External chemical, toxic and industrial liquid waste drainage;"
 Ss_50_30_08,50,30,08,,Below ground gravity drainage systems,,
-Ss_50_30_08_15,50,30,08,15,Combined below-ground drainage pipeline systems,50-10-15/120 Below ground combined gravity drainage pipeline system;,8.6.1 Surface water and foul water drainage (default); 8.6.2 Ancillary drainage systems;
+Ss_50_30_08_15,50,30,08,15,Combined below-ground drainage pipeline systems,,
 Ss_50_30_08_16,50,30,08,16,Combined sewer overflow systems,50-10-10/160 Precast concrete combined sewer overflow system;,
 Ss_50_30_08_30,50,30,08,30,Foul waste water below-ground drainage pipeline systems,50-10-15/115 Below ground foul wastewater gravity drainage pipeline system;,"8.6.1 Surface water and foul water drainage (default); 8.6.2 Ancillary drainage systems; 8.6.3 External chemical, toxic and industrial liquid waste drainage;"
 Ss_50_30_08_85,50,30,08,85,Surface water below-ground drainage pipeline systems,50-10-15/110 Below ground surface water gravity drainage pipeline system;,8.6.1 Surface water and foul water drainage (default); 8.6.2 Ancillary drainage systems; 8.6.4 Land drainage;
@@ -1465,7 +1467,7 @@ Ss_50_70_85_00,50,70,85,00,SuDS management train systems,50-50-75/102 SuDS manag
 Ss_50_70_85_06,50,70,85,06,SuDS below ground rigid attenuation storage tank systems,50-50-75/104 SuDS below ground rigid attenuation storage tank system;,8.6.2 Ancillary drainage systems (default);
 Ss_50_70_85_08,50,70,85,08,SuDS bioretention area systems,50-50-75/108 SuDS bioretention area system;,8.6.2 Ancillary drainage systems (default); 8.3.2 External planting;
 Ss_50_70_85_15,50,70,85,15,SuDS conveyance swale systems,50-50-75/112 SuDS conveyance swale system;,8.6.2 Ancillary drainage systems (default);
-Ss_50_70_85_21,50,70,85,21,SuDs detention basin systems,50-50-75/116 SuDS detention basin system;,8.6.2 Ancillary drainage systems (default);
+Ss_50_70_85_21,50,70,85,21,SuDS detention basin systems,50-50-75/116 SuDS detention basin system;,8.6.2 Ancillary drainage systems (default);
 Ss_50_70_85_24,50,70,85,24,SuDS dry swale systems,50-50-75/120 SuDS dry swale system;,8.6.2 Ancillary drainage systems (default);
 Ss_50_70_85_30,50,70,85,30,SuDS filter strip systems,50-50-75/124 SuDS filter strip system;,8.6.2 Ancillary drainage systems (default);
 Ss_50_70_85_31,50,70,85,31,SuDS filter trench systems,50-50-75/128 SuDS filter trench system;,8.6.2 Ancillary drainage systems (default);
@@ -1576,7 +1578,7 @@ Ss_55_20_15_42,55,20,15,42,Industrial compressed air supply systems,55-60-10/110
 Ss_55_20_15_46,55,20,15,46,Laboratory compressed air supply systems,,
 Ss_55_20_15_51,55,20,15,51,Medical compressed air supply systems,55-65-40/140 Medical compressed air supply system;,5.13.1 Specialist piped supply installations (default);
 Ss_55_20_33,55,20,33,,Gas distribution network systems,,
-Ss_55_20_33_56,55,20,33,56,Natural gas distribution network systems,,
+Ss_55_20_33_56,55,20,33,56,Natural gas distribution network systems,55-60-55/110 Incoming gas supply;,5.9.2 Fuel distribution systems; 8.7.5 Gas mains supply (default);
 Ss_55_20_34,55,20,34,,Gas supply systems,,
 Ss_55_20_34_05,55,20,34,05,Biogas supply systems,55-60-05/110 Biogas system;,5.9.1 Fuel storage; 8.7.7 External fuel storage and piped distribution systems (default); 5.9.2 Fuel distribution systems;
 Ss_55_20_34_46,55,20,34,46,Liquefied petroleum gas (LPG) supply systems,55-60-50/110 LPG supply system;,5.9.1 Fuel storage; 8.7.7 External fuel storage and piped distribution systems (default); 5.9.2 Fuel distribution systems;
@@ -1611,7 +1613,7 @@ Ss_55_30_65_35,55,30,65,35,Fire bucket systems,35-70-60/120 Fire bucket system;,
 Ss_55_30_65_65,55,30,65,65,Portable fire extinguisher systems,35-70-60/130 Portable fire extinguisher system;,"4.1.1 General fittings, furnishings and equipment (default);"
 Ss_55_30_96,55,30,96,,Water fire extinguishing systems,,
 Ss_55_30_96_21,55,30,96,21,Deluge systems,55-85-15/110 Deluge system;,5.11.2 Fire suppression systems (default);
-Ss_55_30_96_23,55,30,96,23,Domestic sprinkler systems,,
+Ss_55_30_96_23,55,30,96,23,Domestic sprinkler systems,55-85-75/120 Domestic and residential sprinkler system;,
 Ss_55_30_96_25,55,30,96,25,Dry riser systems,55-85-20/110 Dry riser system;,5.11.1 Fire fighting systems (default);
 Ss_55_30_96_29,55,30,96,29,Fire hose reel systems,55-85-25/110 Fire hose reel system;,5.11.1 Fire fighting systems (default);
 Ss_55_30_96_30,55,30,96,30,Fire hydrant systems,55-85-30/110 Fire hydrant system;,5.4.1 Mains water supply (default);
@@ -1658,7 +1660,7 @@ Ss_55_70_94,55,70,94,,Washing systems,,
 Ss_55_70_94_94,55,70,94,94,Wash plant systems,55-40-85/130 Wash plant system;,
 Ss_55_70_94_96,55,70,94,96,Wheel washing systems,55-40-85/110 Wheel washing system;,
 Ss_55_70_95,55,70,95,,Water distribution network systems,,
-Ss_55_70_95_50,55,70,95,50,Mains water distribution network systems,,
+Ss_55_70_95_50,55,70,95,50,Mains water distribution network systems,55-40-40/110 Incoming water supply;,5.4.1 Mains water supply (default);
 Ss_55_70_95_66,55,70,95,66,Private water distribution network systems,,
 Ss_55_70_96,55,70,96,,Water feature systems,,
 Ss_55_70_96_15,55,70,96,15,Cascade and waterfall systems,55-40-90/120 Cascade and waterfall system;,8.5.2 Ornamental features; 5.13.5 Water features (default);
@@ -1688,7 +1690,7 @@ Ss_60_40,60,40,,,Space heating and cooling systems,,
 Ss_60_40_13,60,40,13,,Climatic ceiling and beam systems,,
 Ss_60_40_13_13,60,40,13,13,Climatic beam systems,60-45-15/110 Climatic beam system;,5.6.5 Central heating and cooling (default);
 Ss_60_40_13_14,60,40,13,14,Climatic ceiling systems,60-45-15/120 Climatic ceiling system;,5.6.5 Central heating and cooling (default);
-Ss_60_40_15,60,40,15,,"Combined heating, cooling and power",,
+Ss_60_40_15,60,40,15,,"Combined heating, cooling and power systems",,
 Ss_60_40_15_40,60,40,15,40,Combined heat and power systems,60-45-20/110 Combined heat and power system;,5.8.5 Local electricity generation systems (default);
 Ss_60_40_15_90,60,40,15,90,Combined underfloor heating and cooling systems,60-45-90/130 Combined underfloor heating and cooling;,5.6.5 Central heating and cooling (default);
 Ss_60_40_17,60,40,17,,Cooling systems,,
@@ -1769,7 +1771,7 @@ Ss_70_10,70,10,,,Electrical power generation systems,,
 Ss_70_10_30,70,10,30,,Fossil fuel power generation systems,,
 Ss_70_10_30_33,70,10,30,33,Gas power generating systems,70-10-30/110 Gas power generating system;,
 Ss_70_10_30_70,70,10,30,70,Reciprocating internal combustion engine,70-65-35/110 Reciprocating internal combustion engine driven alternating current generator system;,5.8.5 Local electricity generation systems (default);
-Ss_70_10_30_72,70,10,30,72,Reciprocating internal combustion engine driven alternating current generator system,70-65-35/120 Customized reciprocating internal combustion engine driven alternating current generator system;,5.8.5 Local electricity generation systems (default);
+Ss_70_10_30_72,70,10,30,72,Reciprocating internal combustion engine driven alternating current generator systems,70-65-35/120 Customized reciprocating internal combustion engine driven alternating current generator system;,5.8.5 Local electricity generation systems (default);
 Ss_70_10_70,70,10,70,,Renewable power generation systems,,
 Ss_70_10_70_33,70,10,70,33,Geothermal power generation systems,,
 Ss_70_10_70_35,70,10,70,35,Grid-connected photovoltaic systems,70-65-60/110 Grid connected photovoltaic system;,5.8.5 Local electricity generation systems (default);
@@ -1781,17 +1783,19 @@ Ss_70_10_70_95,70,10,70,95,Water mill systems,,
 Ss_70_10_70_97,70,10,70,97,Water turbine systems,,
 Ss_70_10_70_98,70,10,70,98,Wind power generating systems,70-10-95/110 Wind power generating system;,
 Ss_70_30,70,30,,,Electricity distribution and transmission systems,,
-Ss_70_30_35,70,30,35,,High-voltage distribution and transmission systems,,
-Ss_70_30_35_35,70,30,35,35,High-voltage distribution systems,70-70-35/110 High voltage distribution system;,5.8.1 Electrical mains and sub-mains distribution (default);
-Ss_70_30_35_40,70,30,35,40,High-voltage transmission systems,,
-Ss_70_30_45,70,30,45,,Low-voltage systems,,
-Ss_70_30_45_45,70,30,45,45,Low-voltage distribution systems,70-70-45/110 Low voltage distribution system;,5.8.1 Electrical mains and sub-mains distribution (default); 8.7.4 Electricity distribution to external plant and equipment;
+Ss_70_30_35,70,30,35,,High voltage distribution and transmission systems,,
+Ss_70_30_35_30,70,30,35,30,High voltage supply systems,70-50-35/110 Incoming high voltage electricity supply system;,5.8.1 Electrical mains and sub-mains distribution (default);
+Ss_70_30_35_35,70,30,35,35,High voltage distribution systems,70-70-35/110 High voltage distribution system;,5.8.1 Electrical mains and sub-mains distribution (default);
+Ss_70_30_35_40,70,30,35,40,High voltage transmission systems,,
+Ss_70_30_45,70,30,45,,Low voltage systems,,
+Ss_70_30_45_40,70,30,45,40,Low voltage supply systems,70-50-45/110 Incoming low voltage electricity supply;,5.8.1 Electrical mains and sub-mains distribution;
+Ss_70_30_45_45,70,30,45,45,Low voltage distribution systems,70-70-45/110 Low voltage distribution system;,5.8.1 Electrical mains and sub-mains distribution (default); 8.7.4 Electricity distribution to external plant and equipment;
 Ss_70_30_60,70,30,60,,Overhead line traction power distribution systems,,
 Ss_70_30_60_11,70,30,60,11,Catenary overhead line systems,70-55-55/101 Catenary overhead line system;,
 Ss_70_30_60_89,70,30,60,89,Trolley wire overhead line systems,70-55-55/105 Trolley wire overhead line system;,
 Ss_70_30_80,70,30,80,,Small power systems,,
 Ss_70_30_80_35,70,30,80,35,Hard-wired voltage small power systems,70-70-75/110 Hard wired low voltage small power system;,5.8.2 Power installations (default);
-Ss_70_30_80_45,70,30,80,45,Low-voltage small power systems with prefabricated wiring,70-70-75/120 Low voltage small power systems with prefabricated wiring;,5.8.2 Power installations (default);
+Ss_70_30_80_45,70,30,80,45,Low voltage small power systems with prefabricated wiring,70-70-75/120 Low voltage small power systems with prefabricated wiring;,5.8.2 Power installations (default);
 Ss_70_30_90,70,30,90,,Third rail traction power distribution systems,,
 Ss_70_30_90_90,70,30,90,90,Third rail electrification systems,70-55-85/101 Third rail electrification system;,
 Ss_70_30_94,70,30,94,,Vehicle charging systems,,
@@ -1871,6 +1875,7 @@ Ss_75_50_26,75,50,26,,Debris detection systems,,
 Ss_75_50_26_30,75,50,26,30,Foreign object debris (FOD) detection systems,75-65-32/105 Foreign object debris detection system;,
 Ss_75_50_28,75,50,28,,Detection and alarm systems,,
 Ss_75_50_28_05,75,50,28,05,Aspirating detection systems,75-65-30/120 Aspirating detection system;,5.12.1 Communication systems (default);
+Ss_75_50_28_22,75,50,28,22,Domestic premises fire detection and alarm systems,75-65-30/115 Fire detection and alarm systems in domestic premises;,
 Ss_75_50_28_24,75,50,28,24,Duct smoke detector systems,75-65-30/130 Duct smoke detector system;,
 Ss_75_50_28_29,75,50,28,29,Fire detection and alarm systems,75-65-30/110 Fire detection and alarm system;,5.12.1 Communication systems (default);
 Ss_75_50_28_30,75,50,28,30,Fixed gas detection and alarm systems,75-65-35/110 Fixed gas detection and alarm system;,5.13.1 Specialist piped supply installations (default);
@@ -1934,9 +1939,9 @@ Ss_75_70_85_62,75,70,85,62,Piezometer monitoring systems,75-75-85/140 Piezometer
 Ss_75_70_85_66,75,70,85,66,Precise levelling monitoring systems,75-75-85/105 Precise levelling monitoring system;,
 Ss_75_70_85_67,75,70,85,67,Prism monitoring systems,75-75-85/101 Prism monitoring system;,
 Ss_75_70_85_84,75,70,85,84,Strain gauge monitoring systems,75-75-85/115 Strain gauge monitoring system;,
-Ss_75_70_85_86,75,70,85,86,Sub-surface monitoring arrays systems,75-75-85/150 Sub-surface monitoring arrays system;,
+Ss_75_70_85_86,75,70,85,86,Sub-surface monitoring array systems,75-75-85/150 Sub-surface monitoring arrays system;,
 Ss_75_70_85_87,75,70,85,87,Tape extensometer monitoring systems,75-75-85/110 Tape extensometer monitoring system;,
-Ss_75_70_85_90,75,70,85,90,Tilt sensors monitoring systems,75-75-85/135 Tilt sensors monitoring system;,
+Ss_75_70_85_90,75,70,85,90,Tilt sensor monitoring systems,75-75-85/135 Tilt sensors monitoring system;,
 Ss_75_70_90,75,70,90,,Traffic monitoring systems,,
 Ss_75_70_90_90,75,70,90,90,Traffic enforcement camera systems,75-75-87/101 Traffic enforcement camera system;,
 Ss_75_70_96,75,70,96,,Water supply and wastewater control systems,,
@@ -2024,7 +2029,7 @@ Ss_80_70_69_30,80,70,69,30,Fixed buffer systems,80-05-75/110 Fixed buffer system
 Ss_80_70_69_31,80,70,69,31,Friction buffer systems,80-05-75/120 Friction buffer system;,
 Ss_80_70_70,80,70,70,,Rail track systems,,
 Ss_80_70_70_06,80,70,70,06,Ballasted rail track systems,80-05-85/101 Ballasted rail track system;,
-Ss_80_70_70_27,80,70,70,27,Embedded rail system,80-05-85/120 Embedded rail system;,
+Ss_80_70_70_27,80,70,70,27,Embedded rail systems,80-05-85/120 Embedded rail system;,
 Ss_80_70_70_56,80,70,70,56,Non-embedded slab track rail systems,80-05-85/130 Non-embedded slab track rail system;,
 Ss_80_70_70_65,80,70,70,65,Precast track bed systems,80-05-85/110 Precast track bed system;,
 Ss_80_80,80,80,,,Turntable systems,,
@@ -2055,7 +2060,7 @@ Ss_90_13,90,13,,,Demand for information and communication,,
 Ss_90_14,90,14,,,Demand for logistics,,
 Ss_90_15,90,15,,,"Demand for integrated management, consultancy and administration",,
 Ss_90_20,90,20,,,"Specific demand of administrative, commercial and protective services",,
-Ss_90_25,90,25,,,"Specific demand of cultural, educational, scientific and information",,
+Ss_90_25,90,25,,,"Specific demand of cultural, educational, scientific and information organizations",,
 Ss_90_30,90,30,,,Specific demand of industrial organizations,,
 Ss_90_35,90,35,,,"Specific demand of medical, health, welfare and sanitary organizations",,
 Ss_90_40,90,40,,,Specific demand of recreational organizations,,
