@@ -6,8 +6,6 @@ Uniclass 2015 is divided into a set of tables which can be used to categorize in
 
 [Buildig](http://buildig.com/) provides up-to-date Uniclass 2015 classification tables in CSV format [packaged as tagged releases](https://github.com/buildig/uniclass-2015/releases). We also created [a combined Uniclass 2015 file](Uniclass2015.csv).
 
-Converting script is located at [/util/convert.sh](/util/convert.sh) (requires [in2csv](http://csvkit.readthedocs.io/en/1.0.2/scripts/in2csv.html)).
-
 ## Tables
 
 Table name | Description | Filename | Date - Version
