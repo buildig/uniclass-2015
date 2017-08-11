@@ -4,7 +4,7 @@ Uniclass 2015 is a unified classification for the construction industry publishe
 
 Uniclass 2015 is divided into a set of tables which can be used to categorize information for costing, briefing, CAD layering, etc. as well as when preparing specifications or other production documents. These tables are also suitable for buildings and other assets in use, and maintaining asset management and facilities management information.
 
-[Buildig](http://buildig.com/) provides up-to-date Uniclass 2015 classification tables in CSV format [packaged as tagged releases](https://github.com/buildig/uniclass-2015/releases). We also created a combined Uniclass 2015 file: [Uniclass2015.csv](Uniclass2015.csv).
+[Buildig](http://buildig.com/) provides up-to-date Uniclass 2015 classification tables in CSV format [packaged as tagged releases](https://github.com/buildig/uniclass-2015/releases). We also created [a combined Uniclass 2015 file](Uniclass2015.csv).
 
 Converting script is located at [/util/convert.sh](/util/convert.sh) (requires [in2csv](http://csvkit.readthedocs.io/en/1.0.2/scripts/in2csv.html)).
 
