@@ -1,6 +1,6 @@
 # Uniclass 2015 classification in CSV format
 
-Uniclass 2015 is a unified classification for the construction industry published by [NBS](https://toolkit.thenbs.com/articles/classification) in Excel format. Uniclass 2015 has been structured to be in accordance with [ISO 12006-2 Building construction – Organization of information about construction works – Part 2: Framework for classification](https://www.iso.org/standard/61753.html).
+Uniclass 2015 is a unified classification for the construction industry published by [NBS](https://toolkit.thenbs.com/articles/classification) in Excel format. Uniclass 2015 has been structured to be in accordance with [ISO 12006-2:2015](https://www.iso.org/standard/61753.html) *Building construction – Organization of information about construction works – Part 2: Framework for classification*.
 
 Uniclass 2015 is divided into a set of tables which can be used to categorize information for costing, briefing, CAD layering, etc. as well as when preparing specifications or other production documents. These tables are also suitable for buildings and other assets in use, and maintaining asset management and facilities management information.
 
