@@ -8,7 +8,7 @@ Uniclass 2015 is divided into a set of tables which can be used to categorize in
 
 ## Tables
 
-Table name | Description | Filename | Date - Version
+Table name | Description | Filename | Version, Date
 --- | --- | --- | ---
 Co - Complexes | The overall project such as a university campus or rail network. | [Uniclass2015_Co.csv](Uniclass2015_Co.csv) | v1.4, October 2017
 En - Entities | Entities are discrete things like buildings, bridges, tunnels etc. | [Uniclass2015_En.csv](Uniclass2015_En.csv) | v1.6, October 2017
