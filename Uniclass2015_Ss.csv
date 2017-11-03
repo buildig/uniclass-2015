@@ -908,8 +908,8 @@ Ss_30_75_40_30,30,75,40,30,Footway grating systems,20-85-45/130 Footway grating 
 Ss_30_75_40_50,30,75,40,50,Multi unit surface drainage channel systems,20-85-45/150 Multi unit surface drainage channel system;,8.6.1 Surface water and foul water drainage (default); 2.2.3 Drainage to balconies; 2.3.4 Roof drainage;
 Ss_30_75_40_75,30,75,40,75,Single unit surface drainage channel systems,20-85-45/175 Single unit surface drainage channel system;,8.6.1 Surface water and foul water drainage (default); 2.2.3 Drainage to balconies; 2.3.4 Roof drainage;
 Ss_30_75_45,30,75,45,,Kerb and traffic separation systems,,
-Ss_30_75_45_03,30,75,45,03,Asphalt kerb systems,,
-Ss_30_75_45_15,30,75,45,15,Concrete kerb systems,,
+Ss_30_75_45_03,30,75,45,03,Asphalt kerb systems,20-85-45/142 In-situ asphalt kerb system;,
+Ss_30_75_45_15,30,75,45,15,Concrete kerb systems,20-85-45/140 In-situ concrete kerb system;,
 Ss_30_75_45_20,30,75,45,20,Demarcation paving systems,20-85-45/120 Demarcation paving system;,"8.2.1 Roads, paths and pavings (default);"
 Ss_30_75_45_45,30,75,45,45,Light duty kerb systems,20-85-45/145 Light duty kerb system;,"8.2.1 Roads, paths and pavings (default);"
 Ss_30_75_45_55,30,75,45,55,Multi unit traffic calming systems,20-85-45/155 Multi unit traffic calming system;,"8.2.1 Roads, paths and pavings (default); 8.5.1 Site/street furniture and equipment;"
@@ -1433,6 +1433,8 @@ Ss_50_30_80,50,30,80,,Storm water gravity drainage systems,,
 Ss_50_30_80_10,50,30,80,10,Bifurcation storm water overflow systems,,
 Ss_50_30_80_72,50,30,80,72,Rigid attenuation or storage tank for stormwater flood attenuation systems,50-50-05/180 Rigid attenuation or storage tank system for stormwater flood attenuation;,
 Ss_50_30_82,50,30,82,,Surface and waste water gravity drainage systems,,
+Ss_50_30_82_41,50,30,82,41,Inlet drainage systems,,
+Ss_50_30_82_59,50,30,82,59,Outlet drainage systems,,
 Ss_50_30_82_73,50,30,82,73,Road drainage systems,,
 Ss_50_30_85,50,30,85,,Surface and waste water pumped drainage systems,,
 Ss_50_40,50,40,,,Solid waste collection and distribution systems,,
@@ -1459,6 +1461,8 @@ Ss_50_70_05_84,50,70,05,84,Below-ground drainage packaged silt trap systems,50-5
 Ss_50_70_05_85,50,70,05,85,Below-ground drainage rigid attenuation or storage tank systems,50-50-05/140 Rigid attenuation or storage tank system for below ground surface water drainage;,8.6.1 Surface water and foul water drainage (default);
 Ss_50_70_05_86,50,70,05,86,Below-ground drainage wet well systems,50-50-05/115 Wet well system for below ground surface water drainage;,8.6.1 Surface water and foul water drainage (default);
 Ss_50_70_05_95,50,70,05,95,Below-ground drainage outfall systems,50-50-05/175 Drainage outfall system for below ground wastewater drainage;,8.6.1 Surface water and foul water drainage (default);
+Ss_50_70_24,50,70,24,,Drainage disposal systems,,
+Ss_50_70_24_80,50,70,24,80,Soakaway borehole systems,,
 Ss_50_70_60,50,70,60,,Private drainage treatment systems,,
 Ss_50_70_60_70,50,70,60,70,Radioactive wastewater treatment systems,,
 Ss_50_70_83,50,70,83,,Surface water tank systems,,
@@ -1684,6 +1688,7 @@ Ss_60_30,60,30,,,Rail and paving heating systems,,
 Ss_60_30_60,60,30,60,,Pavement heating systems,,
 Ss_60_30_60_27,60,30,60,27,Electric pavement heating systems,60-20-60/101 Electric pavement heating system;,
 Ss_60_30_70,60,30,70,,Railway heating systems,,
+Ss_60_30_70_65,60,30,70,65,Points heating systems,,
 Ss_60_30_75,60,30,75,,Runway heating systems,,
 Ss_60_30_90,60,30,90,,Tramway heating systems,,
 Ss_60_40,60,40,,,Space heating and cooling systems,,
@@ -1858,6 +1863,7 @@ Ss_75_40_02_05,75,40,02,05,Audio intercom systems,75-60-05/120 Audio intercom sy
 Ss_75_40_02_11,75,40,02,11,Card access control systems,75-60-05/110 Access control system;,5.12.2 Security systems (default);
 Ss_75_40_53,75,40,53,,Monitoring systems,,
 Ss_75_40_53_86,75,40,53,86,Surveillance systems,75-60-10/110 CCTV system;,5.12.2 Security systems (default);
+Ss_75_40_53_90,75,40,53,90,Train dispatch CCTV systems,,
 Ss_75_40_73,75,40,73,,Security screening systems,,
 Ss_75_40_73_11,75,40,73,11,Cabin baggage screening systems,75-60-75/120 Cabin baggage screening system;,
 Ss_75_40_73_60,75,40,73,60,Passenger screening systems,75-60-75/110 Passenger screening system;,
