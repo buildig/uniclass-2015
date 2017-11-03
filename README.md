@@ -32,6 +32,19 @@ Codes within the classification system consists of four or five pairs of charact
 - Section.
 - Object.
 
+## How to use convert.sh
+
+To download Uniclass 2015 Excel files from NBS and convert to CSV format:
+
+1. Update Uniclass [file version numbers](/convert.sh#L7-L17) to the [latest](https://toolkit.thenbs.com/articles/classification#classificationtables)
+2. Run this script (requires [in2csv](http://csvkit.readthedocs.io/en/1.0.2/scripts/in2csv.html)):
+
+```
+php -r "readfile('https://raw.githubusercontent.com/buildig/uniclass-2015/master/convert.sh');"
+> convert.sh
+chmod a+x convert.sh
+./convert.sh
+```
 License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 
 Source: [https://github.com/buildig/uniclass-2015](https://github.com/buildig/uniclass-2015)

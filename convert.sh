@@ -1,6 +1,10 @@
 #!/usr/bin/env bash
 
-# Download October 2017 version of xlsx files 
+# Remove old *.csv files
+
+rm *.csv
+
+# Download October 2017 version of xlsx files
 # (change version numbers to latest before launching this script!)
 
 nbsurl="https://toolkit.thenbs.com/Articles/Classification/Uniclass2015Table/"
@@ -40,3 +44,7 @@ Uniclass2015_SL.csv Uniclass2015_Ss.csv Uniclass2015_TE.csv Uniclass2015_Zz.csv"
     do tail -n +2 $i;
   done
 ) > Uniclass2015.csv
+
+# Remove *.csv files
+
+rm *.xlsx
