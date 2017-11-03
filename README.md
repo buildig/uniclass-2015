@@ -10,7 +10,7 @@ Uniclass 2015 is divided into a set of tables which can be used to categorize in
 
 Table name | Description | Filename | Date - Version
 --- | --- | --- | ---
-Co - Complexes | The overall project such as a university campus or rail network. | [Uniclass2015_Co.csv](Uniclass2015_Co.csv) | 	v1.4, October 2017
+Co - Complexes | The overall project such as a university campus or rail network. | [Uniclass2015_Co.csv](Uniclass2015_Co.csv) | v1.4, October 2017
 En - Entities | Entities are discrete things like buildings, bridges, tunnels etc. | [Uniclass2015_En.csv](Uniclass2015_En.csv) | v1.6, October 2017
 Ac - Activities | This defines the activities to be carried out in the complex, entity or space. | [Uniclass2015_Ac.csv](Uniclass2015_Ac.csv) | v1.4, July 2017
 SL - Spaces/ locations | In buildings, spaces are provided for various activities to take place. Also classed as spaces are transport corridors that run between two locations. | [Uniclass2015_SL.csv](Uniclass2015_SL.csv) | v1.6, October 2017
