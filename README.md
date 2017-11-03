@@ -40,8 +40,7 @@ To download Uniclass 2015 Excel files from NBS and convert to CSV format:
 2. Run this script (requires [in2csv](http://csvkit.readthedocs.io/en/1.0.2/scripts/in2csv.html)):
 
 ```
-php -r "readfile('https://raw.githubusercontent.com/buildig/uniclass-2015/master/convert.sh');"
-> convert.sh
+php -r "readfile('https://raw.githubusercontent.com/buildig/uniclass-2015/master/convert.sh');" > convert.sh
 chmod a+x convert.sh
 ./convert.sh
 ```
