@@ -246,15 +246,16 @@ Ss_25_11_16_65,25,11,16,65,Precast concrete wall systems,25-15-35/160 Precast co
 Ss_25_11_16_70,25,11,16,70,Reinforced concrete wall structure systems,25-15-35/140 In situ reinforced concrete wall structure system;,"2.5.2 External enclosing walls below ground level; 2.7.1 Walls and partitions; 1.1.5 Basement retaining walls; 2.5.1 External enclosing walls above ground level (default); 2.7.2 Balustrades and handrails; 2.5.5 Subsidiary walls, balustrades and proprietary balconies;"
 Ss_25_11_16_80,25,11,16,80,Sprayed concrete wall structure systems,25-15-35/175 Sprayed concrete wall structure system;,"2.5.2 External enclosing walls below ground level; 2.7.1 Walls and partitions; 2.5.1 External enclosing walls above ground level (default); 2.7.2 Balustrades and handrails; 2.5.5 Subsidiary walls, balustrades and proprietary balconies;"
 Ss_25_11_70,25,11,70,,Rammed earth wall systems,,
-Ss_25_11_70_55,25,11,70,55,Non-stabilized rammed earth plinth systems,25-00-70/150 Non-stabilized rammed earth wall system;,"2.5.2 External enclosing walls below ground level; 2.5.1 External enclosing walls above ground level (default); 2.5.5 Subsidiary walls, balustrades and proprietary balconies;"
+Ss_25_11_70_55,25,11,70,55,Non-stabilized rammed earth wall systems,25-00-70/150 Non-stabilized rammed earth wall system;,"2.5.2 External enclosing walls below ground level; 2.5.1 External enclosing walls above ground level (default); 2.5.5 Subsidiary walls, balustrades and proprietary balconies;"
 Ss_25_11_70_83,25,11,70,83,Stabilized rammed earth plinth systems,,
 Ss_25_11_70_85,25,11,70,85,Stabilized rammed earth wall systems,25-00-70/180 Stabilized rammed earth wall system;,"2.5.2 External enclosing walls below ground level; 2.5.1 External enclosing walls above ground level (default); 2.5.5 Subsidiary walls, balustrades and proprietary balconies;"
 Ss_25_11_90,25,11,90,,Timber wall systems,,
+Ss_25_11_90_15,25,11,90,15,Cross-laminated timber wall systems,,
 Ss_25_11_90_96,25,11,90,96,Wood log wall systems,,
 Ss_25_12,25,12,,,Panel wall structure systems,,
 Ss_25_12_10,25,12,10,,Brick panel wall systems,,
 Ss_25_12_15,25,12,15,,Concrete panel wall systems,,
-Ss_25_12_60,25,12,60,,Panel cubicle systems,,
+Ss_25_12_60,25,12,60,,Panel enclosure systems,,
 Ss_25_12_60_30,25,12,60,30,Fully-framed panel cubicle systems,25-05-60/130 Fully-framed panel cubicle system;,2.7.4 Cubicles (default);
 Ss_25_12_60_60,25,12,60,60,Panel cubicle systems,25-05-60/160 Panel cubicle system;,2.7.4 Cubicles (default);
 Ss_25_12_60_65,25,12,60,65,Privacy screen systems,25-05-60/165 Privacy screen system;,2.7.4 Cubicles (default);
@@ -979,8 +980,9 @@ Ss_32_80_03_54,32,80,03,54,Mastic asphalt tank lining systems,30-70-90/165 Masti
 Ss_32_80_03_90,32,80,03,90,Tunnel spray-applied membrane systems,,
 Ss_32_80_79,32,80,79,,Sheeted waterproofing and tanking systems,,
 Ss_32_80_79_08,32,80,79,08,Bridge deck sheet systems,20-20-90/105 Sheet system;,
-Ss_32_80_79_30,32,80,79,30,Fully-bonded bitumen membrane external tanking systems,30-70-90/135 Fully-bonded bitumen membrane external tanking system;,2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls; 7.3.1 Damp-proof courses; 1.1.1 Standard foundations; 1.1.3 Lowest floor construction (default);
-Ss_32_80_79_32,32,80,79,32,Fully-bonded bitumen membrane sandwiched tanking systems,30-70-90/140 Fully-bonded bitumen membrane sandwiched tanking system;,2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls; 7.3.1 Damp-proof courses; 1.1.1 Standard foundations; 1.1.3 Lowest floor construction (default);
+Ss_32_80_79_30,32,80,79,30,Fully bonded bitumen membrane external tanking systems,30-70-90/135 Fully-bonded bitumen membrane external tanking system;,2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls; 7.3.1 Damp-proof courses; 1.1.1 Standard foundations; 1.1.3 Lowest floor construction (default);
+Ss_32_80_79_32,32,80,79,32,Fully bonded bitumen membrane sandwiched tanking systems,30-70-90/140 Fully-bonded bitumen membrane sandwiched tanking system;,2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls; 7.3.1 Damp-proof courses; 1.1.1 Standard foundations; 1.1.3 Lowest floor construction (default);
+Ss_32_80_79_33,32,80,79,33,Fully bonded flexible sheet membrane waterproofing systems,,
 Ss_32_80_79_35,32,80,79,35,Ground supported water retention sheet lining systems,20-05-95/110 Ground supported water retention sheet lining system;,1.1.3 Lowest floor construction;
 Ss_32_80_79_36,32,80,79,36,Hard rigid plastics sheet membrane waterproofing systems,30-70-90/190 Hard rigid plastics sheet membrane waterproofing system;,
 Ss_32_80_79_40,32,80,79,40,High density plastics studded membrane cavity drain waterproofing systems,30-70-90/145 High density plastics studded membrane cavity drain waterproofing system;,2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls (default); 1.1.1 Standard foundations; 1.1.3 Lowest floor construction;
@@ -1196,16 +1198,16 @@ Ss_40_30_85,40,30,85,,Static permanent access and safety equipment systems,,
 Ss_40_30_85_55,40,30,85,55,Netting systems,80-50-25/125 Netting system;,2.5.6 Facade access/cleaning systems (default); 8.4.4 Barriers and guardrails;
 Ss_40_45,40,45,,,Living space FF&E systems,,
 Ss_40_45_37,40,45,37,,Hotel living space FF&E systems,,
-Ss_40_45_37_07,40,45,37,07,Bedroom FF&E systems,,
-Ss_40_45_37_22,40,45,37,22,Dining room FF&E systems,,
 Ss_40_45_37_28,40,45,37,28,External FF&E systems,,
+Ss_40_45_37_36,40,45,37,36,Hotel bedroom FF&E systems,,
+Ss_40_45_37_38,40,45,37,38,Hotel dining room FF&E systems,,
 Ss_40_45_37_45,40,45,37,45,Kitchen FF&E systems,,
-Ss_40_45_37_47,40,45,37,47,Living room FF&E systems,,
+Ss_40_45_37_47,40,45,37,47,Lounge FF&E systems,,
 Ss_40_45_70,40,45,70,,Residential living space FF&E systems,,
 Ss_40_45_70_07,40,45,70,07,Bedroom FF&E systems,,
 Ss_40_45_70_22,40,45,70,22,Dining room FF&E systems,,
 Ss_40_45_70_24,40,45,70,24,Domestic kitchen FF&E systems,,
-Ss_40_45_70_28,40,45,70,28,External FF&E systems,,
+Ss_40_45_70_33,40,45,70,33,Garden FF&E systems,,
 Ss_40_45_70_47,40,45,70,47,Living room FF&E systems,,
 Ss_40_50,40,50,,,"Medical, health and welfare FF&E systems",,
 Ss_40_50_50,40,50,50,,Medical and health FF&E systems,,
@@ -1566,8 +1568,10 @@ Ss_55_15_65_65,55,15,65,65,Plastics potable water storage systems,55-05-65/120 P
 Ss_55_15_65_72,55,15,65,72,Reinforced concrete potable water storage systems,55-05-65/101 Reinforced concrete potable water storage system;,
 Ss_55_15_65_84,55,15,65,84,Steel framed potable water storage systems,55-05-65/110 Steel framed potable water storage system;,
 Ss_55_15_70,55,15,70,,Water reservoir systems,,
-Ss_55_15_72,55,15,72,,Water extraction systems,,
-Ss_55_15_85,55,15,85,,Water treatment systems,,
+Ss_55_15_72,55,15,72,,Water extraction and monitoring systems,,
+Ss_55_15_72_20,55,15,72,20,Water extraction borehole systems,,
+Ss_55_15_72_50,55,15,72,50,Water monitoring borehole systems,,
+Ss_55_15_85,55,15,85,,Water treatment and purification systems,,
 Ss_55_15_85_08,55,15,85,08,Biological aerated flooded filter systems,55-05-85/115 Biological aerated flooded filter system;,
 Ss_55_15_85_23,55,15,85,23,Dissolved air flotation systems,55-05-85/110 Dissolved air flotation system;,
 Ss_55_15_85_46,55,15,85,46,Lamella plate systems,55-05-85/105 Lamella plate system;,
@@ -1727,6 +1731,8 @@ Ss_60_60_15,60,60,15,,Cold room systems,,
 Ss_60_60_15_10,60,60,15,10,Catering cold room systems,60-55-10/110 Catering cold room system;,5.13.2 Specialist refrigeration systems (default);
 Ss_60_60_15_50,60,60,15,50,Mortuary cold room systems,60-55-10/120 Mortuary cold room system;,5.13.2 Specialist refrigeration systems (default);
 Ss_60_60_17,60,60,17,,Cold storage systems,,
+Ss_60_60_70,60,60,70,,Refrigerant systems,,
+Ss_60_60_70_70,60,60,70,70,Refrigerant recovery systems,,
 Ss_60_80,60,80,,,Drying systems,,
 Ss_60_80_08,60,80,08,,Bottle and can drying systems,,
 Ss_60_95,60,95,,,"Temporary heating, cooling and refrigeration systems",,
@@ -1801,7 +1807,8 @@ Ss_70_30_60_89,70,30,60,89,Trolley wire overhead line systems,70-55-55/105 Troll
 Ss_70_30_80,70,30,80,,Small power systems,,
 Ss_70_30_80_35,70,30,80,35,Hard-wired voltage small power systems,70-70-75/110 Hard wired low voltage small power system;,5.8.2 Power installations (default);
 Ss_70_30_80_45,70,30,80,45,Low voltage small power systems with prefabricated wiring,70-70-75/120 Low voltage small power systems with prefabricated wiring;,5.8.2 Power installations (default);
-Ss_70_30_90,70,30,90,,Third rail traction power distribution systems,,
+Ss_70_30_90,70,30,90,,Conductor rail traction power distribution systems,,
+Ss_70_30_90_15,70,30,90,15,Conductor rail electrification systems,,
 Ss_70_30_90_90,70,30,90,90,Third rail electrification systems,70-55-85/101 Third rail electrification system;,
 Ss_70_30_94,70,30,94,,Vehicle charging systems,,
 Ss_70_30_94_27,70,30,94,27,Electric vehicle charging systems,70-55-90/101 Electric vehicle charging system;,
@@ -1987,7 +1994,7 @@ Ss_80_20_06_04,80,20,06,04,Airport baggage handling systems,80-65-10/101 Baggage
 Ss_80_20_10,80,20,10,,Bulk material conveying systems,,
 Ss_80_20_11,80,20,11,,Cargo handling systems,,
 Ss_80_20_23,80,20,23,,Document conveying systems,,
-Ss_80_20_23_65,80,20,23,65,Pneumatic conveying systems,80-65-75/110 Pneumatic document conveying system;,5.10.9 Document handling systems (default);
+Ss_80_20_23_65,80,20,23,65,Pneumatic document conveying systems,80-65-75/110 Pneumatic document conveying system;,5.10.9 Document handling systems (default);
 Ss_80_20_60,80,20,60,,Parcel sorting systems,,
 Ss_80_20_62,80,20,62,,People conveying systems,,
 Ss_80_20_62_28,80,20,62,28,Escalator systems,80-40-25/110 Escalator system;,5.10.2 Escalators (default);
@@ -2030,14 +2037,14 @@ Ss_80_70_46_60,80,70,46,60,Pedestrian level crossing systems,80-05-45/115 Pedest
 Ss_80_70_46_93,80,70,46,93,User worked level crossing systems,80-05-45/105 User worked level crossing system;,
 Ss_80_70_46_95,80,70,46,95,Vehicular level crossing systems,80-05-45/110 Public vehicular level crossing system;,
 Ss_80_70_50,80,70,50,,Monorail systems,,
-Ss_80_70_69,80,70,69,,Rail buffer systems,,
-Ss_80_70_69_30,80,70,69,30,Fixed buffer systems,80-05-75/110 Fixed buffer system;,
-Ss_80_70_69_31,80,70,69,31,Friction buffer systems,80-05-75/120 Friction buffer system;,
 Ss_80_70_70,80,70,70,,Rail track systems,,
 Ss_80_70_70_06,80,70,70,06,Ballasted rail track systems,80-05-85/101 Ballasted rail track system;,
 Ss_80_70_70_27,80,70,70,27,Embedded rail systems,80-05-85/120 Embedded rail system;,
 Ss_80_70_70_56,80,70,70,56,Non-embedded slab track rail systems,80-05-85/130 Non-embedded slab track rail system;,
 Ss_80_70_70_65,80,70,70,65,Precast track bed systems,80-05-85/110 Precast track bed system;,
+Ss_80_70_89,80,70,89,,Train arrestor systems,,
+Ss_80_70_89_30,80,70,89,30,Fixed train arrestor systems,80-05-75/110 Fixed buffer system;,
+Ss_80_70_89_50,80,70,89,50,Moveable train arrestor systems,80-05-75/120 Friction buffer system;,
 Ss_80_80,80,80,,,Turntable systems,,
 Ss_80_80_20,80,80,20,,Display turntable systems,,
 Ss_80_80_30,80,80,30,,Floor turntable systems,,
