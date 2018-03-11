@@ -10,14 +10,14 @@ Uniclass 2015 is divided into a set of tables which can be used to categorize in
 
 Table name | Description | Filename | Version, Date
 --- | --- | --- | ---
-Co - Complexes | The overall project such as a university campus or rail network. | [Uniclass2015_Co.csv](Uniclass2015_Co.csv) | v1.4, October 2017
-En - Entities | Entities are discrete things like buildings, bridges, tunnels etc. | [Uniclass2015_En.csv](Uniclass2015_En.csv) | v1.6, October 2017
-Ac - Activities | This defines the activities to be carried out in the complex, entity or space. | [Uniclass2015_Ac.csv](Uniclass2015_Ac.csv) | v1.4, July 2017
-SL - Spaces/ locations | In buildings, spaces are provided for various activities to take place. Also classed as spaces are transport corridors that run between two locations. | [Uniclass2015_SL.csv](Uniclass2015_SL.csv) | v1.6, October 2017
+Co - Complexes | The overall project such as a university campus or rail network. | [Uniclass2015_Co.csv](Uniclass2015_Co.csv) | v1.5, January 2018
+En - Entities | Entities are discrete things like buildings, bridges, tunnels etc. | [Uniclass2015_En.csv](Uniclass2015_En.csv) | v1.7, January 2018
+Ac - Activities | This defines the activities to be carried out in the complex, entity or space. | [Uniclass2015_Ac.csv](Uniclass2015_Ac.csv) | v1.5, January 2018
+SL - Spaces/ locations | In buildings, spaces are provided for various activities to take place. Also classed as spaces are transport corridors that run between two locations. | [Uniclass2015_SL.csv](Uniclass2015_SL.csv) | v1.7, January 2018
 EF - Elements/ functions | Elements are the main components of a structure like a bridge (foundations, piers, deck) or a building (floors, walls and roofs). | [Uniclass2015_EF.csv](Uniclass2015_EF.csv) | v1.2, Published 2016
-Ss - Systems | Systems are the collection of components that go together to make an element or to carry out a function (such as the components of a roof). | [Uniclass2015_Ss.csv](Uniclass2015_Ss.csv) | v1.8, October 2017
-Pr - Products | The products are used to construct a system. | [Uniclass2015_Pr.csv](Uniclass2015_Pr.csv) | v1.8, October 2017
-TE - Tools and Equipment |  | [Uniclass2015_TE.csv](Uniclass2015_TE.csv) | v1.3, October 2017
+Ss - Systems | Systems are the collection of components that go together to make an element or to carry out a function (such as the components of a roof). | [Uniclass2015_Ss.csv](Uniclass2015_Ss.csv) | v1.9, January 2018
+Pr - Products | The products are used to construct a system. | [Uniclass2015_Pr.csv](Uniclass2015_Pr.csv) | v1.9, January 2018
+TE - Tools and Equipment |  | [Uniclass2015_TE.csv](Uniclass2015_TE.csv) | v1.4, January 2018
 Zz - CAD |  | [Uniclass2015_Zz.csv](Uniclass2015_Zz.csv) | v1.0, July 2015
 FI - Form of Information |  | [Uniclass2015_FI.csv](Uniclass2015_FI.csv) | Beta status – consultation ongoing
 PM - Project Management |  | [Uniclass2015_PM.csv](Uniclass2015_PM.csv) | v1.0, September 2017

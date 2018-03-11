@@ -4,18 +4,18 @@
 
 rm *.csv
 
-# Download October 2017 version of xlsx files
+# Download January 2018 version of xlsx files
 # (change version numbers to latest before launching this script!)
 
 nbsurl="https://toolkit.thenbs.com/Articles/Classification/Uniclass2015Table/"
-curl $nbsurl"Co?version=v1_4" > Uniclass2015_Co.xlsx &&
-curl $nbsurl"En?version=v1_6" > Uniclass2015_En.xlsx &&
-curl $nbsurl"Ac?version=v1_4" > Uniclass2015_Ac.xlsx &&
-curl $nbsurl"SL?version=v1_6" > Uniclass2015_SL.xlsx &&
+curl $nbsurl"Co?version=v1_5" > Uniclass2015_Co.xlsx &&
+curl $nbsurl"En?version=v1_7" > Uniclass2015_En.xlsx &&
+curl $nbsurl"Ac?version=v1_5" > Uniclass2015_Ac.xlsx &&
+curl $nbsurl"SL?version=v1_7" > Uniclass2015_SL.xlsx &&
 curl $nbsurl"EF?version=v1_2" > Uniclass2015_EF.xlsx &&
-curl $nbsurl"Ss?version=v1_8" > Uniclass2015_Ss.xlsx &&
-curl $nbsurl"Pr?version=v1_8" > Uniclass2015_Pr.xlsx &&
-curl $nbsurl"TE?version=v1_3" > Uniclass2015_TE.xlsx &&
+curl $nbsurl"Ss?version=v1_9" > Uniclass2015_Ss.xlsx &&
+curl $nbsurl"Pr?version=v1_9" > Uniclass2015_Pr.xlsx &&
+curl $nbsurl"TE?version=v1_4" > Uniclass2015_TE.xlsx &&
 curl $nbsurl"Zz?version=v1_0" > Uniclass2015_Zz.xlsx &&
 curl $nbsurl"FI?version=v0_1" > Uniclass2015_FI.xlsx &&
 curl $nbsurl"PM?version=v1_0" > Uniclass2015_PM.xlsx
