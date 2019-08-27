@@ -8,7 +8,7 @@ Uniclass 2015 is divided into a set of tables which can be used to categorize in
 
 ## Tables
 
-Generated from 2019-07 dataset.
+**Last created from the 2019-07 dataset.**
 
 Table name | Description | Filename | Version, Date
 --- | --- | --- | ---
@@ -44,7 +44,7 @@ To download Uniclass 2015 Excel files from NBS and convert to CSV format:
 
 ```sh
 php -r "readfile('https://raw.githubusercontent.com/buildig/uniclass-2015/master/convert.sh');" > convert.sh
-chmod a+x convert.sh
+chmod +x convert.sh
 ./convert.sh
 ```
 
