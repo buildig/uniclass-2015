@@ -6,7 +6,7 @@ rm *.csv
 cp -a Uniclass2015_Tables.csv.txt Uniclass2015_Tables.csv
 
 # Download July 2019 version of xlsx files
-# (change version numbers to latest before launching this script!)
+# (change nbsurl & version numbers to latest before launching this script!)
 nbsurl="https://www.thenbs.com/-/media/uk/files/xls/uniclass/2019-07/"
 curl $nbsurl"uniclass2015_co_v1_8.xlsx" > Uniclass2015_Co.xlsx
 curl $nbsurl"uniclass2015_en_v1_13.xlsx" > Uniclass2015_En.xlsx
