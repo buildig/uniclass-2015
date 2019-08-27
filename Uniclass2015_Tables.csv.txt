@@ -1,0 +1,13 @@
+Code,Group,Sub group,Section,Object,Title,NBS Code,NRM
+Ac,,,,,Activities,,
+Co,,,,,Complexes,,
+EF,,,,,Elements/ functions,,
+En,,,,,Entities,,
+FI,,,,,Form of Information,,
+PM,,,,,Project Management,,
+Pr,,,,,Products,,
+Sl,,,,,Spaces/ locations,,
+Ss,,,,,Systems,,
+TE,,,,,Tools and Equipment,,
+Zz,,,,,CAD,,
+Ro,,,,,Roles,,
