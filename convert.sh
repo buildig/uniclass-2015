@@ -1,24 +1,25 @@
 #!/usr/bin/env bash
+set -exu
 
 # Remove old *.csv files
-
 rm *.csv
+cp -a Uniclass2015_Tables.csv.txt Uniclass2015_Tables.csv
 
-# Download January 2018 version of xlsx files
+# Download July 2019 version of xlsx files
 # (change version numbers to latest before launching this script!)
-
-nbsurl="https://toolkit.thenbs.com/Articles/Classification/Uniclass2015Table/"
-curl $nbsurl"Co?version=v1_5" > Uniclass2015_Co.xlsx &&
-curl $nbsurl"En?version=v1_7" > Uniclass2015_En.xlsx &&
-curl $nbsurl"Ac?version=v1_5" > Uniclass2015_Ac.xlsx &&
-curl $nbsurl"SL?version=v1_7" > Uniclass2015_SL.xlsx &&
-curl $nbsurl"EF?version=v1_2" > Uniclass2015_EF.xlsx &&
-curl $nbsurl"Ss?version=v1_9" > Uniclass2015_Ss.xlsx &&
-curl $nbsurl"Pr?version=v1_9" > Uniclass2015_Pr.xlsx &&
-curl $nbsurl"TE?version=v1_4" > Uniclass2015_TE.xlsx &&
-curl $nbsurl"Zz?version=v1_0" > Uniclass2015_Zz.xlsx &&
-curl $nbsurl"FI?version=v0_1" > Uniclass2015_FI.xlsx &&
-curl $nbsurl"PM?version=v1_0" > Uniclass2015_PM.xlsx
+nbsurl="https://www.thenbs.com/-/media/uk/files/xls/uniclass/2019-07/"
+curl $nbsurl"uniclass2015_co_v1_8.xlsx" > Uniclass2015_Co.xlsx
+curl $nbsurl"uniclass2015_en_v1_13.xlsx" > Uniclass2015_En.xlsx
+curl $nbsurl"uniclass2015_ac_v1_10.xlsx" > Uniclass2015_Ac.xlsx
+curl $nbsurl"uniclass2015_sl_v1_13.xlsx" > Uniclass2015_SL.xlsx
+curl $nbsurl"uniclass2015_ef_v1_6.xlsx" > Uniclass2015_EF.xlsx
+curl $nbsurl"uniclass2015_ss_v1_15.xlsx" > Uniclass2015_Ss.xlsx
+curl $nbsurl"uniclass2015_pr_v1_15.xlsx" > Uniclass2015_Pr.xlsx
+curl $nbsurl"uniclass2015_te_v1_6.xlsx" > Uniclass2015_TE.xlsx
+curl $nbsurl"uniclass2015_pm_v1_5.xlsx" > Uniclass2015_PM.xlsx
+curl $nbsurl"uniclass2015_zz_v1_0.xlsx" > Uniclass2015_Zz.xlsx
+curl $nbsurl"uniclass2015_fi_v1_1.xlsx" > Uniclass2015_FI.xlsx
+curl $nbsurl"uniclass2015_ro_v1_1.xlsx" > Uniclass2015_Ro.xlsx
 
 # Convert xlsx files to csv format
 
@@ -29,15 +30,10 @@ for i in *.xlsx;
   in2csv $i | tail -n +3 > $filename$outext
 done
 
-# Download Uniclass2015_Tables.csv
-
-curl -O "https://raw.githubusercontent.com/buildig/uniclass-2015/master/Uniclass2015_Tables.csv"
-
 # Create Uniclass2015.csv
-
 uniclassfiles="Uniclass2015_Tables.csv Uniclass2015_Ac.csv Uniclass2015_Co.csv Uniclass2015_EF.csv
 Uniclass2015_En.csv Uniclass2015_FI.csv Uniclass2015_PM.csv Uniclass2015_Pr.csv
-Uniclass2015_SL.csv Uniclass2015_Ss.csv Uniclass2015_TE.csv Uniclass2015_Zz.csv"
+Uniclass2015_SL.csv Uniclass2015_Ss.csv Uniclass2015_TE.csv Uniclass2015_Zz.csv Uniclass2015_Ro.csv"
 
 (head -1 Uniclass2015_Tables.csv;
   for i in $uniclassfiles;
@@ -45,6 +41,5 @@ Uniclass2015_SL.csv Uniclass2015_Ss.csv Uniclass2015_TE.csv Uniclass2015_Zz.csv"
   done
 ) > Uniclass2015.csv
 
-# Remove *.csv files
-
+# Remove *.xlsx files
 rm *.xlsx
