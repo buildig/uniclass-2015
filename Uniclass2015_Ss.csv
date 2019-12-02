@@ -45,8 +45,8 @@ Ss_15_30_32_50,15,30,32,50,Masonry fungus treatment systems,10-70-30/140 Treatme
 Ss_15_30_32_85,15,30,32,85,Termite treatment systems,,
 Ss_15_30_32_90,15,30,32,90,Timber fungus treatment systems,10-70-30/150 Treatment systems for fungus infected timber;,7.3.2 Fungus/beetle eradication (default);
 Ss_15_30_33,15,30,33,,Glass repair and renovation systems,,
-Ss_15_30_36,15,30,36,,Grouting systems,,
 Ss_15_30_50,15,30,50,,Masonry repair and renovation systems,,
+Ss_15_30_50_11,15,30,50,11,Cavity wall insulation systems,10-70-50/110 Cavity wall insulation system;,2.5.2 External enclosing walls below ground level; 2.7.1 Walls and partitions; 2.5.1 External enclosing walls above ground level (default);
 Ss_15_30_50_50,15,30,50,50,Masonry repair systems,10-70-55/155 Masonry repair system;,7.6.1 Masonry repairs (default); 7.1.1 Minor demolition and alteration works;
 Ss_15_30_50_53,15,30,50,53,Mortar joint repair systems,10-70-65/150 Mortar repairs system;,7.6.1 Masonry repairs (default);
 Ss_15_30_50_55,15,30,50,55,Mortar repointing systems,10-70-65/155 Mortar repointing system;,7.6.1 Masonry repairs (default);
@@ -132,6 +132,11 @@ Ss_20_05_65_64,20,05,65,64,Plunge column piling systems,15-05-65/150 Plunge colu
 Ss_20_05_65_76,20,05,65,76,Screw piling systems,15-05-65/180 Screw piling system;,1.1.2 Specialist foundations (default);
 Ss_20_05_65_84,20,05,65,84,Steel bearing pile systems,15-05-65/160 Steel bearing pile system;,1.1.2 Specialist foundations (default);
 Ss_20_05_65_89,20,05,65,89,Timber piling systems,15-05-65/170 Timber piling system;,1.1.2 Specialist foundations (default);
+Ss_20_05_80,20,05,80,,Structural grouting systems,,
+Ss_20_05_80_12,20,05,80,12,Cementitious grout systems,15-05-90/175 Underpinning cementitious grout system;,
+Ss_20_05_80_57,20,05,80,57,Non-cementitious grout systems,15-05-90/180 Underpinning non-cementitious grout system;,
+Ss_20_05_80_71,20,05,80,71,Retaining wall cementitious grout systems,10-35-30/155 Retaining wall cementitious grout system;,
+Ss_20_05_80_73,20,05,80,73,Retaining wall self-hardening slurry systems,10-35-30/160 Retaining wall self-hardening slurry system;,
 Ss_20_05_90,20,05,90,,Underpinning systems,,
 Ss_20_05_90_10,20,05,90,10,Beam and pier unreinforced concrete underpinning systems,15-05-90/110 Beam and pier underpinning system;,8.8.3 Underpinning to external site boundary walls; 1.1.2 Specialist foundations (default);
 Ss_20_05_90_35,20,05,90,35,Grouted underpinning systems,15-05-90/120 Grouted underpinning system;,8.8.3 Underpinning to external site boundary walls; 1.1.2 Specialist foundations (default);
@@ -293,17 +298,12 @@ Ss_25_13_33_64,25,13,33,64,Prefabricated glass block wall systems,25-10-40/150 P
 Ss_25_13_35,25,13,35,,Gypsum block wall systems,,
 Ss_25_13_45,25,13,45,,Lead brick wall systems,,
 Ss_25_13_50,25,13,50,,Masonry wall systems,,
-Ss_25_13_50_11,25,13,50,11,Cavity wall insulation systems,10-70-50/110 Cavity wall insulation system;,2.5.2 External enclosing walls below ground level; 2.7.1 Walls and partitions; 2.5.1 External enclosing walls above ground level (default);
 Ss_25_13_50_49,25,13,50,49,Masonry exposed feature systems,25-10-55/185 Masonry exposed feature system;,"2.5.2 External enclosing walls below ground level; 8.4.2 Walls and screens; 2.7.1 Walls and partitions; 2.5.1 External enclosing walls above ground level (default); 2.5.5 Subsidiary walls, balustrades and proprietary balconies;"
-Ss_25_13_50_50,25,13,50,50,Masonry wall external leaf systems,25-10-55/150 Masonry external leaf system;,"2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls; 2.5.1 External enclosing walls above ground level (default); 2.5.5 Subsidiary walls, balustrades and proprietary balconies;"
-Ss_25_13_50_51,25,13,50,51,Masonry wall internal leaf systems,25-10-55/160 Masonry internal leaf system;,"2.5.2 External enclosing walls below ground level; 2.5.1 External enclosing walls above ground level (default); 2.5.5 Subsidiary walls, balustrades and proprietary balconies;"
-Ss_25_13_50_52,25,13,50,52,Masonry wall single leaf systems,,
+Ss_25_13_50_51,25,13,50,51,Masonry wall leaf systems,25-10-55/160 Masonry internal leaf system;,"2.5.2 External enclosing walls below ground level; 2.5.1 External enclosing walls above ground level (default); 2.5.5 Subsidiary walls, balustrades and proprietary balconies;"
 Ss_25_13_50_54,25,13,50,54,Masonry free-standing wall leaf systems,25-10-55/170 Masonry freestanding wall leaf system;,"2.5.2 External enclosing walls below ground level; 8.4.2 Walls and screens; 2.5.1 External enclosing walls above ground level (default); 2.5.5 Subsidiary walls, balustrades and proprietary balconies;"
 Ss_25_13_50_56,25,13,50,56,Masonry internal partition systems,25-10-55/165 Masonry internal partition system;,2.7.1 Walls and partitions (default); 2.7.2 Balustrades and handrails;
 Ss_25_13_70,25,13,70,,Reinforced masonry wall systems,,
-Ss_25_13_70_70,25,13,70,70,Reinforced masonry wall external leaf systems,,
-Ss_25_13_70_71,25,13,70,71,Reinforced masonry wall internal leaf systems,,
-Ss_25_13_70_72,25,13,70,72,Reinforced masonry wall single leaf systems,,
+Ss_25_13_70_71,25,13,70,71,Reinforced masonry wall leaf systems,,
 Ss_25_13_70_74,25,13,70,74,Reinforced masonry free-standing wall leaf systems,,
 Ss_25_13_70_76,25,13,70,76,Reinforced masonry internal partition systems,,
 Ss_25_13_85,25,13,85,,Straw bale wall systems,,
@@ -384,6 +384,7 @@ Ss_25_16_50_77,25,16,50,77,Scouring protection systems,,
 Ss_25_16_50_80,25,16,50,80,Sea wall systems,,
 Ss_25_16_73,25,16,73,,Road and rail barrier systems,,
 Ss_25_16_73_03,25,16,73,03,Acoustic barrier systems,,
+Ss_25_16_73_05,25,16,73,05,Anti-throw barrier systems,,
 Ss_25_16_73_26,25,16,73,26,Environment protection screen systems,,
 Ss_25_16_73_80,25,16,73,80,Socket for temporary barrier systems,,
 Ss_25_16_76,25,16,76,,Rockfall barrier systems,,
@@ -455,7 +456,8 @@ Ss_25_25_45_25,25,25,45,25,Duct and wall panel lining systems,25-85-45/120 Duct 
 Ss_25_25_45_33,25,25,45,33,Gypsum board casing systems,25-85-45/135 Gypsum board casing system;,3.1.1 Wall finishes (default);
 Ss_25_25_45_35,25,25,45,35,Gypsum board wall lining systems,25-85-45/140 Gypsum board wall lining system;,3.1.1 Wall finishes (default);
 Ss_25_25_45_50,25,25,45,50,Metal framed wall lining systems,25-85-45/150 Metal framed wall lining system;,3.1.1 Wall finishes (default);
-Ss_25_25_45_70,25,25,45,70,Rigid sheet wall lining and casing systems,25-85-45/170 Rigid sheet wall lining and casing system;,3.1.1 Wall finishes (default);
+Ss_25_25_45_68,25,25,45,68,Rigid sheet casing systems,,
+Ss_25_25_45_70,25,25,45,70,Rigid sheet wall lining systems,25-85-45/170 Rigid sheet wall lining and casing system;,3.1.1 Wall finishes (default);
 Ss_25_25_45_88,25,25,45,88,Timber board casing systems,25-85-45/185 Timber board casing system;,3.1.1 Wall finishes (default);
 Ss_25_25_45_90,25,25,45,90,Timber board wall lining systems,25-85-45/190 Timber board wall lining system;,3.1.1 Wall finishes (default);
 Ss_25_25_70,25,25,70,,Radiation shielding lining systems,,
@@ -488,6 +490,7 @@ Ss_25_30_20_40,25,30,20,40,Industrial doorset systems,25-50-20/145 Industrial do
 Ss_25_30_20_45,25,30,20,45,Loading bay doorset systems,25-50-20/150 Loading bay system;,2.6.2 External doors (default);
 Ss_25_30_20_46,25,30,20,46,Louvre doorset systems,,
 Ss_25_30_20_62,25,30,20,62,Pivot doorset systems,,
+Ss_25_30_20_65,25,30,20,65,Platform door systems,,
 Ss_25_30_20_70,25,30,20,70,Revolving doorset systems,25-50-20/170 Revolving doorset system;,2.6.2 External doors (default); 2.8.1 Internal doors;
 Ss_25_30_20_73,25,30,20,73,Roller grille doorset systems,,
 Ss_25_30_20_74,25,30,20,74,Roller shutter doorset systems,,
@@ -498,10 +501,8 @@ Ss_25_30_20_80,25,30,20,80,Sliding stacking panel partition systems,25-50-20/185
 Ss_25_30_20_84,25,30,20,84,Strip curtain doorset systems,,
 Ss_25_30_20_93,25,30,20,93,Up and over doorset systems,,
 Ss_25_30_29,25,30,29,,Fire and smoke curtain systems,,
-Ss_25_30_29_38,25,30,29,38,Horizontal fire curtain systems,,
-Ss_25_30_29_39,25,30,29,39,Horizontal smoke curtain systems,,
-Ss_25_30_29_94,25,30,29,94,Vertical fire curtain systems,,
-Ss_25_30_29_95,25,30,29,95,Vertical smoke curtain systems,,
+Ss_25_30_29_30,25,30,29,30,Fire curtain systems,,
+Ss_25_30_29_80,25,30,29,80,Smoke curtain systems,,
 Ss_25_30_95,25,30,95,,Window systems,,
 Ss_25_30_95_26,25,30,95,26,External window systems,25-50-95/125 External window system;,2.6.1 External windows (default);
 Ss_25_30_95_41,25,30,95,41,Internal window systems,,
@@ -788,7 +789,7 @@ Ss_30_25_22_90,30,25,22,90,Unit/ modular suspended ceiling systems,20-10-20/190 
 Ss_30_30,30,30,,,Roof opening systems,,
 Ss_30_30_15,30,30,15,,Concrete roof glazing systems,,
 Ss_30_30_15_42,30,30,15,42,In situ concrete roof glazing systems,20-40-60/110 Cast in situ floor and roof glazing systems;,"2.3.1 Roof structure; 2.2.2 Balconies; 2.2.1 Floors; 2.3.5 Rooflights, skylights and openings (default);"
-Ss_30_30_15_64,30,30,15,64,Precast concrete lift-out access roof glazing systems,20-40-60/150 Precast lift-out access floor and roof glazing systems;,"2.3.1 Roof structure; 2.2.2 Balconies; 2.2.1 Floors; 2.3.5 Rooflights, skylights and openings (default);"
+Ss_30_30_15_64,30,30,15,64,Precast concrete lift-out access roof glazing systems,,
 Ss_30_30_15_65,30,30,15,65,Precast concrete roof glazing systems,20-40-60/140 Precast floor and roof glazing system;,"2.2.2 Balconies; 2.2.1 Floors; 2.3.5 Rooflights, skylights and openings (default);"
 Ss_30_30_34,30,30,34,,Glass unit masonry roof light systems,,
 Ss_30_30_71,30,30,71,,Roof hatch systems,,
@@ -802,21 +803,21 @@ Ss_30_30_73_72,30,30,73,72,Roof smoke ventilator systems,,
 Ss_30_32,30,32,,,Floor opening systems,,
 Ss_30_32_15,30,32,15,,Floor glazing systems,,
 Ss_30_32_15_15,30,32,15,15,Concrete floor glazing systems,20-40-60/110 Cast in situ floor and roof glazing systems;,"2.3.1 Roof structure; 2.2.2 Balconies; 2.2.1 Floors; 2.3.5 Rooflights, skylights and openings (default);"
-Ss_30_32_15_64,30,32,15,64,Precast concrete lift-out access floor glazing systems,20-40-60/150 Precast lift-out access floor and roof glazing systems;,"2.3.1 Roof structure; 2.2.2 Balconies; 2.2.1 Floors; 2.3.5 Rooflights, skylights and openings (default);"
+Ss_30_32_15_64,30,32,15,64,Precast concrete lift-out access floor glazing systems,,
 Ss_30_32_15_65,30,32,15,65,Precast concrete floor glazing systems,20-40-60/140 Precast floor and roof glazing system;,"2.2.2 Balconies; 2.2.1 Floors; 2.3.5 Rooflights, skylights and openings (default);"
 Ss_30_32_30,30,32,30,,Floor hatch systems,,
 Ss_30_34,30,34,,,Pavement opening systems,,
 Ss_30_34_03,30,34,03,,Animal grid systems,,
 Ss_30_34_03_11,30,34,03,11,Cattle grid systems,25-70-05/105 Animal grid system;,8.4.4 Barriers and guardrails (default);
 Ss_30_34_15,30,34,15,,Pavement glazing systems,,
-Ss_30_34_15_15,30,34,15,15,Concrete pavement glazing systems,20-40-60/125 Cast in situ pavement glazing system;,"2.3.5 Rooflights, skylights and openings (default);"
-Ss_30_34_15_64,30,34,15,64,Precast concrete lift-out access pavement glazing systems,20-40-60/155 Precast lift-out access pavement glazing system;,"8.2.1 Roads, paths and pavings (default); 2.3.1 Roof structure; 2.2.2 Balconies; 2.2.1 Floors;"
-Ss_30_34_15_65,30,34,15,65,Precast concrete pavement glazing systems,20-40-60/165 Precast pavement glazing system;,"8.2.1 Roads, paths and pavings (default); 2.3.5 Rooflights, skylights and openings;"
+Ss_30_34_15_15,30,34,15,15,Concrete pavement glazing systems,,
+Ss_30_34_15_64,30,34,15,64,Precast concrete lift-out access pavement glazing systems,,
+Ss_30_34_15_65,30,34,15,65,Precast concrete pavement glazing systems,,
 Ss_30_34_16,30,34,16,,Pavement smoke venting systems,,
-Ss_30_34_16_15,30,34,16,15,Concrete pavement glazing smoke venting systems,20-40-60/115 Cast in situ glazed smoke venting system;,"8.2.1 Roads, paths and pavings (default); 2.3.1 Roof structure; 2.2.2 Balconies; 2.2.1 Floors;"
-Ss_30_34_16_16,30,34,16,16,Concrete pavement non-glazed smoke venting systems,20-40-60/120 Cast in situ non-glazed smoke venting system;,2.3.1 Roof structure; 2.2.2 Balconies; 2.2.1 Floors (default);
-Ss_30_34_16_64,30,34,16,64,Precast concrete pavement glazing smoke venting systems,20-40-60/145 Precast glazed smoke venting system;,"2.2.2 Balconies; 2.2.1 Floors; 2.3.5 Rooflights, skylights and openings (default);"
-Ss_30_34_16_65,30,34,16,65,Precast concrete pavement non-glazed smoke venting systems,20-40-60/160 Precast non-glazed smoke venting system;,"2.2.2 Balconies; 2.2.1 Floors; 2.3.5 Rooflights, skylights and openings (default);"
+Ss_30_34_16_15,30,34,16,15,Concrete pavement glazing smoke venting systems,,
+Ss_30_34_16_16,30,34,16,16,Concrete pavement non-glazed smoke venting systems,,
+Ss_30_34_16_64,30,34,16,64,Precast concrete pavement glazing smoke venting systems,,
+Ss_30_34_16_65,30,34,16,65,Precast concrete pavement non-glazed smoke venting systems,,
 Ss_30_36,30,36,,,Ceiling and soffit opening systems,,
 Ss_30_36_10,30,36,10,,Ceiling hatch systems,,
 Ss_30_36_75,30,36,75,,Soffit vent systems,,
@@ -1208,7 +1209,7 @@ Ss_40_15_75_98,40,15,75,98,Wash trough systems,35-70-70/128 Wash trough assembly
 Ss_40_15_77,40,15,77,,Sauna FF&E systems,,
 Ss_40_15_90,40,15,90,,Toilet systems,,
 Ss_40_15_90_05,40,15,90,05,Accessible WC package systems,35-70-70/140 Accessible WC package assembly;,5.1.2 Sanitary ancillaries (default); 5.1.1 Sanitary appliances;
-Ss_40_15_90_85,40,15,90,85,Squatting WC systems,35-70-70/136 Squatting WC assembly;,5.1.2 Sanitary ancillaries (default);
+Ss_40_15_90_85,40,15,90,85,Squatting WC systems,,
 Ss_40_15_90_95,40,15,90,95,Waterless toilet systems,35-70-70/138 Waterless WC assembly;,5.1.1 Sanitary appliances (default);
 Ss_40_15_90_96,40,15,90,96,WC and wash basin combination systems,35-70-70/144 WC and washbasin combination assembly;,5.1.1 Sanitary appliances (default);
 Ss_40_15_90_97,40,15,90,97,WC systems,35-70-70/134 WC assembly;,5.1.1 Sanitary appliances (default);
@@ -1529,6 +1530,8 @@ Ss_50_35_82_59,50,35,82,59,Outlet drainage systems,,
 Ss_50_35_82_73,50,35,82,73,Road drainage systems,,
 Ss_50_35_85,50,35,85,,Surface and waste water pumped drainage systems,,
 Ss_50_40,50,40,,,Solid waste collection and distribution systems,,
+Ss_50_40_95,50,40,95,,Waste collection systems,,
+Ss_50_40_95_65,50,40,95,65,Pneumatic waste collection systems,,
 Ss_50_50,50,50,,,"Gas waste storage, treatment and disposal systems",,
 Ss_50_50_45,50,50,45,,Landfill gas disposal systems,,
 Ss_50_50_95,50,50,95,,Waste gas treatment and disposal systems,,
@@ -1715,15 +1718,16 @@ Ss_55_30_65_65,55,30,65,65,Portable fire extinguisher systems,35-70-60/130 Porta
 Ss_55_30_96,55,30,96,,Water firefighting systems,,
 Ss_55_30_96_24,55,30,96,24,Dry dropper systems,,
 Ss_55_30_96_25,55,30,96,25,Dry riser systems,55-85-20/110 Dry riser system;,5.11.1 Fire fighting systems (default);
-Ss_55_30_96_29,55,30,96,29,Fire hose reel systems,55-85-25/110 Fire hose reel system;,5.11.1 Fire fighting systems (default);
-Ss_55_30_96_30,55,30,96,30,Fire hydrant systems,55-85-30/110 Fire hydrant system;,5.4.1 Mains water supply (default);
+Ss_55_30_96_29,55,30,96,29,Fire hose reel systems,55-85-20/130 Fire hose reel system;,5.11.1 Fire fighting systems (default);
+Ss_55_30_96_30,55,30,96,30,Fire hydrant systems,55-85-20/140 Fire hydrant system;,5.4.1 Mains water supply (default);
 Ss_55_30_96_95,55,30,96,95,Water cannon firefighting systems,,
-Ss_55_30_96_97,55,30,96,97,Wet riser systems,55-85-95/110 Wet riser system;,5.11.1 Fire fighting systems (default);
+Ss_55_30_96_97,55,30,96,97,Wet riser systems,55-85-20/120 Wet riser system;,5.11.1 Fire fighting systems (default);
 Ss_55_30_98,55,30,98,,Water fire suppression systems,,
-Ss_55_30_98_21,55,30,98,21,Deluge systems,55-85-15/110 Deluge system;,5.11.2 Fire suppression systems (default);
+Ss_55_30_98_21,55,30,98,21,Deluge systems,55-85-75/140 Deluge system;,5.11.2 Fire suppression systems (default);
 Ss_55_30_98_23,55,30,98,23,Domestic sprinkler systems,55-85-75/120 Domestic and residential sprinkler system;,
+Ss_55_30_98_70,55,30,98,70,Residential water mist systems,55-85-75/135 Domestic and residential water mist system;,
 Ss_55_30_98_85,55,30,98,85,Sprinkler systems,55-85-75/110 Sprinkler system;,5.11.2 Fire suppression systems (default);
-Ss_55_30_98_96,55,30,98,96,Water mist systems,55-85-90/110 Water mist system;,5.11.2 Fire suppression systems (default);
+Ss_55_30_98_96,55,30,98,96,Water mist systems,55-85-75/130 Commercial and industrial water mist system;,5.11.2 Fire suppression systems (default);
 Ss_55_40,55,40,,,Steam distribution and supply systems,,
 Ss_55_40_85,55,40,85,,Steam supply and condensate systems,55-55-75/110 Steam and condensate system;,5.4.5 Steam and condensate distribution (default); 8.7.10 Local/district heating installations;
 Ss_55_40_85_38,55,40,85,38,Hospital steam supply and condensate systems,,
@@ -1947,6 +1951,7 @@ Ss_75_10_46_05,75,10,46,05,Audio-frequency induction-loop systems,75-45-40/110 A
 Ss_75_10_46_42,75,10,46,42,Infrared listening systems,75-45-50/110 Infrared listening system;,5.12.1 Communication systems (default);
 Ss_75_10_68,75,10,68,,Public communications systems,,
 Ss_75_10_68_02,75,10,68,02,Advertising display systems,,
+Ss_75_10_68_07,75,10,68,07,Bell communication systems,,
 Ss_75_10_68_13,75,10,68,13,Clock systems,,
 Ss_75_10_68_42,75,10,68,42,Information display systems,,
 Ss_75_10_68_68,75,10,68,68,Public address systems,75-45-60/110 Public address system;,5.12.1 Communication systems (default);
@@ -1955,6 +1960,7 @@ Ss_75_10_70,75,10,70,,Radio and television distribution systems,,
 Ss_75_10_70_70,75,10,70,70,Radio distribution systems,75-45-90/115 Radio distribution system;,
 Ss_75_10_70_88,75,10,70,88,Television distribution systems,75-45-90/110 Television distribution system;,5.13.4 Specialist electrical/electronic installations (default);
 Ss_75_10_72,75,10,72,,Emergency communication systems,,
+Ss_75_10_72_30,75,10,72,30,Firefighting intercom systems,,
 Ss_75_10_72_70,75,10,72,70,Radio communications systems,,
 Ss_75_10_72_72,75,10,72,72,Roadway emergency communication systems,,
 Ss_75_10_88,75,10,88,,Timing and scoring systems,,
@@ -1986,7 +1992,7 @@ Ss_75_40_02_05,75,40,02,05,Audio intercom systems,75-60-05/120 Audio intercom sy
 Ss_75_40_02_11,75,40,02,11,Card access control systems,75-60-05/110 Access control system;,5.12.2 Security systems (default);
 Ss_75_40_02_94,75,40,02,94,Video intercom systems,,
 Ss_75_40_53,75,40,53,,Monitoring systems,,
-Ss_75_40_53_86,75,40,53,86,Surveillance systems,75-60-10/110 CCTV system;,5.12.2 Security systems (default);
+Ss_75_40_53_86,75,40,53,86,Surveillance CCTV systems,75-60-10/110 CCTV system;,5.12.2 Security systems (default);
 Ss_75_40_53_90,75,40,53,90,Train dispatch CCTV systems,,
 Ss_75_40_53_95,75,40,53,95,Voice recording systems,,
 Ss_75_40_73,75,40,73,,Security screening systems,,
@@ -2022,6 +2028,7 @@ Ss_75_50_28_24,75,50,28,24,Duct smoke detector systems,75-65-30/130 Duct smoke d
 Ss_75_50_28_29,75,50,28,29,Fire detection and alarm systems,75-65-30/110 Fire detection and alarm system;,5.12.1 Communication systems (default);
 Ss_75_50_28_30,75,50,28,30,Fixed gas detection and alarm systems,75-65-35/110 Fixed gas detection and alarm system;,5.13.1 Specialist piped supply installations (default);
 Ss_75_50_28_32,75,50,28,32,Flow sample gas detection and alarm systems,75-65-35/120 Flow sample gas detection and alarm system;,5.13.1 Specialist piped supply installations (default);
+Ss_75_50_28_71,75,50,28,71,Refrigerant leak detection and alarm systems,,
 Ss_75_50_28_96,75,50,28,96,Water leak detection and alarm systems,75-65-95/120 Water leak detection and alarm system;,5.12.1 Communication systems (default);
 Ss_75_50_28_97,75,50,28,97,Water presence detection and alarm systems,75-65-95/110 Water presence detection and alarm system;,5.12.1 Communication systems (default);
 Ss_75_50_35,75,50,35,,Healthcare imaging systems,,
