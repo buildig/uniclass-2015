@@ -5,21 +5,20 @@ set -exu
 rm *.csv
 cp -a Uniclass2015_Tables.csv.txt Uniclass2015_Tables.csv
 
-# Download July 2019 version of xlsx files
-# (change nbsurl & version numbers to latest before launching this script!)
-nbsurl="https://www.thenbs.com/-/media/uk/files/xls/uniclass/2019-07/"
-curl $nbsurl"uniclass2015_co_v1_8.xlsx" > Uniclass2015_Co.xlsx
-curl $nbsurl"uniclass2015_en_v1_13.xlsx" > Uniclass2015_En.xlsx
-curl $nbsurl"uniclass2015_ac_v1_10.xlsx" > Uniclass2015_Ac.xlsx
-curl $nbsurl"uniclass2015_sl_v1_13.xlsx" > Uniclass2015_SL.xlsx
-curl $nbsurl"uniclass2015_ef_v1_6.xlsx" > Uniclass2015_EF.xlsx
-curl $nbsurl"uniclass2015_ss_v1_15.xlsx" > Uniclass2015_Ss.xlsx
-curl $nbsurl"uniclass2015_pr_v1_15.xlsx" > Uniclass2015_Pr.xlsx
-curl $nbsurl"uniclass2015_te_v1_6.xlsx" > Uniclass2015_TE.xlsx
-curl $nbsurl"uniclass2015_pm_v1_5.xlsx" > Uniclass2015_PM.xlsx
-curl $nbsurl"uniclass2015_zz_v1_0.xlsx" > Uniclass2015_Zz.xlsx
-curl $nbsurl"uniclass2015_fi_v1_1.xlsx" > Uniclass2015_FI.xlsx
-curl $nbsurl"uniclass2015_ro_v1_1.xlsx" > Uniclass2015_Ro.xlsx
+# Download October 2019 version of xlsx files
+# (change version numbers to latest before launching this script!)
+curl "https://www.thenbs.com/-/media/uk/files/xls/uniclass/2019-10/uniclass2015_co_v1_9.xlsx" > Uniclass2015_Co.xlsx
+curl "https://www.thenbs.com/-/media/uk/files/xls/uniclass/2019-10/uniclass2015_en_v1_14.xlsx" > Uniclass2015_En.xlsx
+curl "https://www.thenbs.com/-/media/uk/files/xls/uniclass/2019-07/uniclass2015_ac_v1_10.xlsx" > Uniclass2015_Ac.xlsx
+curl "https://www.thenbs.com/-/media/uk/files/xls/uniclass/2019-10/uniclass2015_sl_v1_14.xlsx" > Uniclass2015_SL.xlsx
+curl "https://www.thenbs.com/-/media/uk/files/xls/uniclass/2019-07/uniclass2015_ef_v1_6.xlsx" > Uniclass2015_EF.xlsx
+curl "https://www.thenbs.com/-/media/uk/files/xls/uniclass/2019-10/uniclass2015_ss_v1_16.xlsx" > Uniclass2015_Ss.xlsx
+curl "https://www.thenbs.com/-/media/uk/files/xls/uniclass/2019-10/uniclass2015_pr_v1_16.xlsx" > Uniclass2015_Pr.xlsx
+curl "https://www.thenbs.com/-/media/uk/files/xls/uniclass/2019-07/uniclass2015_te_v1_6.xlsx" > Uniclass2015_TE.xlsx
+curl "https://www.thenbs.com/-/media/uk/files/xls/uniclass/2019-10/uniclass2015_pm_v1_6.xlsx" > Uniclass2015_PM.xlsx
+curl "https://www.thenbs.com/-/media/uk/files/xls/uniclass/2019-07/uniclass2015_zz_v1_0.xlsx" > Uniclass2015_Zz.xlsx
+curl "https://www.thenbs.com/-/media/uk/files/xls/uniclass/2019-10/uniclass2015_fi_v1_2.xlsx" > Uniclass2015_FI.xlsx
+curl "https://www.thenbs.com/-/media/uk/files/xls/uniclass/2019-07/uniclass2015_ro_v1_1.xlsx" > Uniclass2015_Ro.xlsx
 
 # Convert xlsx files to csv format
 
