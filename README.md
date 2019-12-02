@@ -39,7 +39,7 @@ Codes within the classification system consists of four or five pairs of charact
 
 To download Uniclass 2015 Excel files from NBS and convert to CSV format:
 
-1. Update Uniclass [`nbsurl` & file version numbers](/convert.sh#L10-L22) to the [latest](https://toolkit.thenbs.com/articles/classification)
+1. Update Uniclass [file version numbers](/convert.sh#L10-L22) to the [latest](https://toolkit.thenbs.com/articles/classification)
 2. Run this script (requires [in2csv](https://csvkit.readthedocs.io/en/1.0.3/scripts/in2csv.html)):
 
 ```sh
