@@ -1,24 +1,25 @@
 #!/usr/bin/env bash
 set -exu
 
+URL="https://www.thenbs.com/-/media/uk/files/xls/uniclass/2020-10"
 # Remove old *.csv files
 rm *.csv
 cp -a Uniclass2015_Tables.csv.txt Uniclass2015_Tables.csv
 
 # Download October 2020 version of xlsx files
-# (change version numbers to latest before launching this script!)
-curl "https://www.thenbs.com/-/media/uk/files/xls/uniclass/2020-07/uniclass2015_co_v1_11.xlsx" > Uniclass2015_Co.xlsx
-curl "https://www.thenbs.com/-/media/uk/files/xls/uniclass/2020-07/uniclass2015_en_v1_18.xlsx" > Uniclass2015_En.xlsx
-curl "https://www.thenbs.com/-/media/uk/files/xls/uniclass/2020-07/uniclass2015_ac_v1_12.xlsx" > Uniclass2015_Ac.xlsx
-curl "https://www.thenbs.com/-/media/uk/files/xls/uniclass/2020-07/uniclass2015_sl_v1_18.xlsx" > Uniclass2015_SL.xlsx
-curl "https://www.thenbs.com/-/media/uk/files/xls/uniclass/2020-01/uniclass2015_ef_v1_7.xlsx" > Uniclass2015_EF.xlsx
-curl "https://www.thenbs.com/-/media/uk/files/xls/uniclass/2020-07/uniclass2015_ss_v1_20.xlsx" > Uniclass2015_Ss.xlsx
-curl "https://www.thenbs.com/-/media/uk/files/xls/uniclass/2020-07/uniclass2015_pr_v1_20.xlsx" > Uniclass2015_Pr.xlsx
-curl "https://www.thenbs.com/-/media/uk/files/xls/uniclass/2020-01/uniclass2015_te_v1_7.xlsx" > Uniclass2015_TE.xlsx
-curl "https://www.thenbs.com/-/media/uk/files/xls/uniclass/2020-07/uniclass2015_pm_v1_10.xlsx" > Uniclass2015_PM.xlsx
-curl "https://www.thenbs.com/-/media/uk/files/xls/uniclass/2020-01/uniclass2015_zz_v1_0.xlsx" > Uniclass2015_Zz.xlsx
-curl "https://www.thenbs.com/-/media/uk/files/xls/uniclass/2020-01/uniclass2015_fi_v1_3.xlsx" > Uniclass2015_FI.xlsx
-curl "https://www.thenbs.com/-/media/uk/files/xls/uniclass/2020-07/uniclass2015_ro_v1_3.xlsx" > Uniclass2015_Ro.xlsx
+# Change $URL & file names to the latest before launching this script!
+curl "$URL/uniclass2015_co_v1_11.xlsx" > Uniclass2015_Co.xlsx
+curl "$URL/uniclass2015_en_v1_18.xlsx" > Uniclass2015_En.xlsx
+curl "$URL/uniclass2015_ac_v1_12.xlsx" > Uniclass2015_Ac.xlsx
+curl "$URL/uniclass2015_sl_v1_18.xlsx" > Uniclass2015_SL.xlsx
+curl "$URL/uniclass2015_ef_v1_7.xlsx" > Uniclass2015_EF.xlsx
+curl "$URL/uniclass2015_ss_v1_20.xlsx" > Uniclass2015_Ss.xlsx
+curl "$URL/uniclass2015_pr_v1_20.xlsx" > Uniclass2015_Pr.xlsx
+curl "$URL/uniclass2015_te_v1_7.xlsx" > Uniclass2015_TE.xlsx
+curl "$URL/uniclass2015_pm_v1_10.xlsx" > Uniclass2015_PM.xlsx
+curl "$URL/uniclass2015_zz_v1_0.xlsx" > Uniclass2015_Zz.xlsx
+curl "$URL/uniclass2015_fi_v1_3.xlsx" > Uniclass2015_FI.xlsx
+curl "$URL/uniclass2015_ro_v1_3.xlsx" > Uniclass2015_Ro.xlsx
 
 # Convert xlsx files to csv format
 
