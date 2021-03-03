@@ -1,25 +1,25 @@
 #!/usr/bin/env bash
 set -exu
 
-URL="https://www.thenbs.com/-/media/uk/files/xls/uniclass/2020-10/uniclass2015"
+URL="https://www.thenbs.com/-/media/uk/files/xls/uniclass/2021-01/uniclass2015"
 # Remove old *.csv files
 rm *.csv
 cp -a Uniclass2015_Tables.csv.txt Uniclass2015_Tables.csv
 
-# Download October 2020 version of xlsx files
+# Download January 2021 version of xlsx files
 # Change "$URL" & file names to the latest before launching this script!
-curl ""$URL"_co_v1_11.xlsx" > Uniclass2015_Co.xlsx
-curl ""$URL"_en_v1_18.xlsx" > Uniclass2015_En.xlsx
-curl ""$URL"_ac_v1_12.xlsx" > Uniclass2015_Ac.xlsx
-curl ""$URL"_sl_v1_18.xlsx" > Uniclass2015_SL.xlsx
-curl ""$URL"_ef_v1_7.xlsx" > Uniclass2015_EF.xlsx
-curl ""$URL"_ss_v1_20.xlsx" > Uniclass2015_Ss.xlsx
-curl ""$URL"_pr_v1_20.xlsx" > Uniclass2015_Pr.xlsx
-curl ""$URL"_te_v1_7.xlsx" > Uniclass2015_TE.xlsx
-curl ""$URL"_pm_v1_10.xlsx" > Uniclass2015_PM.xlsx
+curl ""$URL"_co_v1_12.xlsx" > Uniclass2015_Co.xlsx
+curl ""$URL"_en_v1_19.xlsx" > Uniclass2015_En.xlsx
+curl ""$URL"_ac_v1_13.xlsx" > Uniclass2015_Ac.xlsx
+curl ""$URL"_sl_v1_19.xlsx" > Uniclass2015_SL.xlsx
+curl ""$URL"_ef_v1_8.xlsx" > Uniclass2015_EF.xlsx
+curl ""$URL"_ss_v1_21.xlsx" > Uniclass2015_Ss.xlsx
+curl ""$URL"_pr_v1_21.xlsx" > Uniclass2015_Pr.xlsx
+curl ""$URL"_te_v1_8.xlsx" > Uniclass2015_TE.xlsx
+curl ""$URL"_pm_v1_11.xlsx" > Uniclass2015_PM.xlsx
+curl ""$URL"_fi_v1_4.xlsx" > Uniclass2015_FI.xlsx
+curl ""$URL"_ro_v1_4.xlsx" > Uniclass2015_Ro.xlsx
 curl ""$URL"_zz_v1_0.xlsx" > Uniclass2015_Zz.xlsx
-curl ""$URL"_fi_v1_3.xlsx" > Uniclass2015_FI.xlsx
-curl ""$URL"_ro_v1_3.xlsx" > Uniclass2015_Ro.xlsx
 
 # Convert xlsx files to csv format
 
