@@ -394,6 +394,8 @@ Ss_25_16_50,25,16,50,,"Coastal, river and waterways protection systems",,
 Ss_25_16_50_72,25,16,50,72,Rock armour systems,,
 Ss_25_16_50_77,25,16,50,77,Scouring protection systems,,
 Ss_25_16_50_80,25,16,50,80,Sea wall systems,,
+Ss_25_16_50_82,25,16,50,82,Splash deck systems,,
+Ss_25_16_50_84,25,16,50,84,Splash wall systems,,
 Ss_25_16_73,25,16,73,,Road and rail barrier systems,,
 Ss_25_16_73_03,25,16,73,03,Acoustic barrier systems,,
 Ss_25_16_73_05,25,16,73,05,Anti-throw barrier systems,,
@@ -421,7 +423,7 @@ Ss_25_20,25,20,,,Wall cladding systems,,
 Ss_25_20_08,25,20,08,,Board cladding systems,,
 Ss_25_20_08_95,25,20,08,95,Weatherboarding systems,25-80-95/195 Weatherboarding system;,2.5.1 External enclosing walls above ground level (default);
 Ss_25_20_14,25,20,14,,Composite panel cladding systems,,
-Ss_25_20_14_10,25,20,14,10,Built-up metal insulating sandwich panel cladding systems,25-80-52/155 Metal site-assembled insulating sandwich panel cladding system;,2.5.1 External enclosing walls above ground level (default);
+Ss_25_20_14_10,25,20,14,10,Built-up metal insulating sandwich panel cladding systems,,
 Ss_25_20_14_52,25,20,14,52,Metal composite panel cladding systems,,
 Ss_25_20_14_54,25,20,14,54,Metal insulating sandwich panel cladding systems,25-80-52/150 Metal insulating sandwich panel cladding system;,2.5.1 External enclosing walls above ground level (default);
 Ss_25_20_14_55,25,20,14,55,Metal semi-composite panel cladding systems,,
@@ -469,7 +471,7 @@ Ss_25_25_45_25,25,25,45,25,Duct and wall panel lining systems,25-85-45/120 Duct 
 Ss_25_25_45_33,25,25,45,33,Gypsum board casing systems,25-85-45/135 Gypsum board casing system;,3.1.1 Wall finishes (default);
 Ss_25_25_45_35,25,25,45,35,Gypsum board wall lining systems,25-85-45/140 Gypsum board wall lining system;,3.1.1 Wall finishes (default);
 Ss_25_25_45_50,25,25,45,50,Metal framed wall lining systems,25-85-45/150 Metal framed wall lining system;,3.1.1 Wall finishes (default);
-Ss_25_25_45_68,25,25,45,68,Rigid sheet casing systems,,
+Ss_25_25_45_68,25,25,45,68,Rigid sheet casing systems,25-85-45/175 Rigid sheet casing systems;,
 Ss_25_25_45_70,25,25,45,70,Rigid sheet wall lining systems,25-85-45/170 Rigid sheet wall lining and casing system;,3.1.1 Wall finishes (default);
 Ss_25_25_45_88,25,25,45,88,Timber board casing systems,25-85-45/185 Timber board casing system;,3.1.1 Wall finishes (default);
 Ss_25_25_45_90,25,25,45,90,Timber board wall lining systems,25-85-45/190 Timber board wall lining system;,3.1.1 Wall finishes (default);
@@ -672,7 +674,8 @@ Ss_30_12_15,30,12,15,,Concrete plank floor systems,,
 Ss_30_12_20,30,12,20,,Deck systems,,
 Ss_30_12_32,30,12,32,,Framed decking systems,,
 Ss_30_12_33,30,12,33,,Framed floor systems,,
-Ss_30_12_34,30,12,34,,Framed mezzanine systems,,
+Ss_30_12_33_50,30,12,33,50,Light steel-framed floor systems,,
+Ss_30_12_33_90,30,12,33,90,Timber-framed floor systems,,
 Ss_30_12_35,30,12,35,,Glass unit masonry floor systems,,
 Ss_30_12_45,30,12,45,,Lift-up concrete plank floor systems,,
 Ss_30_12_50,30,12,50,,Masonry (flat arch) floor systems,,
@@ -871,7 +874,7 @@ Ss_30_40_50_80,30,40,50,80,Stainless steel sheet fully supported roof covering s
 Ss_30_40_50_90,30,40,50,90,Zinc sheet dormer covering systems,,
 Ss_30_40_50_95,30,40,50,95,Zinc sheet fully supported roof covering systems,20-50-50/155 Zinc sheet roof covering system;,2.3.2 Roof coverings (default);
 Ss_30_40_55,30,40,55,,Metal composite panel roof covering systems,,
-Ss_30_40_55_10,30,40,55,10,Built up metal insulating sandwich panel roof systems,20-50-55/155 Metal site assembled insulating sandwich panel roofing system;,2.3.2 Roof coverings (default); 2.3.6 Roof features;
+Ss_30_40_55_10,30,40,55,10,Built up metal insulating sandwich panel roof systems,,
 Ss_30_40_55_50,30,40,55,50,Metal composite panel roofing systems,,
 Ss_30_40_55_54,30,40,55,54,Metal insulating sandwich panel roof systems,20-50-55/150 Metal insulating sandwich panel roofing system;,2.3.2 Roof coverings (default); 2.3.6 Roof features;
 Ss_30_40_55_55,30,40,55,55,Metal semi-composite panel roofing systems,,
@@ -1015,26 +1018,26 @@ Ss_32_46_65_90,32,46,65,90,Tiling and mosaic plaster substrate systems,25-85-60/
 Ss_32_80,32,80,,,Waterproofing and tanking systems,,
 Ss_32_80_03,32,80,03,,Applied waterproofing and tanking systems,,
 Ss_32_80_03_08,32,80,03,08,Bridge deck liquid sprayed systems,20-20-90/115 Liquid (sprayed) system;,
-Ss_32_80_03_10,32,80,03,10,Cementitious proprietary mortar slurry tanking systems,30-70-90/105 Cementitious proprietary mortar slurry tanking system;,2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls; 7.3.1 Damp-proof courses; 1.1.1 Standard foundations; 1.1.3 Lowest floor construction (default);
-Ss_32_80_03_12,32,80,03,12,Cementitious site-batched-and-mixed mortar tanking systems,30-70-90/110 Cementitious site-batched-and-mixed mortar tanking system;,2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls; 7.3.1 Damp-proof courses; 1.1.1 Standard foundations; 1.1.3 Lowest floor construction (default);
-Ss_32_80_03_14,32,80,03,14,Cold-applied liquid waterproofing systems,30-70-90/115 Cold-applied liquid external tanking system;,2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls (default); 7.3.1 Damp-proof courses; 1.1.1 Standard foundations; 1.1.3 Lowest floor construction;
-Ss_32_80_03_16,32,80,03,16,Cold-applied liquid sandwiched tanking systems,30-70-90/120 Cold-applied liquid sandwiched tanking system;,2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls; 7.3.1 Damp-proof courses; 1.1.1 Standard foundations; 1.1.3 Lowest floor construction (default);
-Ss_32_80_03_18,32,80,03,18,Crystallization-active cementitious mortar dry shake tanking systems,30-70-90/125 Crystallization-active cementitious mortar dry shake tanking system;,2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls; 7.3.1 Damp-proof courses; 1.1.1 Standard foundations; 1.1.3 Lowest floor construction (default);
-Ss_32_80_03_20,32,80,03,20,Crystallization-active cementitious mortar slurry tanking systems,30-70-90/130 Crystallization-active cementitious mortar slurry tanking system;,2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls; 7.3.1 Damp-proof courses; 1.1.1 Standard foundations; 1.1.3 Lowest floor construction (default);
-Ss_32_80_03_50,32,80,03,50,Mastic asphalt external tanking systems,30-70-90/155 Mastic asphalt external tanking system;,2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls; 7.3.1 Damp-proof courses; 1.1.1 Standard foundations; 1.1.3 Lowest floor construction (default);
-Ss_32_80_03_52,32,80,03,52,Mastic asphalt sandwiched tanking systems,30-70-90/160 Mastic asphalt sandwiched tanking system;,2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls; 7.3.1 Damp-proof courses; 1.1.1 Standard foundations; 1.1.3 Lowest floor construction (default);
-Ss_32_80_03_54,32,80,03,54,Mastic asphalt tank lining systems,30-70-90/165 Mastic asphalt tank lining system;,"8.6.2 Ancillary drainage systems; 5.14.1 Builder's work in connection with services; 5.3.2 Chemical, toxic and industrial liquid waste drainage; 8.5.2 Ornamental features; 1.1.3 Lowest floor construction (default); 2.2.1 Floors; 8.6.3 External chemical, toxic and industrial liquid waste drainage; 5.13.5 Water features;"
+Ss_32_80_03_10,32,80,03,10,Cementitious proprietary mortar slurry tanking systems,30-70-03/105 Cementitious proprietary mortar slurry tanking system;,2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls; 7.3.1 Damp-proof courses; 1.1.1 Standard foundations; 1.1.3 Lowest floor construction (default);
+Ss_32_80_03_12,32,80,03,12,Cementitious site-batched-and-mixed mortar tanking systems,30-70-03/110 Cementitious site-batched-and-mixed mortar tanking system;,2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls; 7.3.1 Damp-proof courses; 1.1.1 Standard foundations; 1.1.3 Lowest floor construction (default);
+Ss_32_80_03_14,32,80,03,14,Cold-applied liquid waterproofing systems,30-70-03/115 Cold-applied liquid tanking system;,2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls (default); 7.3.1 Damp-proof courses; 1.1.1 Standard foundations; 1.1.3 Lowest floor construction;
+Ss_32_80_03_16,32,80,03,16,Cold-applied liquid sandwiched tanking systems,30-70-03/120 Cold-applied liquid sandwiched tanking system;,2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls; 7.3.1 Damp-proof courses; 1.1.1 Standard foundations; 1.1.3 Lowest floor construction (default);
+Ss_32_80_03_18,32,80,03,18,Crystallization-active cementitious mortar dry shake tanking systems,30-70-03/125 Crystallization-active cementitious mortar dry shake tanking system;,2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls; 7.3.1 Damp-proof courses; 1.1.1 Standard foundations; 1.1.3 Lowest floor construction (default);
+Ss_32_80_03_20,32,80,03,20,Crystallization-active cementitious mortar slurry tanking systems,30-70-03/130 Crystallization-active cementitious mortar slurry tanking system;,2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls; 7.3.1 Damp-proof courses; 1.1.1 Standard foundations; 1.1.3 Lowest floor construction (default);
+Ss_32_80_03_50,32,80,03,50,Mastic asphalt external tanking systems,30-70-03/155 Mastic asphalt external tanking system;,2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls; 7.3.1 Damp-proof courses; 1.1.1 Standard foundations; 1.1.3 Lowest floor construction (default);
+Ss_32_80_03_52,32,80,03,52,Mastic asphalt sandwiched tanking systems,30-70-03/160 Mastic asphalt sandwiched tanking system;,2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls; 7.3.1 Damp-proof courses; 1.1.1 Standard foundations; 1.1.3 Lowest floor construction (default);
+Ss_32_80_03_54,32,80,03,54,Mastic asphalt tank lining systems,30-70-03/165 Mastic asphalt tank lining system;,"8.6.2 Ancillary drainage systems; 5.14.1 Builder's work in connection with services; 5.3.2 Chemical, toxic and industrial liquid waste drainage; 8.5.2 Ornamental features; 1.1.3 Lowest floor construction (default); 2.2.1 Floors; 8.6.3 External chemical, toxic and industrial liquid waste drainage; 5.13.5 Water features;"
 Ss_32_80_03_90,32,80,03,90,Tunnel spray-applied membrane systems,,
 Ss_32_80_79,32,80,79,,Sheeted waterproofing and tanking systems,,
 Ss_32_80_79_08,32,80,79,08,Bridge deck sheet systems,20-20-90/105 Sheet system;,
-Ss_32_80_79_30,32,80,79,30,Fully bonded bitumen membrane external tanking systems,30-70-90/135 Fully-bonded bitumen membrane external tanking system;,2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls; 7.3.1 Damp-proof courses; 1.1.1 Standard foundations; 1.1.3 Lowest floor construction (default);
-Ss_32_80_79_32,32,80,79,32,Fully bonded bitumen membrane sandwiched tanking systems,30-70-90/140 Fully-bonded bitumen membrane sandwiched tanking system;,2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls; 7.3.1 Damp-proof courses; 1.1.1 Standard foundations; 1.1.3 Lowest floor construction (default);
+Ss_32_80_79_30,32,80,79,30,Fully bonded bitumen membrane external tanking systems,30-70-80/135 Fully bonded bitumen membrane tanking system;,2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls; 7.3.1 Damp-proof courses; 1.1.1 Standard foundations; 1.1.3 Lowest floor construction (default);
+Ss_32_80_79_32,32,80,79,32,Fully bonded bitumen membrane sandwiched tanking systems,30-70-80/140 Fully bonded bitumen membrane sandwiched tanking system;,2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls; 7.3.1 Damp-proof courses; 1.1.1 Standard foundations; 1.1.3 Lowest floor construction (default);
 Ss_32_80_79_33,32,80,79,33,Fully bonded flexible sheet membrane waterproofing systems,,
 Ss_32_80_79_36,32,80,79,36,Hard rigid plastics sheet membrane waterproofing systems,30-70-90/190 Hard rigid plastics sheet membrane waterproofing system;,
-Ss_32_80_79_40,32,80,79,40,High-density plastics studded membrane cavity drain waterproofing systems,30-70-90/145 High density plastics studded membrane cavity drain waterproofing system;,2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls (default); 1.1.1 Standard foundations; 1.1.3 Lowest floor construction;
-Ss_32_80_79_45,32,80,79,45,Loose-laid bentonite membrane external or sandwiched tanking systems,30-70-90/150 Loose-laid bentonite membrane external or sandwiched tanking system;,2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls; 7.3.1 Damp-proof courses; 1.1.1 Standard foundations; 1.1.3 Lowest floor construction (default);
-Ss_32_80_79_75,32,80,79,75,Self-adhesive bitumen membrane external tanking systems,30-70-90/175 Self-adhesive bitumen membrane external tanking system;,2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls (default); 7.3.1 Damp-proof courses; 1.1.1 Standard foundations; 1.1.3 Lowest floor construction;
-Ss_32_80_79_77,32,80,79,77,Self-adhesive bitumen membrane sandwiched tanking systems,30-70-90/180 Self-adhesive bitumen membrane sandwiched tanking system;,2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls (default); 7.3.1 Damp-proof courses; 1.1.1 Standard foundations; 1.1.3 Lowest floor construction;
+Ss_32_80_79_40,32,80,79,40,High-density plastics studded membrane cavity drain waterproofing systems,30-70-80/145 High-density plastics-studded membrane cavity drain waterproofing system;,2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls (default); 1.1.1 Standard foundations; 1.1.3 Lowest floor construction;
+Ss_32_80_79_45,32,80,79,45,Loose-laid bentonite membrane external or sandwiched tanking systems,30-70-80/150 Loose-laid bentonite membrane external or sandwiched tanking system;,2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls; 7.3.1 Damp-proof courses; 1.1.1 Standard foundations; 1.1.3 Lowest floor construction (default);
+Ss_32_80_79_75,32,80,79,75,Self-adhesive bitumen membrane external tanking systems,30-70-80/175 Self-adhesive bitumen membrane tanking system;,2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls (default); 7.3.1 Damp-proof courses; 1.1.1 Standard foundations; 1.1.3 Lowest floor construction;
+Ss_32_80_79_77,32,80,79,77,Self-adhesive bitumen membrane sandwiched tanking systems,30-70-80/180 Self-adhesive bitumen membrane sandwiched tanking system;,2.5.2 External enclosing walls below ground level; 1.1.5 Basement retaining walls (default); 7.3.1 Damp-proof courses; 1.1.1 Standard foundations; 1.1.3 Lowest floor construction;
 Ss_32_80_79_84,32,80,79,84,Steel membrane waterproofing systems,30-70-90/185 Steel membrane waterproofing system;,
 Ss_32_80_79_86,32,80,79,86,Structure-supported sheet membrane waterproofing systems,,
 Ss_32_80_79_90,32,80,79,90,Tunnel sheet membrane systems,,
@@ -1090,6 +1093,7 @@ Ss_37_16_02,37,16,02,,Above-ground pool systems,,
 Ss_37_16_05,37,16,05,,Basement water retaining systems,,
 Ss_37_16_10,37,16,10,,Bund systems,,
 Ss_37_16_10_32,37,16,10,32,Fuel tank bund systems,,
+Ss_37_16_10_90,37,16,10,90,Transformer bund systems,,
 Ss_37_16_50,37,16,50,,Metal and plastics water retaining systems,,
 Ss_37_16_65,37,16,65,,Pond and wetland systems,,
 Ss_37_16_65_40,37,16,65,40,Informal pond systems,30-60-60/130 Informal pond system;,8.3.3 Irrigation systems; 8.6.2 Ancillary drainage systems; 8.5.2 Ornamental features (default); 5.13.5 Water features;
@@ -1227,9 +1231,9 @@ Ss_40_15_75_96,40,15,75,96,WC and washbasin combination systems,35-70-70/144 WC 
 Ss_40_15_75_97,40,15,75,97,WC systems,35-70-70/134 WC assembly;,5.1.1 Sanitary appliances (default);
 Ss_40_15_75_98,40,15,75,98,WC wash and dry combination systems,35-70-70/142 WC wash and dry combination assembly;,5.1.1 Sanitary appliances (default);
 Ss_40_15_77,40,15,77,,Sauna FF&E systems,,
-Ss_40_15_77_76,40,15,77,76,Sauna package systems,35-70-70/148 Sauna package assembly;,5.13.3 Specialist mechanical installations (default);
+Ss_40_15_77_76,40,15,77,76,Sauna package systems,35-70-80/148 Sauna package systems;,5.13.3 Specialist mechanical installations (default);
 Ss_40_15_85,40,15,85,,Steam FF&E systems,,
-Ss_40_15_85_85,40,15,85,85,Steam bath package systems,35-70-70/150 Steam bath package assembly;,5.13.3 Specialist mechanical installations (default);
+Ss_40_15_85_85,40,15,85,85,Steam bath package systems,35-70-85/150 Steam bath package systems;,5.13.3 Specialist mechanical installations (default);
 Ss_40_20,40,20,,,"Administrative, commercial and protective service FF&E systems",,
 Ss_40_20_01,40,20,01,,Administrative FF&E systems,,
 Ss_40_20_01_27,40,20,01,27,Embassy FF&E systems,,
@@ -1625,9 +1629,9 @@ Ss_50_75_01_90,50,75,01,90,Tray cascade aeration systems,50-55-05/120 Tray casca
 Ss_50_75_20,50,75,20,,Decanting systems,,
 Ss_50_75_20_96,50,75,20,96,Wastewater decanting systems,50-55-10/101 Wastewater decant system;,
 Ss_50_75_21,50,75,21,,Desludging and sludge handling systems,,
-Ss_50_75_21_20,50,75,21,20,Desludging systems,50-55-15/110 Desludging system;,
 Ss_50_75_21_75,50,75,21,75,Settlement tank gravity desludging systems,50-55-15/110 Desludging system;,
 Ss_50_75_21_80,50,75,21,80,Sludge handling and treatment systems,50-55-70/110 Sludge handling and treatment system;,
+Ss_50_75_21_96,50,75,21,96,Wastewater desludging systems,50-55-15/110 Desludging system;,
 Ss_50_75_34,50,75,34,,Grit treatment and removal systems,,
 Ss_50_75_34_16,50,75,34,16,Cross-flow grit removal systems,50-55-20/105 Crossflow grit removal system;,
 Ss_50_75_34_60,50,75,34,60,Package grit treatment and removal systems,50-55-20/115 Package grit treatment and removal system;,
@@ -1686,15 +1690,44 @@ Ss_55_10_75,55,10,75,,Liquid fuel storage tank systems,,
 Ss_55_10_85,55,10,85,,Liquid fuel treatment systems,,
 Ss_55_10_95,55,10,95,,Liquid fuel well systems,,
 Ss_55_15,55,15,,,"Water extraction, treatment and storage systems",,
+Ss_55_15_50,55,15,50,,Pre-oxidation water treatment systems,,
+Ss_55_15_50_10,55,15,50,10,Chlorine dioxide pre-disinfection systems,,
+Ss_55_15_50_12,55,15,50,12,Chlorine pre-disinfection systems,,
+Ss_55_15_50_14,55,15,50,14,Chloroamine pre-disinfection systems,,
+Ss_55_15_50_16,55,15,50,16,Coagulation systems,,
+Ss_55_15_50_30,55,15,50,30,Flocculation systems,,
+Ss_55_15_50_60,55,15,50,60,Ozone pre-disinfection systems,,
+Ss_55_15_50_64,55,15,50,64,Potassium permanganate pre-disinfection systems,,
+Ss_55_15_55,55,15,55,,Clarification water treatment systems,,
+Ss_55_15_55_21,55,15,55,21,Desludging systems,,
+Ss_55_15_55_23,55,15,55,23,Direct homogenous sand filtration systems,,
+Ss_55_15_55_25,55,15,55,25,Direct twin and triple-layer filtration systems,,
+Ss_55_15_55_30,55,15,55,30,Filtration systems,,
+Ss_55_15_55_32,55,15,55,32,Flotation systems,,
+Ss_55_15_55_46,55,15,55,46,Lamella plate settling systems,,
+Ss_55_15_55_76,55,15,55,76,Sludge blanket settling systems,,
+Ss_55_15_55_78,55,15,55,78,Sludge contact systems,,
+Ss_55_15_55_80,55,15,55,80,Static settling systems,,
+Ss_55_15_60,55,15,60,,Polishing water treatment systems,,
+Ss_55_15_60_08,55,15,60,08,Biological filter systems,,
+Ss_55_15_60_34,55,15,60,34,Granular activated carbon adsorption systems,,
+Ss_55_15_60_60,55,15,60,60,Ozone oxidation systems,,
+Ss_55_15_60_64,55,15,60,64,Powdered activated carbon adsorption systems,,
+Ss_55_15_60_72,55,15,60,72,Resin adsorption systems,,
 Ss_55_15_65,55,15,65,,Potable water storage tank systems,,
 Ss_55_15_65_15,55,15,65,15,Concrete potable water storage systems,55-05-65/130 Precast concrete potable water storage system;,
 Ss_55_15_65_65,55,15,65,65,Plastics potable water storage systems,55-05-65/120 Plastics potable water storage system;,
 Ss_55_15_65_72,55,15,65,72,Reinforced concrete potable water storage systems,55-05-65/101 Reinforced concrete potable water storage system;,
 Ss_55_15_65_84,55,15,65,84,Steel framed potable water storage systems,55-05-65/110 Steel framed potable water storage system;,
-Ss_55_15_70,55,15,70,,Water reservoir systems,,
 Ss_55_15_72,55,15,72,,Water extraction and monitoring systems,,
 Ss_55_15_72_20,55,15,72,20,Water extraction borehole systems,,
 Ss_55_15_72_50,55,15,72,50,Water monitoring borehole systems,,
+Ss_55_15_80,55,15,80,,Disinfection water treatment systems,,
+Ss_55_15_80_10,55,15,80,10,Chlorine dioxide disinfection systems,,
+Ss_55_15_80_12,55,15,80,12,Chlorine disinfection systems,,
+Ss_55_15_80_14,55,15,80,14,Chloroamine disinfection systems,,
+Ss_55_15_80_60,55,15,80,60,Ozone disinfection systems,,
+Ss_55_15_80_90,55,15,80,90,Ultraviolet (UV) radiation disinfection systems,,
 Ss_55_15_85,55,15,85,,Water treatment and purification systems,,
 Ss_55_15_85_08,55,15,85,08,Biological aerated flooded filter systems,55-05-85/115 Biological aerated flooded filter system;,
 Ss_55_15_85_23,55,15,85,23,Dissolved air flotation systems,55-05-85/110 Dissolved air flotation system;,
@@ -2083,15 +2116,20 @@ Ss_75_50_50_45,75,50,50,45,Liquid presence detection and alarm systems,75-65-95/
 Ss_75_50_50_96,75,50,50,96,Water leak detection and alarm systems,75-65-95/120 Water leak detection and alarm system;,5.12.1 Communication systems (default);
 Ss_75_50_60,75,50,60,,Patient monitoring and telemetry systems,,
 Ss_75_60,75,60,,,Environmental safety systems,,
-Ss_75_60_25,75,60,25,,Earthquake warning systems,,
-Ss_75_60_30,75,60,30,,Flood warning systems,,
-Ss_75_60_50,75,60,50,,Meteorological detection and warning systems,,
-Ss_75_60_52,75,60,52,,Meteorological instrumentation systems,,
-Ss_75_60_52_95,75,60,52,95,Weather observation systems,75-75-55/101 Weather observation systems;,
-Ss_75_60_70,75,60,70,,Radiation detection and alarm systems,,
-Ss_75_60_75,75,60,75,,Seismic instrumentation systems,,
-Ss_75_60_90,75,60,90,,Tsunami warning systems,,
-Ss_75_60_95,75,60,95,,Volcanic eruption warning systems,,
+Ss_75_60_45,75,60,45,,Manmade disaster warning systems,,
+Ss_75_60_45_15,75,60,45,15,Chemical spill detection and alarm systems,,
+Ss_75_60_45_60,75,60,45,60,Oil spill detection and alarm systems,,
+Ss_75_60_45_70,75,60,45,70,Radiation detection and alarm systems,,
+Ss_75_60_50,75,60,50,,Meteorological systems,,
+Ss_75_60_50_50,75,60,50,50,Meteorological detection and warning systems,,
+Ss_75_60_50_95,75,60,50,95,Weather observation systems,75-75-55/101 Weather observation systems;,
+Ss_75_60_55,75,60,55,,Natural disaster warning and protection systems,,
+Ss_75_60_55_25,75,60,55,25,Earthquake warning systems,,
+Ss_75_60_55_29,75,60,55,29,Flood resilience systems,,
+Ss_75_60_55_30,75,60,55,30,Flood warning systems,,
+Ss_75_60_55_75,75,60,55,75,Seismic instrumentation systems,,
+Ss_75_60_55_90,75,60,55,90,Tsunami warning systems,,
+Ss_75_60_55_95,75,60,55,95,Volcanic eruption warning systems,,
 Ss_75_70,75,70,,,Control and management systems,,
 Ss_75_70_05,75,70,05,,Airport control systems,,
 Ss_75_70_05_04,75,70,05,04,Automatic aircraft docking systems,,
@@ -2250,6 +2288,10 @@ Ss_80_90_70,80,90,70,,Rocket passenger access systems,,
 Ss_80_90_75,80,90,75,,Ship passenger loading bridge systems,,
 Ss_80_95,80,95,,,Temporary transport systems,,
 Ss_85,85,,,,Process engineering systems,,
+Ss_85_50,85,50,,,Mechanical power systems,,
+Ss_85_50_65,85,50,65,,Power supply systems,,
+Ss_85_50_65_38,85,50,65,38,Hydraulic power systems,,
+Ss_85_50_65_40,85,50,65,40,Internal combustion engine systems,,
 Ss_85_72,85,72,,,Robotic systems,,
 Ss_85_95,85,95,,,Temporary process engineering systems,,
 Ss_90,90,,,,Soft facility management systems,,
