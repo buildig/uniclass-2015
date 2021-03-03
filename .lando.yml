@@ -1,0 +1,16 @@
+name: uniclass
+services:
+  python:
+    type: python
+    build_as_root:
+      - pip install csvkit
+tooling:
+  convert:
+    description: Converts the xlsx files to csv.
+    cmd: 
+      - python: /app/convert.sh
+  openssl:
+    description: Upgrades OpenSSL.
+    cmd: 
+      - python: /app/openssl.sh
+    user: root

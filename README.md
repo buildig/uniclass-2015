@@ -40,13 +40,10 @@ Codes within the classification system consists of four or five pairs of charact
 To download Uniclass 2015 Excel files from NBS and convert to CSV format:
 
 1. Update Uniclass [file version numbers](convert.sh#L10-L22) to the [latest](https://www.thenbs.com/our-tools/uniclass-2015)
-2. Run this script (requires [in2csv](https://csvkit.readthedocs.io/en/1.0.3/scripts/in2csv.html)):
-
-```sh
-php -r "readfile('https://raw.githubusercontent.com/buildig/uniclass-2015/main/convert.sh');" > convert.sh
-chmod +x convert.sh
-./convert.sh
-```
+2. Install [Lando](https://docs.lando.dev/basics/installation.html).
+3. Run `lando start`.
+4. Run `lando openssl` to upgrade default OpenSSL.
+5. Run `lando convert`.
 
 License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 
