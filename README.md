@@ -8,19 +8,19 @@ Uniclass 2015 is divided into a set of tables which can be used to categorize in
 
 ## Tables
 
-**Last created from the 2021-04 dataset.**
+**Last created from the 2021-07 dataset.**
 
 Table name / Description | Filename | Version, Date
 --- | --- | ---
-Co - Complexes | [Uniclass2015_Co.csv](uniclass2015/Uniclass2015_Co.csv) | v1.14, Published April 2021
-En - Entities | [Uniclass2015_En.csv](uniclass2015/Uniclass2015_En.csv) | v1.20, Published April 2021
-Ac - Activities | [Uniclass2015_Ac.csv](uniclass2015/Uniclass2015_Ac.csv) | v1.14, Published April 2021
-SL - Spaces/ locations | [Uniclass2015_SL.csv](uniclass2015/Uniclass2015_SL.csv) | v1.20, Published April 2021
-EF - Elements/ functions | [Uniclass2015_EF.csv](uniclass2015/Uniclass2015_EF.csv) | v1.9, Published April 2021
-Ss - Systems | [Uniclass2015_Ss.csv](uniclass2015/Uniclass2015_Ss.csv) | v1.22, Published April 2021
-Pr - Products | [Uniclass2015_Pr.csv](uniclass2015/Uniclass2015_Pr.csv) | v1.22, Published April 2021
-TE - Tools and Equipment | [Uniclass2015_TE.csv](uniclass2015/Uniclass2015_TE.csv) | v1.8, Published January 2021
-PM - Project Management | [Uniclass2015_PM.csv](uniclass2015/Uniclass2015_PM.csv) | v1.12, Published April 2021
+Co - Complexes | [Uniclass2015_Co.csv](uniclass2015/Uniclass2015_Co.csv) | v1.13, Published April 2021
+En - Entities | [Uniclass2015_En.csv](uniclass2015/Uniclass2015_En.csv) | v1.21, Published July 2021
+Ac - Activities | [Uniclass2015_Ac.csv](uniclass2015/Uniclass2015_Ac.csv) | v1.15, Published July 2021
+SL - Spaces/ locations | [Uniclass2015_SL.csv](uniclass2015/Uniclass2015_SL.csv) | v1.21, Published July 2021
+EF - Elements/ functions | [Uniclass2015_EF.csv](uniclass2015/Uniclass2015_EF.csv) | v1.10, Published July 2021
+Ss - Systems | [Uniclass2015_Ss.csv](uniclass2015/Uniclass2015_Ss.csv) | v1.23, Published July 2021
+Pr - Products | [Uniclass2015_Pr.csv](uniclass2015/Uniclass2015_Pr.csv) | v1.23, Published July 2021
+TE - Tools and Equipment | [Uniclass2015_TE.csv](uniclass2015/Uniclass2015_TE.csv) | v1.9, Published July 2021
+PM - Project Management | [Uniclass2015_PM.csv](uniclass2015/Uniclass2015_PM.csv) | v1.13, Published July 2021
 Zz - CAD | [Uniclass2015_Zz.csv](uniclass2015/Uniclass2015_Zz.csv) | v1.0, Published July 2015
 FI - Form of Information | [Uniclass2015_FI.csv](uniclass2015/Uniclass2015_FI.csv) | v1.4, Published January 2021
 Ro - Roles | [Uniclass2015_Ro.csv](uniclass2015/Uniclass2015_Ro.csv) | v1.5, Published April 2021
