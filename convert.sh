@@ -2,8 +2,8 @@
 set -exu
 
 URL="https://www.thenbs.com/-/media/uk/files/xls/uniclass/2021-04/uniclass2015"
-# Remove old *.csv files
 rm *.csv
+mkdir -p uniclass2015
 cp -a Uniclass2015_Tables.csv.txt Uniclass2015_Tables.csv
 
 # Download April 2021 version of xlsx files
@@ -41,5 +41,6 @@ Uniclass2015_SL.csv Uniclass2015_Ss.csv Uniclass2015_TE.csv Uniclass2015_Zz.csv 
   done
 ) > Uniclass2015.csv
 
+mv *.csv uniclass2015
 # Remove *.xlsx files
 rm *.xlsx
