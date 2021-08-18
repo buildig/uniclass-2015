@@ -4,6 +4,7 @@ services:
     type: python
     build_as_root:
       - pip install csvkit
+      - /app/openssl.sh
 tooling:
   convert:
     description: Converts the xlsx files to csv.
