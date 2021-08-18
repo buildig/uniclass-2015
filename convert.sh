@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -exu
 URL="https://www.thenbs.com/-/media/uk/files/xls/uniclass/2021-07/uniclass2015"
-rm *.csv
+rm -rf uniclass2015
 mkdir -p uniclass2015
 cp -a Uniclass2015_Tables.csv.txt Uniclass2015_Tables.csv
 

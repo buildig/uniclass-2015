@@ -115,6 +115,7 @@ Ac_15_10_32,15,10,32,,Geophysical surveying,10-10-75/135 Geophysical survey;,11.
 Ac_15_10_34,15,10,34,,Ground-penetrating radar surveying,,
 Ac_15_10_70,15,10,70,,Radio frequency location surveying,,
 Ac_15_10_80,15,10,80,,Satellite surveying,,
+Ac_15_10_88,15,10,88,,Thermal imaging surveying,,
 Ac_15_10_90,15,10,90,,Trial holes surveying,,
 Ac_15_15,15,15,,,Building services condition surveying,10-20-75/110 Engineering services survey;,11.1.1 Project team and design team consultants' fees (default);
 Ac_15_15_06,15,15,06,,Below-ground services surveying,10-10-95/110 Underground services survey;,11.1.2 Other consultants' fees (default);
@@ -691,7 +692,9 @@ Ac_65_65,65,65,,,Ventilation and air conditioning systems commissioning,,
 Ac_65_65_02,65,65,02,,Air systems commissioning,,
 Ac_70,70,,,,Electrical activities,,
 Ac_70_60,70,60,,,Electrical installations testing,,
+Ac_70_60_26,70,60,26,,Electrical equipment inspection and testing,,
 Ac_70_60_28,70,60,28,,Emergency lighting installations testing,,
+Ac_70_60_35,70,60,35,,Hazardous areas electrical wiring inspection and testing,,
 Ac_70_60_37,70,60,37,,High voltage electrical installations testing,,
 Ac_70_60_46,70,60,46,,Lighting installations testing,,
 Ac_70_60_47,70,60,47,,Lightning protection installations testing,,
