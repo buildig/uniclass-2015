@@ -476,14 +476,14 @@ Ss_25_20_72,25,20,72,,Sheet cladding systems,
 Ss_25_20_72_72,25,20,72,72,Rigid sheet cladding systems,2.5.1 External enclosing walls above ground level (default);
 Ss_25_20_85,25,20,85,,Stone cladding systems,
 Ss_25_20_85_50,25,20,85,50,Manufactured stone cladding systems,
-Ss_25_20_85_55,25,20,85,55,Natural stone cladding systems,2.5.1 External enclosing walls above ground level (default); 3.1.1 Wall finishes;
+Ss_25_20_85_55,25,20,85,55,Natural stone slab cladding systems,2.5.1 External enclosing walls above ground level (default); 3.1.1 Wall finishes;
 Ss_25_20_90,25,20,90,,Unit cladding systems,
 Ss_25_20_90_13,25,20,90,13,Clay plain tile cladding systems,2.5.1 External enclosing walls above ground level (default);
 Ss_25_20_90_15,25,20,90,15,Concrete plain tile cladding systems,2.5.1 External enclosing walls above ground level (default);
 Ss_25_20_90_30,25,20,90,30,Fibre cement slate cladding systems,2.5.1 External enclosing walls above ground level (default);
 Ss_25_20_90_50,25,20,90,50,Metal tile cladding systems,2.5.1 External enclosing walls above ground level (default);
 Ss_25_20_90_55,25,20,90,55,Natural slate cladding systems,2.5.1 External enclosing walls above ground level (default);
-Ss_25_20_90_65,25,20,90,65,Precast concrete cladding systems,
+Ss_25_20_90_65,25,20,90,65,Precast concrete panel cladding systems,
 Ss_25_20_90_95,25,20,90,95,Wood shingle or shake cladding systems,2.5.1 External enclosing walls above ground level (default);
 Ss_25_25,25,25,,,Wall lining systems,
 Ss_25_25_05,25,25,05,,Acoustic panel systems,
@@ -539,9 +539,8 @@ Ss_25_30_20_93,25,30,20,93,Up-and-over doorset systems,
 Ss_25_30_29,25,30,29,,Fire and smoke curtain systems,
 Ss_25_30_29_30,25,30,29,30,Fire curtain systems,
 Ss_25_30_29_80,25,30,29,80,Smoke curtain systems,
-Ss_25_30_95,25,30,95,,Window systems,
-Ss_25_30_95_26,25,30,95,26,External window systems,2.6.1 External windows (default);
-Ss_25_30_95_41,25,30,95,41,Internal window systems,
+Ss_25_30_95,25,30,95,,Window and window walling systems,
+Ss_25_30_95_95,25,30,95,95,Window systems,2.6.1 External windows (default);
 Ss_25_30_95_96,25,30,95,96,Window walling systems,
 Ss_25_32,25,32,,,Gate and access control systems,
 Ss_25_32_35,25,32,35,,Gate systems,
@@ -796,14 +795,14 @@ Ss_30_25_10_10,30,25,10,10,Board suspended ceiling systems,
 Ss_30_25_10_26,30,25,10,26,External ceiling systems,
 Ss_30_25_10_28,30,25,10,28,External soffit systems,
 Ss_30_25_10_35,30,25,10,35,Gypsum board suspended ceiling systems,3.3.3 Demountable suspended ceilings; 3.3.2 False ceilings (default);
-Ss_30_25_10_47,30,25,10,47,Linear ceiling lining systems,
+Ss_30_25_10_52,30,25,10,52,Monolithic suspended ceiling systems,
 Ss_30_25_10_80,30,25,10,80,Soffit lining and beam casing systems,2.1.1 Steel frames; 3.3.2 False ceilings; 3.3.1 Finishes to ceilings (default);
 Ss_30_25_22,30,25,22,,Demountable suspended ceiling systems,
 Ss_30_25_22_01,30,25,22,01,Acoustic baffle suspended ceiling systems,3.3.3 Demountable suspended ceilings; 3.3.2 False ceilings (default);
 Ss_30_25_22_30,30,25,22,30,Fabric membrane ceiling systems,3.3.2 False ceilings (default);
-Ss_30_25_22_52,30,25,22,52,Monolithic suspended ceiling systems,
+Ss_30_25_22_47,30,25,22,47,Linear ceiling lining systems,
+Ss_30_25_22_51,30,25,22,51,Modular suspended ceiling systems,3.3.3 Demountable suspended ceilings; 3.3.2 False ceilings (default);
 Ss_30_25_22_70,30,25,22,70,Raft or island suspended ceiling systems,3.3.3 Demountable suspended ceilings; 3.3.2 False ceilings (default);
-Ss_30_25_22_90,30,25,22,90,Unit/ modular suspended ceiling systems,3.3.3 Demountable suspended ceilings; 3.3.2 False ceilings (default);
 Ss_30_30,30,30,,,Roof and floor opening systems,
 Ss_30_30_15,30,30,15,,Concrete roof and floor glazing systems,
 Ss_30_30_15_42,30,30,15,42,In situ concrete roof and floor glazing systems,"2.3.1 Roof structure; 2.2.2 Balconies; 2.2.1 Floors; 2.3.5 Rooflights, skylights and openings (default);"
@@ -938,22 +937,22 @@ Ss_30_47,30,47,,,Ceiling and soffit covering and finishing systems,
 Ss_30_60,30,60,,,"Roof, floor and paving accessory systems",
 Ss_30_60_30,30,60,30,,Floor feature systems,
 Ss_30_60_30_26,30,60,30,26,Entrance matting systems,
+Ss_30_60_45,30,60,45,,Kerb and traffic separation systems,
+Ss_30_60_45_03,30,60,45,03,Asphalt kerb systems,
+Ss_30_60_45_15,30,60,45,15,Concrete kerb systems,
+Ss_30_60_45_20,30,60,45,20,Demarcation paving systems,"8.2.1 Roads, paths and pavings (default);"
+Ss_30_60_45_45,30,60,45,45,Light-duty kerb systems,"8.2.1 Roads, paths and pavings (default);"
+Ss_30_60_45_55,30,60,45,55,Multi unit traffic calming systems,"8.2.1 Roads, paths and pavings (default); 8.5.1 Site/street furniture and equipment;"
+Ss_30_60_45_65,30,60,45,65,Precast kerb systems,
+Ss_30_60_45_80,30,60,45,80,Single unit traffic calming systems,"8.2.1 Roads, paths and pavings (default); 8.5.1 Site/street furniture and equipment;"
+Ss_30_60_45_85,30,60,45,85,Traffic kerb systems,"8.2.1 Roads, paths and pavings (default);"
+Ss_30_60_45_86,30,60,45,86,Traffic separation systems,"8.2.1 Roads, paths and pavings (default);"
 Ss_30_60_70,30,60,70,,Roof feature systems,
 Ss_30_75,30,75,,,"Roof, floor and paving drainage systems",
 Ss_30_75_40,30,75,40,,Surface drainage channel systems,
 Ss_30_75_40_30,30,75,40,30,Footway grating systems,8.6.1 Surface water and foul water drainage (default); 2.2.3 Drainage to balconies; 2.3.4 Roof drainage;
 Ss_30_75_40_50,30,75,40,50,Multi unit surface drainage channel systems,8.6.1 Surface water and foul water drainage (default); 2.2.3 Drainage to balconies; 2.3.4 Roof drainage;
 Ss_30_75_40_75,30,75,40,75,Single unit surface drainage channel systems,8.6.1 Surface water and foul water drainage (default); 2.2.3 Drainage to balconies; 2.3.4 Roof drainage;
-Ss_30_75_45,30,75,45,,Kerb and traffic separation systems,
-Ss_30_75_45_03,30,75,45,03,Asphalt kerb systems,
-Ss_30_75_45_15,30,75,45,15,Concrete kerb systems,
-Ss_30_75_45_20,30,75,45,20,Demarcation paving systems,"8.2.1 Roads, paths and pavings (default);"
-Ss_30_75_45_45,30,75,45,45,Light-duty kerb systems,"8.2.1 Roads, paths and pavings (default);"
-Ss_30_75_45_55,30,75,45,55,Multi unit traffic calming systems,"8.2.1 Roads, paths and pavings (default); 8.5.1 Site/street furniture and equipment;"
-Ss_30_75_45_65,30,75,45,65,Precast kerb systems,
-Ss_30_75_45_80,30,75,45,80,Single unit traffic calming systems,"8.2.1 Roads, paths and pavings (default); 8.5.1 Site/street furniture and equipment;"
-Ss_30_75_45_85,30,75,45,85,Traffic kerb systems,"8.2.1 Roads, paths and pavings (default);"
-Ss_30_75_45_86,30,75,45,86,Traffic separation systems,"8.2.1 Roads, paths and pavings (default);"
 Ss_30_75_50,30,75,50,,Metal sheet gutter lining systems,
 Ss_30_75_50_05,30,75,50,05,Aluminium sheet gutter lining systems,2.3.4 Roof drainage (default);
 Ss_30_75_50_11,30,75,50,11,Carbon steel sheet gutter lining systems,
@@ -1202,9 +1201,15 @@ Ss_40_15,40,15,,,"General fittings, furnishings and equipment (FF&E) systems",
 Ss_40_15_25,40,15,25,,Catering FF&E systems,
 Ss_40_15_25_15,40,15,25,15,Commercial catering FF&E systems,"4.1.3 Special purpose fittings, furnishings and equipment (default);"
 Ss_40_15_25_20,40,15,25,20,Domestic catering FF&E systems,4.1.2 Domestic kitchen fittings and equipment (default);
-Ss_40_15_35,40,15,35,,General and joinery FF&E systems,
-Ss_40_15_35_35,40,15,35,35,General FF&E systems,"4.1.1 General fittings, furnishings and equipment (default);"
-Ss_40_15_35_50,40,15,35,50,Minor joinery systems,"4.1.1 General fittings, furnishings and equipment (default);"
+Ss_40_15_35,40,15,35,,General FF&E systems,
+Ss_40_15_35_19,40,15,35,19,Curtain and blind systems,
+Ss_40_15_35_29,40,15,35,29,Fireplace furniture systems,
+Ss_40_15_35_31,40,15,35,31,Free-standing furniture systems,
+Ss_40_15_35_35,40,15,35,35,General fixtures systems,"4.1.1 General fittings, furnishings and equipment (default);"
+Ss_40_15_35_80,40,15,35,80,"Shelving, storage and enclosures systems",
+Ss_40_15_44,40,15,44,,Joinery FF&E systems,
+Ss_40_15_44_50,40,15,44,50,Minor joinery systems,"4.1.1 General fittings, furnishings and equipment (default);"
+Ss_40_15_44_90,40,15,44,90,"Trims, guards and finishing systems",
 Ss_40_15_46,40,15,46,,Laundry FF&E systems,
 Ss_40_15_46_15,40,15,46,15,Commercial laundry FF&E systems,"4.1.3 Special purpose fittings, furnishings and equipment (default);"
 Ss_40_15_46_20,40,15,46,20,Domestic laundry FF&E systems,"4.1.3 Special purpose fittings, furnishings and equipment (default);"
@@ -1238,7 +1243,6 @@ Ss_40_15_85,40,15,85,,Steam bath FF&E systems,
 Ss_40_15_85_85,40,15,85,85,Steam bath package systems,5.13.3 Specialist mechanical installations (default);
 Ss_40_20,40,20,,,"Administrative, commercial and protective service FF&E systems",
 Ss_40_20_01,40,20,01,,Administrative FF&E systems,
-Ss_40_20_01_27,40,20,01,27,Embassy FF&E systems,
 Ss_40_20_01_60,40,20,01,60,Office FF&E systems,"4.1.1 General fittings, furnishings and equipment (default);"
 Ss_40_20_01_71,40,20,01,71,Reception FF&E systems,
 Ss_40_20_15,40,20,15,,Commercial FF&E systems,
@@ -1823,9 +1827,9 @@ Ss_55_20_60_15,55,20,60,15,Compressed air supply systems,5.13.1 Specialist piped
 Ss_55_20_60_33,55,20,60,33,Gas vaporizing systems,
 Ss_55_20_85,55,20,85,,Specialist and high purity gas supply systems,
 Ss_55_30,55,30,,,Fire-extinguishing systems,
-Ss_55_30_30,55,30,30,,Foam systems,
+Ss_55_30_30,55,30,30,,Foam fire-extinguishing and fire-suppression systems,
 Ss_55_30_30_31,55,30,30,31,Foam fire-extinguishing systems,5.11.1 Fire fighting systems (default);
-Ss_55_30_35,55,30,35,,Gaseous systems,
+Ss_55_30_35,55,30,35,,Gaseous fire-extinguishing systems,
 Ss_55_30_35_10,55,30,35,10,Carbon dioxide fire-extinguishing systems,5.11.2 Fire suppression systems;
 Ss_55_30_35_35,55,30,35,35,Halocarbon gas total flooding fire-extinguishing systems,5.11.2 Fire suppression systems (default);
 Ss_55_30_35_40,55,30,35,40,Inert gas total flooding fire-extinguishing systems,5.11.2 Fire suppression systems (default);
@@ -1845,7 +1849,7 @@ Ss_55_30_96_95,55,30,96,95,Water cannon firefighting systems,
 Ss_55_30_96_97,55,30,96,97,Wet riser systems,5.11.1 Fire fighting systems (default);
 Ss_55_30_98,55,30,98,,Water fire suppression systems,
 Ss_55_30_98_21,55,30,98,21,Deluge systems,5.11.2 Fire suppression systems (default);
-Ss_55_30_98_23,55,30,98,23,Domestic sprinkler systems,
+Ss_55_30_98_23,55,30,98,23,Domestic and residential sprinkler systems,
 Ss_55_30_98_70,55,30,98,70,Residential water mist systems,
 Ss_55_30_98_85,55,30,98,85,Sprinkler systems,5.11.2 Fire suppression systems (default);
 Ss_55_30_98_96,55,30,98,96,Water mist systems,5.11.2 Fire suppression systems (default);
@@ -2011,7 +2015,9 @@ Ss_65_80_05_10,65,80,05,10,Centralized all-air conditioning systems,5.6.7 Centra
 Ss_65_80_05_30,65,80,05,30,Fan coil unit air conditioning systems,5.6.3 Central cooling (default); 5.6.1 Central heating; 5.6.5 Central heating and cooling;
 Ss_65_80_05_40,65,80,05,40,Induction unit air conditioning systems,5.6.7 Central air conditioning (default);
 Ss_65_80_15,65,80,15,,Controlled environment systems,
+Ss_65_80_15_14,65,80,15,14,Chilled air aisle containment systems,
 Ss_65_80_15_30,65,80,15,30,Fan wall systems,
+Ss_65_80_15_36,65,80,15,36,Hot air aisle containment systems,
 Ss_65_80_45,65,80,45,,Local air conditioning systems,
 Ss_65_80_45_25,65,80,45,25,Evaporative cooling systems,5.6.4 Local cooling (default);
 Ss_65_80_45_48,65,80,45,48,Local underfloor air conditioning systems,5.6.8 Local air conditioning (default);
@@ -2029,7 +2035,7 @@ Ss_70_10_70_33,70,10,70,33,Geothermal power generation systems,
 Ss_70_10_70_35,70,10,70,35,Grid-connected photovoltaic systems,5.8.5 Local electricity generation systems (default);
 Ss_70_10_70_36,70,10,70,36,Hydroelectric power generation systems,
 Ss_70_10_70_80,70,10,70,80,Small-scale wave and tidal power generation systems,
-Ss_70_10_70_82,70,10,70,82,Small-scale wind power generation systems,5.8.5 Local electricity generation systems (default);
+Ss_70_10_70_82,70,10,70,82,Small-scale wind-powered electricity generation systems,5.8.5 Local electricity generation systems (default);
 Ss_70_10_70_85,70,10,70,85,Stand-alone photovoltaic systems,5.8.5 Local electricity generation systems (default);
 Ss_70_10_70_95,70,10,70,95,Water mill systems,
 Ss_70_10_70_97,70,10,70,97,Water turbine systems,
@@ -2072,15 +2078,18 @@ Ss_70_80_01_87,70,80,01,87,Taxiway lighting systems,
 Ss_70_80_25,70,80,25,,External lighting systems,
 Ss_70_80_25_05,70,80,25,05,Amenity lighting systems,8.7.9 External street lighting systems (default);
 Ss_70_80_25_59,70,80,25,59,Outdoor workplace lighting systems,
+Ss_70_80_25_65,70,80,25,65,Platform lighting systems,
 Ss_70_80_25_70,70,80,25,70,Roadway lighting systems,8.7.9 External street lighting systems (default);
+Ss_70_80_25_80,70,80,25,80,Shaft lighting systems,
 Ss_70_80_25_90,70,80,25,90,Tunnel lighting systems,
-Ss_70_80_33,70,80,33,,General space lighting systems,
-Ss_70_80_33_12,70,80,33,12,Central battery supplied emergency lighting systems,5.8.3 Lighting installations (default);
+Ss_70_80_33,70,80,33,,General lighting systems,
+Ss_70_80_33_12,70,80,33,12,Central battery-supplied emergency lighting systems,5.8.3 Lighting installations (default);
 Ss_70_80_33_30,70,80,33,30,Fibre-optic lighting systems,
 Ss_70_80_33_33,70,80,33,33,General lighting systems with prefabricated wiring,5.8.3 Lighting installations (default);
 Ss_70_80_33_35,70,80,33,35,Hardwired general lighting systems,5.8.3 Lighting installations (default);
 Ss_70_80_33_88,70,80,33,88,Theatrical/ stage lighting systems,
-Ss_70_80_33_92,70,80,33,92,Underwater lighting systems,5.8.4 Specialist lighting installations (default); 8.7.9 External street lighting systems;
+Ss_70_80_85,70,80,85,,Submersible lighting systems,
+Ss_70_80_85_92,70,80,85,92,Underwater lighting systems,5.8.4 Specialist lighting installations (default); 8.7.9 External street lighting systems;
 Ss_70_95,70,95,,,Temporary electrical systems,
 Ss_75,75,,,,"Communications, security, safety, control and protection systems",
 Ss_75_10,75,10,,,Communications systems,
@@ -2242,6 +2251,8 @@ Ss_75_70_54_60,75,70,54,60,Passive water monitoring systems,
 Ss_75_70_54_75,75,70,54,75,Supervisory control and data acquisition (SCADA) systems,
 Ss_75_70_54_88,75,70,54,88,Telemetry systems,
 Ss_75_70_54_95,75,70,54,95,Water metering systems,8.7.1 Water mains supply; 5.4.1 Mains water supply (default);
+Ss_75_70_54_96,75,70,54,96,Water quality monitoring systems,
+Ss_75_70_54_97,75,70,54,97,Wastewater quality monitoring systems,
 Ss_75_70_85,75,70,85,,Structural monitoring systems,
 Ss_75_70_85_18,75,70,85,18,Crack gauge monitoring systems,
 Ss_75_70_85_27,75,70,85,27,Electrolevel monitoring systems,
